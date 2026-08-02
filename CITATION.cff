@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "Please cite the associated article and the archived Zenodo release."
+title: "glioma-cnv-single-cell-atlas"
+type: software
+authors:
+  - family-names: "Ostovar-Abarghouei"
+    given-names: "Amirmohammad"
+  - family-names: "Asadi"
+    given-names: "Asadollah"
+  - family-names: "Shamsazar"
+    given-names: "Ali"
+  - family-names: "Abdolmaleki"
+    given-names: "Arash"
+  - family-names: "Hedayat-Evright"
+    given-names: "Nemat"
+version: 1.0.0
+repository-code: "https://github.com/CPFeX/glioma-cnv-single-cell-atlas"
+license: MIT
+keywords:
+  - glioma
+  - glioblastoma
+  - single-cell RNA sequencing
+  - copy-number variation
+  - scVI
+  - pseudobulk
+  - ligand-receptor communication
