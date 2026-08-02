@@ -1,0 +1,250 @@
+[
+  {
+    "notebook": "01_merge_harmonized_datasets.ipynb",
+    "original": "01_merging_core_datasets_fullgene_harmonized_corrected.ipynb",
+    "code_cells": 12,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "02_standardize_metadata.ipynb",
+    "original": "02_attach_metadata_to_merged_fullgene_corrected.ipynb",
+    "code_cells": 11,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "03_select_hvg8000.ipynb",
+    "original": "03_HVG_core_4datasets_HVG8000_lowmem_Xcounts_corrected.ipynb",
+    "code_cells": 6,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "04_train_scvi.ipynb",
+    "original": "04_scVI_setup_HVG8000_lowmem_corrected.ipynb",
+    "code_cells": 9,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "05_select_leiden_resolution.ipynb",
+    "original": "05_clustering_resolution_QC_HVG8000_lowmem.ipynb",
+    "code_cells": 11,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "06_transfer_scvi_to_fullgene.ipynb",
+    "original": "06_transfer_HVG8000_scVI_clusters_to_fullgene_corrected.ipynb",
+    "code_cells": 13,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "07_marker_de.ipynb",
+    "original": "07_marker_DE_pre_annotation_HVG8000_r0_6_fullgene_v3_fixed_marker_panel.ipynb",
+    "code_cells": 16,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "08_marker_annotation.ipynb",
+    "original": "08_marker_based_annotation_HVG8000_r0_6_fullgene.ipynb",
+    "code_cells": 13,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "09_annotation_bias_qc.ipynb",
+    "original": "09_annotation_bias_composition_QC_HVG8000_r0_6.ipynb",
+    "code_cells": 11,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "10_prepare_infercnvpy_inputs.ipynb",
+    "original": "10_prepare_CNV_inputs_HVG8000_r0_6_fullgene.ipynb",
+    "code_cells": 10,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "11_run_infercnvpy.ipynb",
+    "original": "11_run_infercnvpy_CNV_HVG8000_r0_6_strategies_v2_fixed_cnv_columns.ipynb",
+    "code_cells": 9,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "12_infercnvpy_qc.ipynb",
+    "original": "12_CNV_visual_QC_and_interpretation_HVG8000_r0_6.ipynb",
+    "code_cells": 11,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "13_prepare_copykat_microbatches.ipynb",
+    "original": "13_prepare_CopyKAT_microbatch_all_cells_HVG8000_r0_6.ipynb",
+    "code_cells": 6,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "14_integrate_copykat.ipynb",
+    "original": "14_integrate_CopyKAT_microbatch_predictions_HVG8000_r0_6.ipynb",
+    "code_cells": 11,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "15_build_cnv_consensus.ipynb",
+    "original": "15_final_CopyKAT_marker_CNV_consensus_HVG8000_r0_6.ipynb",
+    "code_cells": 9,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "16_validate_cnv_consensus.ipynb",
+    "original": "16_final_visual_QC_and_statistical_validation_CNV_HVG8000_r0_6.ipynb",
+    "code_cells": 9,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "17_finalize_annotation.ipynb",
+    "original": "17_final_annotation_figure_consolidation_HVG8000_r0_6.ipynb",
+    "code_cells": 13,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "18_differential_abundance.ipynb",
+    "original": "18_differential_abundance_composition_HVG8000_r0_6.ipynb",
+    "code_cells": 16,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "19_correct_da_binomial_glm.ipynb",
+    "original": "18b_fix_DA_binomial_GLM_HVG8000_r0_6.ipynb",
+    "code_cells": 4,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "20_define_malignant_states.ipynb",
+    "original": "19_malignant_state_composition_program_scoring_HVG8000_r0_6.ipynb",
+    "code_cells": 17,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "21_malignant_state_pseudobulk.ipynb",
+    "original": "20_malignant_state_pseudobulk_DE_HVG8000_r0_6.ipynb",
+    "code_cells": 13,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "22_condition_pseudobulk.ipynb",
+    "original": "21_condition_specific_malignant_pseudobulk_DE_HVG8000_r0_6_v3_fixed_duplicate_state_column.ipynb",
+    "code_cells": 12,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "23_curated_enrichment.ipynb",
+    "original": "22_functional_enrichment_pathway_interpretation_HVG8000_r0_6.ipynb",
+    "code_cells": 10,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "24_gprofiler_validation.ipynb",
+    "original": "22b_online_enrichment_validation_HVG8000_r0_6_v2_no_pip_direct_api.ipynb",
+    "code_cells": 4,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "25_prepare_liana_inputs.ipynb",
+    "original": "23_prepare_LIANA_CCC_inputs_HVG8000_r0_6.ipynb",
+    "code_cells": 11,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "26_run_liana_global.ipynb",
+    "original": "24_run_LIANA_global_main_HVG8000_r0_6.ipynb",
+    "code_cells": 15,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "27_clean_liana_global_labels.ipynb",
+    "original": "24b_fix_LIANA_global_main_labels_and_axes_HVG8000_r0_6_v2_fixed_source_clean.ipynb",
+    "code_cells": 10,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "28_run_liana_condition_specific.ipynb",
+    "original": "25_run_LIANA_condition_specific_HVG8000_r0_6_v2_fixed_use_raw_false.ipynb",
+    "code_cells": 13,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "29_prioritize_liana_axes.ipynb",
+    "original": "26_LIANA_final_prioritized_axes_and_figures_HVG8000_r0_6.ipynb",
+    "code_cells": 10,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "30_squidpy_lr_support.ipynb",
+    "original": "27_squidpy_LR_validation_top_LIANA_axes_HVG8000_r0_6.ipynb",
+    "code_cells": 11,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  },
+  {
+    "notebook": "31_cellrank_exploratory.ipynb",
+    "original": "GBM_CellRank_malignant_fate_mapping_v2_MEMORY_SAFE.ipynb",
+    "code_cells": 15,
+    "syntax_errors": [],
+    "contains_machine_specific_path": false,
+    "contains_enrichr_reference": false
+  }
+]

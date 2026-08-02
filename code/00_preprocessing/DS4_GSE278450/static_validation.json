@@ -1,0 +1,17 @@
+[
+  {
+    "file": "00a_ds4_build_raw_anndata.ipynb",
+    "code_cells": 7,
+    "syntax_errors": []
+  },
+  {
+    "file": "00b_ds4_quality_control.ipynb",
+    "code_cells": 10,
+    "syntax_errors": []
+  },
+  {
+    "file": "00c_ds4_doublet_diagnostic.ipynb",
+    "code_cells": 9,
+    "syntax_errors": []
+  }
+]

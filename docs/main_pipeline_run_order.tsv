@@ -1,0 +1,32 @@
+order	notebook	purpose	special_requirement
+1	01_merge_harmonized_datasets.ipynb	Harmonize gene identifiers and merge the four post-QC datasets.	
+2	02_standardize_metadata.ipynb	Standardize sample, patient, dataset, and condition metadata.	
+3	03_select_hvg8000.ipynb	Select 8,000 highly variable genes while preserving raw counts.	
+4	04_train_scvi.ipynb	Train scVI and calculate the latent representation.	
+5	05_select_leiden_resolution.ipynb	Evaluate Leiden resolutions and select the r=0.6 solution.	
+6	06_transfer_scvi_to_fullgene.ipynb	Transfer the scVI embedding and cluster labels to the full-gene object.	
+7	07_marker_de.ipynb	Calculate cluster marker genes before annotation.	
+8	08_marker_annotation.ipynb	Assign marker-supported draft cell annotations.	
+9	09_annotation_bias_qc.ipynb	Audit annotation composition and candidate CNV-reference groups.	
+10	10_prepare_infercnvpy_inputs.ipynb	Prepare ordered-gene inputs for infercnvpy strategies.	
+11	11_run_infercnvpy.ipynb	Run infercnvpy across the predefined robustness strategies.	
+12	12_infercnvpy_qc.ipynb	Summarize and visualize infercnvpy results.	
+13	13_prepare_copykat_microbatches.ipynb	Prepare CopyKAT microbatches and generate R runner scripts.	Run generated R/CopyKAT scripts before notebook 14.
+14	14_integrate_copykat.ipynb	Integrate completed CopyKAT microbatch predictions.	Requires completed CopyKAT microbatch predictions.
+15	15_build_cnv_consensus.ipynb	Combine CopyKAT, infercnvpy, and marker evidence.	
+16	16_validate_cnv_consensus.ipynb	Validate CNV-supported compartments and cluster calls.	
+17	17_finalize_annotation.ipynb	Create the final annotation and compartment object.	
+18	18_differential_abundance.ipynb	Run sample-level composition and differential-abundance analyses.	
+19	19_correct_da_binomial_glm.ipynb	Recalculate the binomial-GLM sensitivity analysis with corrected dtypes.	
+20	20_define_malignant_states.ipynb	Define malignant states and calculate transcriptional program scores.	
+21	21_malignant_state_pseudobulk.ipynb	Run malignant-state pseudobulk differential expression.	
+22	22_condition_pseudobulk.ipynb	Run condition-level and within-state malignant pseudobulk analyses.	
+23	23_curated_enrichment.ipynb	Run curated over-representation analyses.	
+24	24_gprofiler_validation.ipynb	Validate selected gene lists through the g:Profiler API.	Requires internet access to the g:Profiler API.
+25	25_prepare_liana_inputs.ipynb	Prepare cell groups and inputs for LIANA.	
+26	26_run_liana_global.ipynb	Run global LIANA ligand-receptor inference.	Requires LIANA 1.7.1.
+27	27_clean_liana_global_labels.ipynb	Standardize LIANA labels and focused biological axes.	
+28	28_run_liana_condition_specific.ipynb	Run condition-specific LIANA analyses.	Requires LIANA 1.7.1.
+29	29_prioritize_liana_axes.ipynb	Prioritize candidate communication axes and prepare final figures.	
+30	30_squidpy_lr_support.ipynb	Evaluate transcriptomic support for prioritized LIANA axes with Squidpy.	Requires Squidpy 1.8.1.
+31	31_cellrank_exploratory.ipynb	Run the exploratory, memory-safe CellRank fate-mapping analysis.	Memory-safe 20,000-cell exploratory analysis; requires CellRank 2.3.2 and scVelo 0.3.4.
