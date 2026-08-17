@@ -1,0 +1,2 @@
+n_genes_total	n_genes_matched_to_gtf	n_genes_canonical_usable	fraction_matched_to_gtf	fraction_canonical_usable	gtf_file
+15176	15176	15163	1.0	0.9991433842909858	G:\Repository\glioma-cnv-single-cell-atlas\data\reference\gencode.v49.primary_assembly.annotation.gtf.gz

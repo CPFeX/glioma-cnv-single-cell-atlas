@@ -1,0 +1,7 @@
+file_type	description	path	exists
+table	strategy-level visual QC summary	G:\Repository\glioma-cnv-single-cell-atlas\metadata\CNV_visual_QC_strategy_summary_HVG8000_r0_6.tsv	True
+table	cluster-level CNV score summary across strategies	G:\Repository\glioma-cnv-single-cell-atlas\metadata\CNV_visual_QC_cluster_score_summary_HVG8000_r0_6.tsv	True
+table	chromosome-level CNV signal summary when chromosome-bin metadata is available	G:\Repository\glioma-cnv-single-cell-atlas\metadata\CNV_visual_QC_chromosome_signal_summary_HVG8000_r0_6.tsv	True
+table	cautious CNV visual interpretation table	G:\Repository\glioma-cnv-single-cell-atlas\metadata\CNV_visual_QC_interpretation_table_HVG8000_r0_6.tsv	True
+table	figure manifest	G:\Repository\glioma-cnv-single-cell-atlas\metadata\CNV_visual_QC_figure_manifest_HVG8000_r0_6.tsv	True
+folder	CNV visual QC figures	G:\Repository\glioma-cnv-single-cell-atlas\figures\CNV_visual_QC_HVG8000_r0_6	True

@@ -1,0 +1,14 @@
+gene_symbol	is_matched	chromosome	start	end	gene_type
+MT-ND1	True	M	3307	4262	protein_coding
+MT-ND2	True	M	4470	5511	protein_coding
+MT-CO1	True	M	5904	7445	protein_coding
+MT-CO2	True	M	7586	8269	protein_coding
+MT-ATP8	True	M	8366	8572	protein_coding
+MT-ATP6	True	M	8527	9207	protein_coding
+MT-CO3	True	M	9207	9990	protein_coding
+MT-ND3	True	M	10059	10404	protein_coding
+MT-ND4L	True	M	10470	10766	protein_coding
+MT-ND4	True	M	10760	12137	protein_coding
+MT-ND5	True	M	12337	14148	protein_coding
+MT-ND6	True	M	14149	14673	protein_coding
+MT-CYB	True	M	14747	15887	protein_coding

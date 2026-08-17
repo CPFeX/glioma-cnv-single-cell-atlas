@@ -1,0 +1,2 @@
+run_tag	n_obs	n_latent	X_scVI_min	X_scVI_max	X_scVI_mean	X_scVI_sd	n_nan	training_batch_size
+HVG8000_lowmem_Xcounts	351427	30	-7.453980922698975	6.459756851196289	-0.0002618664875626564	0.7415980100631714	0	128

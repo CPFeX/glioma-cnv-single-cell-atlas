@@ -1,0 +1,6 @@
+strategy	reference_clusters	query_clusters	description	n_reference_clusters	n_query_clusters
+core_conservative	8,14	0,4,7,11	Most conservative CNV run: oligodendrocyte and endothelial references only; putative tumor-like query clusters only.	2	4
+core_plus_lymphoid	8,14,5,15	0,4,7,11	Conservative reference plus lymphoid clusters; useful robustness check, but lymphoid clusters are DS3-biased.	4	4
+extended_myeloid	8,14,1,3,6	0,4,7,11	Extended reference including broadly represented myeloid/TAM clusters; excludes patient-dominant myeloid cluster 10.	5	4
+review_cycling	8,14	2	Review run for cycling cluster to decide whether cycling cells are tumor-like/malignant or normal/immune cycling.	2	1
+review_ambiguous	8,14	9,12	Review run for ambiguous mixed/MES-stromal-like clusters.	2	2

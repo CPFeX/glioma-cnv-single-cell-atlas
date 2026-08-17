@@ -1,0 +1,6 @@
+strategy	reference_group_name	file
+core_conservative	reference	G:\Repository\glioma-cnv-single-cell-atlas\metadata\CNV_reference_group_names_core_conservative_HVG8000_r0_6.tsv
+core_plus_lymphoid	reference	G:\Repository\glioma-cnv-single-cell-atlas\metadata\CNV_reference_group_names_core_plus_lymphoid_HVG8000_r0_6.tsv
+extended_myeloid	reference	G:\Repository\glioma-cnv-single-cell-atlas\metadata\CNV_reference_group_names_extended_myeloid_HVG8000_r0_6.tsv
+review_cycling	reference	G:\Repository\glioma-cnv-single-cell-atlas\metadata\CNV_reference_group_names_review_cycling_HVG8000_r0_6.tsv
+review_ambiguous	reference	G:\Repository\glioma-cnv-single-cell-atlas\metadata\CNV_reference_group_names_review_ambiguous_HVG8000_r0_6.tsv

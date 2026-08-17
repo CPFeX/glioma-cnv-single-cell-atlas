@@ -1,0 +1,16 @@
+name	path	exists
+input_scvi_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_HVG8000_scVI_UMAP_Leiden_lowmem_Xcounts.h5ad	True
+input_hvg_counts_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_HVG8000_pre_scVI_lowmem_Xcounts.h5ad	True
+fullgene_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_fullgene_postQC_merged_counts_metadata.h5ad	True
+scratch_checkpoint_h5ad	E:\glioma-cnv-scratch\main_analysis_05\05_leiden_resolution_sweep_checkpoint.h5ad	True
+fresh_rerun_resolution_qc_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_HVG8000_scVI_clustering_resolution_QC_rerun_lowmem.h5ad	True
+input_qc_tsv	G:\Repository\glioma-cnv-single-cell-atlas\metadata\clustering_resolution_input_qc_HVG8000_rerun_lowmem.tsv	True
+sweep_summary_tsv	G:\Repository\glioma-cnv-single-cell-atlas\metadata\clustering_resolution_sweep_HVG8000_rerun_lowmem.tsv	True
+cluster_sizes_tsv	G:\Repository\glioma-cnv-single-cell-atlas\metadata\clustering_resolution_cluster_sizes_HVG8000_rerun_lowmem.tsv	True
+composition_tsv	G:\Repository\glioma-cnv-single-cell-atlas\metadata\clustering_resolution_composition_metrics_HVG8000_rerun_lowmem.tsv	True
+composition_summary_tsv	G:\Repository\glioma-cnv-single-cell-atlas\metadata\clustering_resolution_composition_summary_HVG8000_rerun_lowmem.tsv	True
+silhouette_tsv	G:\Repository\glioma-cnv-single-cell-atlas\metadata\clustering_resolution_silhouette_metrics_HVG8000_rerun_lowmem.tsv	True
+marker_module_tsv	G:\Repository\glioma-cnv-single-cell-atlas\metadata\clustering_resolution_marker_module_summary_HVG8000_rerun_lowmem.tsv	True
+advisor_tsv	G:\Repository\glioma-cnv-single-cell-atlas\metadata\clustering_resolution_advisor_table_HVG8000_rerun_lowmem.tsv	True
+recommendation_tsv	G:\Repository\glioma-cnv-single-cell-atlas\metadata\clustering_resolution_recommended_resolution_HVG8000_rerun_lowmem.tsv	True
+reproducibility_status_tsv	G:\Repository\glioma-cnv-single-cell-atlas\metadata\clustering_resolution_reproducibility_status_HVG8000.tsv	True

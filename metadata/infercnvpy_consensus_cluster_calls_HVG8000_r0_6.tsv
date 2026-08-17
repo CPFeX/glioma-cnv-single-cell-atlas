@@ -1,0 +1,8 @@
+cluster	n_strategies_observed	n_high_calls	n_intermediate_or_high_calls	strategies_high	strategies_intermediate_or_high	median_of_strategy_median_cnv_abs_score	max_robust_effect_vs_reference_median	consensus_cnv_call	top_annotation_marker_based_HVG8000_r0_6	top_lineage_marker_based_HVG8000_r0_6
+11	3	0	0			0.0173462746139121	1.182954777137884	CNV_low_or_reference_like	putative_tumor_NPC_neuronal_like	putative_tumor_like
+0	3	0	0			0.0165153795835707	0.9955067140141888	CNV_low_or_reference_like	putative_tumor_OPC_NPC_like	putative_tumor_like
+7	3	0	0			0.0159502339681734	0.8807821454667981	CNV_low_or_reference_like	putative_tumor_AC_like_reactive	putative_tumor_like
+2	1	0	0			0.0166810242884798	0.8235024396370848	CNV_low_or_reference_like	cycling_proliferating_cells	cycling_ambiguous
+4	3	0	0			0.0123622723158085	0.2957910425011302	CNV_low_or_reference_like	putative_tumor_hypoxia_stress	putative_tumor_like_stress
+12	1	0	0			0.0138805227908019	0.1156389499802518	CNV_low_or_reference_like	MES_ECM_stromal_like_ambiguous	mesenchymal_stromal_ambiguous
+9	1	0	0			0.0134011113617652	-0.0006313511260412	CNV_low_or_reference_like	ambiguous_mixed_Hb_T_NK_HLA	ambiguous_mixed_or_doublet

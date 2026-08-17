@@ -1,0 +1,10 @@
+cnv_cluster_role	n_cells	fraction_cells
+query_putative_tumor_like	123250	0.35071295034246086
+reference_myeloid_extended_candidate	118089	0.3360271123163559
+query_review_cycling	38634	0.10993463791911265
+reference_lymphoid_candidate	25144	0.07154828741104127
+query_review_ambiguous	18667	0.05311771719304436
+reference_core_conservative	17449	0.04965184803671886
+reference_myeloid_review_not_core	6340	0.018040731076439772
+reference_stromal_review_not_core	3566	0.01014719984520256
+exclude_or_low_confidence	288	0.0008195158596237625

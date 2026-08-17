@@ -1,0 +1,6 @@
+purpose	recommended_key	reason	n_unique
+scVI batch_key	scvi_batch	sample-level batch is conservative for multi-study integration	83
+scVI categorical_covariate_key	core_dataset	study/dataset source must be retained for technical/bias tracking	4
+scVI categorical_covariate_key	condition	GBM/LGG/newly diagnosed/recurrent status should not be lost	4
+bias analysis	patient_id	needed for single-patient dominant cluster detection	50
+bias analysis	core_dataset	needed for dataset-biased cluster detection	4

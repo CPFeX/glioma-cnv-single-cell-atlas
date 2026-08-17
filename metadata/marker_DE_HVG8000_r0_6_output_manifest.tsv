@@ -1,0 +1,15 @@
+artifact	path	exists
+input_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_fullgene_with_HVG8000_scVI_clusters.h5ad	True
+marker_ready_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_fullgene_HVG8000_r0_6_marker_DE_ready.h5ad	True
+readiness_report	G:\Repository\glioma-cnv-single-cell-atlas\metadata\marker_DE_HVG8000_r0_6_readiness_report.tsv	True
+cluster_qc	G:\Repository\glioma-cnv-single-cell-atlas\metadata\marker_DE_HVG8000_r0_6_cluster_QC_summary.tsv	True
+cluster_composition	G:\Repository\glioma-cnv-single-cell-atlas\metadata\marker_DE_HVG8000_r0_6_cluster_composition_summary.tsv	True
+marker_panel_presence	G:\Repository\glioma-cnv-single-cell-atlas\metadata\marker_DE_HVG8000_r0_6_marker_panel_presence.tsv	True
+all_de	G:\Repository\glioma-cnv-single-cell-atlas\metadata\marker_DE_leiden_scvi_main_HVG8000_r0_6_wilcoxon_all_genes.tsv	True
+top100_up_down	G:\Repository\glioma-cnv-single-cell-atlas\metadata\marker_DE_leiden_scvi_main_HVG8000_r0_6_wilcoxon_top100_up_down.tsv	True
+top20_up	G:\Repository\glioma-cnv-single-cell-atlas\metadata\marker_DE_leiden_scvi_main_HVG8000_r0_6_wilcoxon_top20_up.tsv	True
+filtered_de	G:\Repository\glioma-cnv-single-cell-atlas\metadata\marker_DE_leiden_scvi_main_HVG8000_r0_6_wilcoxon_filtered_padj005_logfc025.tsv	True
+historical_reproducibility_audit	G:\Repository\glioma-cnv-single-cell-atlas\metadata\marker_DE_HVG8000_r0_6_historical_reproducibility_audit.tsv	True
+figures_dir	G:\Repository\glioma-cnv-single-cell-atlas\figures\marker_DE_HVG8000_r0_6_pre_annotation	True
+normalization_checkpoint	E:\glioma-cnv-scratch\main_analysis_07\normalization_progress.json	True
+de_checkpoint	E:\glioma-cnv-scratch\main_analysis_07\de_state\de_progress.json	True

@@ -1,0 +1,6 @@
+name	path	exists
+fullgene_counts_input	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_fullgene_postQC_merged_counts.h5ad	True
+standardized_metadata_input	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_fullgene_postQC_merged_counts_metadata.h5ad	True
+canonical_historical_reference	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_HVG8000_scVI_canonical_historical_reference.h5ad	True
+canonical_fullgene_output	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_fullgene_with_HVG8000_scVI_clusters.h5ad	True
+r0_6_hardlink_alias	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_fullgene_with_HVG8000_scVI_clusters_r0_6.h5ad	True

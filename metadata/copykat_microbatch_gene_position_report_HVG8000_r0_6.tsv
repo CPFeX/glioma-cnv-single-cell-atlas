@@ -1,0 +1,2 @@
+input_h5ad	gene_order_file	counts_source	n_cells	n_genes_total	n_genes_usable	target_chunk_size	ref_anchor_size
+E:\glioma-cnv-scratch\main_analysis_10\GBM_core_4datasets_CNV_input_HVG8000_r0_6_allcells_gene_ordered_countsX.h5ad	G:\Repository\glioma-cnv-single-cell-atlas\metadata\CNV_gene_order_gencode_v49_matched_header_HVG8000_r0_6.tsv	notebook10_geneordered_X_raw_counts	351427	15176	15163	2000	1000

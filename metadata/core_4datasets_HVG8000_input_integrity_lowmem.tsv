@@ -1,0 +1,17 @@
+field	value
+input_fullgene_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_fullgene_postQC_merged_counts_metadata.h5ad
+n_cells	351427
+n_genes	15176
+has_counts_layer	True
+counts_encoding	csr_matrix
+counts_dtype	int32
+counts_nonzero_entries	739913124
+output_hvg_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_HVG8000_pre_scVI_lowmem_Xcounts.h5ad
+memory_mode	streaming_direct_hdf5_seurat_v3
+core_dataset	n_unique=4; n_unknown=0
+dataset_id	n_unique=4; n_unknown=0
+geo_id	n_unique=4; n_unknown=0
+sample_id	n_unique=83; n_unknown=0
+patient_id	n_unique=50; n_unknown=0
+condition	n_unique=4; n_unknown=0
+scvi_batch	n_unique=83; n_unknown=0

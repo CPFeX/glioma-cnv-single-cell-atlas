@@ -1,0 +1,2 @@
+n_cells	n_genes	scvi_output_X_storage	scvi_output_layers	counts_qc_source	counts_encoding	counts_dtype	counts_nnz	X_sample_min	X_sample_max	X_sample_integer_like	X_sample_any_negative	latent_key	latent_shape	latent_nan_count
+351427	8000	omitted_by_design		G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_HVG8000_pre_scVI_lowmem_Xcounts.h5ad	csr_matrix	int32	316259948	1.0	756.0	True	False	X_scVI	(351427, 30)	0

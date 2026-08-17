@@ -1,0 +1,8 @@
+name	path	exists
+input_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_HVG8000_pre_scVI_lowmem_Xcounts.h5ad	True
+latent_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_HVG8000_scVI_latent_lowmem_Xcounts.h5ad	True
+latent_alias_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_HVG8000_scVI_latent.h5ad	True
+umap_leiden_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_HVG8000_scVI_UMAP_Leiden_lowmem_Xcounts.h5ad	True
+umap_leiden_alias_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_HVG8000_scVI_UMAP_Leiden.h5ad	True
+model_dir	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\scVI_model_GBM_core_4datasets_HVG8000_lowmem_Xcounts	True
+training_input_used	E:\glioma-cnv-scratch\main_analysis_04_scvi\GBM_core_4datasets_HVG8000_pre_scVI_lowmem_Xcounts.h5ad	True

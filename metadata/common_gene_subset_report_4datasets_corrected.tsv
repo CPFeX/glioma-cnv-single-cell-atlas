@@ -1,0 +1,5 @@
+core_dataset	common_subset_h5ad	n_cells	n_common_genes	has_counts_layer	first_10_common_genes
+DS1_GSE103224	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\core_4datasets_harmonized_gene_symbols\common_genes\DS1_GSE103224_postQC_common_genes_counts.h5ad	23207	15176	True	A1BG;A1BG-AS1;A2M;A2M-AS1;A2ML1;A4GALT;AAAS;AACS;AADAT;AAGAB
+DS2_GSE141383	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\core_4datasets_harmonized_gene_symbols\common_genes\DS2_GSE141383_postQC_common_genes_counts.h5ad	21391	15176	True	A1BG;A1BG-AS1;A2M;A2M-AS1;A2ML1;A4GALT;AAAS;AACS;AADAT;AAGAB
+DS3_GSE182109	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\core_4datasets_harmonized_gene_symbols\common_genes\DS3_GSE182109_postQC_common_genes_counts.h5ad	218735	15176	True	A1BG;A1BG-AS1;A2M;A2M-AS1;A2ML1;A4GALT;AAAS;AACS;AADAT;AAGAB
+DS4_GSE278450	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\core_4datasets_harmonized_gene_symbols\common_genes\DS4_GSE278450_postQC_common_genes_counts.h5ad	88094	15176	True	A1BG;A1BG-AS1;A2M;A2M-AS1;A2ML1;A4GALT;AAAS;AACS;AADAT;AAGAB

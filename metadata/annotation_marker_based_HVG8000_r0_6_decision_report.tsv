@@ -1,0 +1,16 @@
+item	value
+input_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_fullgene_with_HVG8000_scVI_clusters.h5ad
+output_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_fullgene_HVG8000_r0_6_marker_based_annotation.h5ad
+output_h5ad_alias	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_fullgene_marker_based_annotation.h5ad
+cluster_key_main	leiden_scvi_main
+source_cluster_key	leiden_scvi_HVG8000_r0_6
+n_cells	351427
+n_genes	15176
+n_clusters	18
+annotation_col	annotation_marker_based_HVG8000_r0_6
+lineage_col	lineage_marker_based_HVG8000_r0_6
+confidence_col	annotation_confidence_HVG8000_r0_6
+malignancy_col	malignancy_status_marker_based_HVG8000_r0_6
+caution_col	annotation_caution_HVG8000_r0_6
+principle	Tumor-like labels are putative until CNV validation.
+main_recommendation	Proceed to marker review / annotation refinement, then CNV-based malignant validation.

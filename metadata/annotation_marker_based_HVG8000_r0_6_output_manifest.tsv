@@ -1,0 +1,11 @@
+item	path	exists
+annotated_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_fullgene_HVG8000_r0_6_marker_based_annotation.h5ad	True
+annotated_h5ad_alias	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_fullgene_marker_based_annotation.h5ad	True
+annotation_tsv	G:\Repository\glioma-cnv-single-cell-atlas\metadata\annotation_marker_based_HVG8000_r0_6.tsv	True
+annotation_evidence_tsv	G:\Repository\glioma-cnv-single-cell-atlas\metadata\cluster_marker_annotation_evidence_HVG8000_r0_6.tsv	True
+annotation_counts_tsv	G:\Repository\glioma-cnv-single-cell-atlas\metadata\annotation_marker_based_HVG8000_r0_6_cell_counts.tsv	True
+annotation_composition_tsv	G:\Repository\glioma-cnv-single-cell-atlas\metadata\annotation_marker_based_HVG8000_r0_6_composition_annotated.tsv	True
+annotation_bias_tsv	G:\Repository\glioma-cnv-single-cell-atlas\metadata\annotation_marker_based_HVG8000_r0_6_bias_flags.tsv	True
+annotation_decision_report_tsv	G:\Repository\glioma-cnv-single-cell-atlas\metadata\annotation_marker_based_HVG8000_r0_6_decision_report.tsv	True
+annotation_marker_panel_presence_tsv	G:\Repository\glioma-cnv-single-cell-atlas\metadata\annotation_marker_panel_presence_HVG8000_r0_6.tsv	True
+figures_dir	G:\Repository\glioma-cnv-single-cell-atlas\figures\annotation_marker_based_HVG8000_r0_6	True

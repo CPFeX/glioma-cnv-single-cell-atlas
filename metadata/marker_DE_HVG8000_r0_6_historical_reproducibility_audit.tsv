@@ -1,0 +1,7 @@
+checkpoint	historical	current	match
+all_de_shape	(273168, 11)	(273168, 11)	True
+top100_shape	(3600, 12)	(3600, 12)	True
+top20_shape	(360, 12)	(360, 12)	True
+filtered_shape	(192882, 11)	(192882, 11)	True
+cluster0_top5_genes	PTPRZ1,BCAN,OLIG1,NOVA1,PTN	PTPRZ1,BCAN,OLIG1,NOVA1,PTN	True
+cluster0_top5_scores	307.749878,288.052246,280.849701,271.248901,269.065308	307.749878,288.052246,280.849701,271.248901,269.065308	True

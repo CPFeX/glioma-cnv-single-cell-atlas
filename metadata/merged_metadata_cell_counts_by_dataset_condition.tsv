@@ -1,0 +1,7 @@
+core_dataset	geo_id	condition	diagnosis	tumor_status	n_cells
+DS1_GSE103224	GSE103224	GBM	glioblastoma	gbm_unspecified	23207
+DS2_GSE141383	GSE141383	GBM	glioblastoma	gbm_unspecified	21391
+DS3_GSE182109	GSE182109	LGG	lower_grade_glioma	lower_grade_glioma	13487
+DS3_GSE182109	GSE182109	ndGBM	glioblastoma	newly_diagnosed	112416
+DS3_GSE182109	GSE182109	rGBM	glioblastoma	recurrent	92832
+DS4_GSE278450	GSE278450	GBM	glioblastoma	gbm_unspecified	88094

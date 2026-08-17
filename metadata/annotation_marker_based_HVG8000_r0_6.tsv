@@ -1,0 +1,19 @@
+cluster	annotation	lineage	malignancy_status	confidence	note
+0	putative_tumor_OPC_NPC_like	putative_tumor_like	putative_tumor_like_requires_CNV	moderate_high	OPC/NPC-like markers including PTPRZ1, BCAN, OLIG1, PTN. Malignancy requires CNV confirmation.
+1	myeloid_C1Q_TREM2_APOE_TAM	myeloid	non_malignant_reference_candidate	high	C1QC/C1QB/TREM2/CSF1R/APOE-like TAM/macrophage program.
+2	cycling_proliferating_cells	cycling_ambiguous	requires_marker_context_and_CNV	moderate	Strong cell-cycle markers TOP2A/PBK/BIRC5/UBE2C. Underlying lineage requires marker context and CNV.
+3	myeloid_inflammatory_MES_associated	myeloid	non_malignant_or_MES_associated_requires_CNV_check	moderate	TGFBI/S100A4/TYROBP/LYZ suggest inflammatory myeloid/MES-associated macrophage-like cluster; monitor MES ambiguity.
+4	putative_tumor_hypoxia_stress	putative_tumor_like_stress	putative_tumor_like_requires_CNV	moderate_high	CA9/VEGFA/HILPDA/LOX hypoxia stress program; likely tumor-associated but CNV required.
+5	T_NK_cells	lymphoid	non_malignant_immune	high	CD3D/CD3E/TRAC/GZMA/LCK T/NK markers. Check rGBM/DS3 dominance as biological or sampling bias.
+6	myeloid_APC_HLA_CD163_TAM	myeloid	non_malignant_reference_candidate	high	HLA-DRA/HLA-DPB1/CD74/CD163 antigen-presenting macrophage/TAM program.
+7	putative_tumor_AC_like_reactive	putative_tumor_like	putative_tumor_like_requires_CNV	moderate_high	AQP4/GFAP/CLU/SPARCL1 astrocytic/reactive AC-like program; tumor vs normal/reactive requires CNV.
+8	oligodendrocyte_myelinating	normal_brain_glial	non_malignant_reference_candidate	high	MAG/MOG/MOBP/ERMN myelinating oligodendrocyte markers.
+9	ambiguous_mixed_Hb_T_NK_HLA	ambiguous_mixed_or_doublet	exclude_or_review_before_final_calls	low	Mixed HBB/HBA, GNLY, and HLA/myeloid signals; possible mixed/doublet/ambient or condition-specific artifact. Requires manual review.
+10	myeloid_FCN1_inflammatory_monocyte_like	myeloid	non_malignant_immune	moderate_high	FCN1/AQP9/FPR2/LILRA5 inflammatory monocyte-like markers; assess rGBM/DS3 dominance.
+11	putative_tumor_NPC_neuronal_like	putative_tumor_like	putative_tumor_like_requires_CNV	moderate	STMN2/DLX5/DCX/MYT1L neural/NPC-like markers. CNV needed to distinguish tumor-like from neuronal-lineage contamination.
+12	MES_ECM_stromal_like_ambiguous	mesenchymal_stromal_ambiguous	requires_CNV_and_stromal_marker_review	moderate_low	COL1A1/COL3A1/CTHRC1/FABP7 ECM/MES-like signal. Could be stromal/perivascular or MES tumor-like; CNV required.
+13	mural_pericyte_fibroblast_like	vascular_stromal	non_malignant_stromal_candidate	moderate_high	PDGFRB/CD248/LUM/ENPEP pericyte/mural/fibroblast-like markers.
+14	endothelial	vascular_endothelial	non_malignant_vascular	high	KDR/ERG/ESAM/EMCN/CLEC14A endothelial markers.
+15	B_plasma_like	lymphoid_B_plasma	non_malignant_immune	moderate_high	CD79A/POU2AF1/MZB1/IGHM B/plasma-like markers; MS4A1/JCHAIN may be absent from object.
+16	rare_mast_cell_like	rare_immune_mast_like	non_malignant_immune_review	moderate_low	KIT/GATA2/RGS13/ENPP3 mast-like markers; very small cluster, review carefully.
+17	erythroid_Hb_high_or_ambient_RBC	erythroid_or_ambient	exclude_or_review_before_final_calls	moderate	HBA1/HBA2/HBB hemoglobin-high cluster; likely RBC/ambient contamination or rare erythroid cells. Very small cluster.

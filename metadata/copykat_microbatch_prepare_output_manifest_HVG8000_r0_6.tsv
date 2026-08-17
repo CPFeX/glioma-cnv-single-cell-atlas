@@ -1,0 +1,2 @@
+base_dir	master_shell	manifest	n_batches	target_chunk_size	ref_anchor_size
+G:\Repository\glioma-cnv-single-cell-atlas\data\interim\integrated\CNV_inputs\CopyKAT_HVG8000_r0_6\batchwise_micro_all_cells	G:\Repository\glioma-cnv-single-cell-atlas\data\interim\integrated\CNV_inputs\CopyKAT_HVG8000_r0_6\batchwise_micro_all_cells\run_all_copykat_microbatches_HVG8000_r0_6.sh	G:\Repository\glioma-cnv-single-cell-atlas\metadata\copykat_microbatch_input_manifest_HVG8000_r0_6.tsv	176	2000	1000

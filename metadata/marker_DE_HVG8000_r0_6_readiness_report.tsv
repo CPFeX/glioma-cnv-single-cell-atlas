@@ -1,0 +1,15 @@
+metric	value
+input_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_fullgene_with_HVG8000_scVI_clusters.h5ad
+n_cells	351427
+n_genes	15176
+main_cluster_key	leiden_scvi_main
+n_clusters	18
+counts_layer_present	True
+counts_layer_integer_like	True
+counts_encoding	csr_matrix
+counts_dtype	int32
+counts_nnz	739913124
+counts_sample_min	1.0
+counts_sample_max	643.0
+X_umap_present	True
+X_scVI_present	True

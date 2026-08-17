@@ -1,0 +1,2 @@
+input_h5ad	n_cells	n_genes	counts_source_for_cnv	has_counts_layer	x_integer_like	x_min_sample	x_max_sample	any_negative_sample	cluster_key	annotation_col	lineage_col	confidence_col	bias_status_col_present	cnv_role_col_present
+G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_fullgene_marker_based_annotation_bias_status.h5ad	351427	15176	adata.layers['counts']	True	True	1.0	389.0	False	leiden_scvi_main	annotation_marker_based_HVG8000_r0_6	lineage_marker_based_HVG8000_r0_6	annotation_confidence_HVG8000_r0_6	True	False

@@ -1,0 +1,19 @@
+resolution	cluster_key	metric	n_cells_subsample	value	interpretation
+NA	NA	core_dataset_silhouette_on_X_scVI_subsample	30000	-0.05076960474252701	High value may indicate separation by metadata label; lower/near-zero usually indicates better mixing for technical labels.
+NA	NA	condition_silhouette_on_X_scVI_subsample	30000	-0.026368560269474983	High value may indicate separation by metadata label; lower/near-zero usually indicates better mixing for technical labels.
+0.1	leiden_scvi_HVG8000_r0_1	cluster_silhouette_on_X_scVI_subsample	30000	0.032691795378923416	Higher can indicate sharper clustering, but it must be interpreted with marker and bias QC.
+0.15	leiden_scvi_HVG8000_r0_15	cluster_silhouette_on_X_scVI_subsample	30000	0.03250287100672722	Higher can indicate sharper clustering, but it must be interpreted with marker and bias QC.
+0.2	leiden_scvi_HVG8000_r0_2	cluster_silhouette_on_X_scVI_subsample	30000	0.04426352679729462	Higher can indicate sharper clustering, but it must be interpreted with marker and bias QC.
+0.25	leiden_scvi_HVG8000_r0_25	cluster_silhouette_on_X_scVI_subsample	30000	0.05203693360090256	Higher can indicate sharper clustering, but it must be interpreted with marker and bias QC.
+0.3	leiden_scvi_HVG8000_r0_3	cluster_silhouette_on_X_scVI_subsample	30000	0.05328379571437836	Higher can indicate sharper clustering, but it must be interpreted with marker and bias QC.
+0.35	leiden_scvi_HVG8000_r0_35	cluster_silhouette_on_X_scVI_subsample	30000	0.062464598566293716	Higher can indicate sharper clustering, but it must be interpreted with marker and bias QC.
+0.4	leiden_scvi_HVG8000_r0_4	cluster_silhouette_on_X_scVI_subsample	30000	0.061081599444150925	Higher can indicate sharper clustering, but it must be interpreted with marker and bias QC.
+0.45	leiden_scvi_HVG8000_r0_45	cluster_silhouette_on_X_scVI_subsample	30000	0.06203189119696617	Higher can indicate sharper clustering, but it must be interpreted with marker and bias QC.
+0.5	leiden_scvi_HVG8000_r0_5	cluster_silhouette_on_X_scVI_subsample	30000	0.06839653104543686	Higher can indicate sharper clustering, but it must be interpreted with marker and bias QC.
+0.55	leiden_scvi_HVG8000_r0_55	cluster_silhouette_on_X_scVI_subsample	30000	0.06124718487262726	Higher can indicate sharper clustering, but it must be interpreted with marker and bias QC.
+0.6	leiden_scvi_HVG8000_r0_6	cluster_silhouette_on_X_scVI_subsample	30000	0.060246095061302185	Higher can indicate sharper clustering, but it must be interpreted with marker and bias QC.
+0.7	leiden_scvi_HVG8000_r0_7	cluster_silhouette_on_X_scVI_subsample	30000	-0.011153987608850002	Higher can indicate sharper clustering, but it must be interpreted with marker and bias QC.
+0.8	leiden_scvi_HVG8000_r0_8	cluster_silhouette_on_X_scVI_subsample	30000	-0.024359865114092827	Higher can indicate sharper clustering, but it must be interpreted with marker and bias QC.
+0.9	leiden_scvi_HVG8000_r0_9	cluster_silhouette_on_X_scVI_subsample	30000	0.0047515155747532845	Higher can indicate sharper clustering, but it must be interpreted with marker and bias QC.
+1.0	leiden_scvi_HVG8000_r1_0	cluster_silhouette_on_X_scVI_subsample	30000	-0.015397904440760612	Higher can indicate sharper clustering, but it must be interpreted with marker and bias QC.
+1.2	leiden_scvi_HVG8000_r1_2	cluster_silhouette_on_X_scVI_subsample	30000	-0.025227418169379234	Higher can indicate sharper clustering, but it must be interpreted with marker and bias QC.

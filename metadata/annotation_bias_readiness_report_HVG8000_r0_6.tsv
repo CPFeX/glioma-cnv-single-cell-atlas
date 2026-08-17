@@ -1,0 +1,12 @@
+metric	value
+n_cells	351427
+n_genes	15176
+cluster_key	leiden_scvi_main
+n_clusters	18
+annotation_col	annotation_marker_based_HVG8000_r0_6
+lineage_col	lineage_marker_based_HVG8000_r0_6
+confidence_col	annotation_confidence_HVG8000_r0_6
+note_col	annotation_note_HVG8000_r0_6
+counts_layer_present	True
+X_scVI_present	True
+X_umap_present	True
