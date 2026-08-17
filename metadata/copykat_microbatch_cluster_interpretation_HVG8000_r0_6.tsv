@@ -1,0 +1,20 @@
+leiden_scvi_main	n_cells	n_aneuploid	n_diploid	n_not_defined	n_missing	n_defined	aneuploid_fraction_all	aneuploid_fraction_defined	not_defined_fraction	missing_fraction	annotation_marker_based_HVG8000_r0_6	copykat_cluster_call	copykat_biological_interpretation
+4	32896	24754	4562	3580	0	29316	0.7524927042801557	0.844385318597353	0.10882782101167315	0.0	putative_tumor_hypoxia_stress	copykat_aneuploid_high	marker_tumor_like_with_copykat_support
+0	61646	45910	8947	6789	0	54857	0.7447360737111897	0.8369032211021383	0.11012879992213606	0.0	putative_tumor_OPC_NPC_like	copykat_aneuploid_high	marker_tumor_like_with_copykat_support
+2	38634	29096	5913	3625	0	35009	0.7531190143397007	0.8311005741380788	0.09382926955531397	0.0	cycling_proliferating_cells	copykat_aneuploid_high	copykat_high_aneuploid_review_annotation
+7	22524	14292	5140	3092	0	19432	0.6345231752797017	0.7354878550843968	0.13727579470786716	0.0	putative_tumor_AC_like_reactive	copykat_aneuploid_high	marker_tumor_like_with_copykat_support
+10	6340	4445	1675	220	0	6120	0.7011041009463722	0.7263071895424836	0.03470031545741325	0.0	myeloid_FCN1_inflammatory_monocyte_like	copykat_aneuploid_high	copykat_high_aneuploid_review_annotation
+11	6183	3646	1384	1153	0	5030	0.5896813844412098	0.7248508946322068	0.18647905547468865	0.0	putative_tumor_NPC_neuronal_like	copykat_aneuploid_high	marker_tumor_like_with_copykat_support
+12	4803	2978	1446	379	0	4424	0.6200291484488861	0.6731464737793852	0.07890901519883406	0.0	MES_ECM_stromal_like_ambiguous	copykat_aneuploid_high	copykat_high_aneuploid_review_annotation
+3	35354	21350	12033	1971	0	33383	0.6038920631328846	0.6395470748584609	0.05575041013746677	0.0	myeloid_inflammatory_MES_associated	copykat_aneuploid_mixed_moderate_high	review_with_marker_and_composition_context
+1	59791	29402	24843	5546	0	54245	0.4917462494355338	0.5420223062033367	0.09275643491495375	0.0	myeloid_C1Q_TREM2_APOE_TAM	copykat_aneuploid_mixed_moderate_high	review_with_marker_and_composition_context
+17	105	42	41	22	0	83	0.4	0.5060240963855421	0.20952380952380953	0.0	erythroid_Hb_high_or_ambient_RBC	copykat_aneuploid_mixed_moderate_high	review_with_marker_and_composition_context
+6	22943	10847	10728	1368	0	21575	0.4727803687399207	0.5027578215527231	0.05962602972584231	0.0	myeloid_APC_HLA_CD163_TAM	copykat_aneuploid_mixed_moderate_high	review_with_marker_and_composition_context
+5	23977	8354	12387	3236	0	20741	0.34841723318179924	0.40277710814329104	0.13496267256120448	0.0	T_NK_cells	copykat_aneuploid_mixed_moderate_high	review_with_marker_and_composition_context
+9	13864	3400	6255	4209	0	9655	0.24523946912867858	0.35214914552045573	0.3035920369301789	0.0	ambiguous_mixed_Hb_T_NK_HLA	copykat_aneuploid_low_mixed	review_with_marker_and_composition_context
+13	3566	865	2241	460	0	3106	0.24256870443073472	0.2784932388924662	0.12899607403252944	0.0	mural_pericyte_fibroblast_like	copykat_aneuploid_low_mixed	review_with_marker_and_composition_context
+15	1167	250	733	184	0	983	0.21422450728363324	0.254323499491353	0.15766923736075408	0.0	B_plasma_like	copykat_aneuploid_low_mixed	review_with_marker_and_composition_context
+16	183	33	126	24	0	159	0.18032786885245902	0.20754716981132076	0.13114754098360656	0.0	rare_mast_cell_like	copykat_aneuploid_low_mixed	review_with_marker_and_composition_context
+14	2640	444	1722	474	0	2166	0.16818181818181818	0.20498614958448755	0.17954545454545454	0.0	endothelial	copykat_aneuploid_low_mixed	review_with_marker_and_composition_context
+8	14809	2787	11317	705	0	14104	0.18819636707407658	0.19760351673284174	0.047606185427780404	0.0	oligodendrocyte_myelinating	copykat_diploid_dominant	non_malignant_reference_like_by_copykat
+nan	2	0	0	0	2	0	0.0		0.0	1.0		insufficient_defined_cells	review_with_marker_and_composition_context

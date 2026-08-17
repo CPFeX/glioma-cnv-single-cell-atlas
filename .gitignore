@@ -24,3 +24,16 @@ results/**
 __pycache__/
 *.py[cod]
 .env
+
+# Local CopyKAT audit and sensitivity outputs
+metadata/historical_copykat/
+metadata/sensitivity/
+data/processed/integrated/sensitivity/
+
+# Large public reference files are downloaded separately
+data/reference/*.gtf.gz
+!metadata/canonical/copykat_microbatch_predictions_bundle_HVG8000_r0_6.tar.gz
+
+# Regenerable expanded CopyKAT per-cell tables
+metadata/copykat_microbatch_final_cell_calls_HVG8000_r0_6.tsv
+metadata/copykat_microbatch_target_only_predictions_HVG8000_r0_6.tsv

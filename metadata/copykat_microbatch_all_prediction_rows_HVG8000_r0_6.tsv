@@ -1,0 +1,2 @@
+storage_mode	canonical_prediction_bundle	sha256	n_prediction_files	n_prediction_rows_total_including_anchors	note
+archived_bundle	G:\Repository\glioma-cnv-single-cell-atlas\metadata\canonical\copykat_microbatch_predictions_bundle_HVG8000_r0_6.tar.gz	7b3f8c2b87847fcbcf3dff54a37dc077782e465da662cfcb9288914b9b9610b3	176	526425	Repeated-anchor prediction rows are retained in the checksum-validated canonical tar.gz bundle and are not expanded into a >200 MB main-pipeline TSV.
