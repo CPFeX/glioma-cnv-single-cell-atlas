@@ -1,0 +1,10 @@
+metric	value
+input_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_fullgene_marker_based_annotation_bias_status_copykat_consensus.h5ad
+n_cells	351427
+n_genes	15176
+cluster_key	leiden_scvi_main
+copykat_key	copykat_pred_clean
+final_group_key_previous	final_malignancy_group_copykat_marker
+has_X_umap	True
+has_X_scVI	True
+final_annotation_refined_created	True

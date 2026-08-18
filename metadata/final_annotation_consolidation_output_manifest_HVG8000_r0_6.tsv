@@ -1,0 +1,11 @@
+artifact	path	exists
+readiness	G:\Repository\glioma-cnv-single-cell-atlas\metadata\final_annotation_consolidation_readiness_HVG8000_r0_6.tsv	True
+cell_counts	G:\Repository\glioma-cnv-single-cell-atlas\metadata\final_annotation_consolidated_cell_counts_HVG8000_r0_6.tsv	True
+cluster_summary	G:\Repository\glioma-cnv-single-cell-atlas\metadata\final_annotation_consolidated_cluster_summary_HVG8000_r0_6.tsv	True
+marker_presence	G:\Repository\glioma-cnv-single-cell-atlas\metadata\final_annotation_marker_panel_presence_HVG8000_r0_6.tsv	True
+figure_manifest	G:\Repository\glioma-cnv-single-cell-atlas\metadata\final_annotation_consolidation_figure_manifest_HVG8000_r0_6.tsv	True
+final_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_final_annotation_CNV_consensus.h5ad	True
+final_alias_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_final_annotation.h5ad	True
+condition_compartment_counts	G:\Repository\glioma-cnv-single-cell-atlas\metadata\final_annotation_condition_compartment_counts_HVG8000_r0_6.tsv	True
+dataset_compartment_counts	G:\Repository\glioma-cnv-single-cell-atlas\metadata\final_annotation_dataset_compartment_counts_HVG8000_r0_6.tsv	True
+sample_level_compartment_composition	G:\Repository\glioma-cnv-single-cell-atlas\metadata\final_annotation_sample_level_compartment_composition_HVG8000_r0_6.tsv	True

@@ -1,0 +1,17 @@
+condition	final_compartment_major	n_cells	condition_total_cells	fraction_within_condition
+GBM	cycling_malignant_like_candidate	17282	132692	0.1302414614294758
+GBM	malignant_like	65587	132692	0.4942799867362011
+GBM	non_malignant_or_diploid_leaning	10710	132692	0.0807132306393754
+GBM	review	39113	132692	0.2947653211949477
+LGG	cycling_malignant_like_candidate	283	13487	0.020983168977533922
+LGG	malignant_like	4740	13487	0.35144954400533845
+LGG	non_malignant_or_diploid_leaning	1389	13487	0.10298806257877957
+LGG	review	7075	13487	0.524579224438348
+ndGBM	cycling_malignant_like_candidate	10730	112416	0.09544904639908909
+ndGBM	malignant_like	34411	112416	0.30610411329348136
+ndGBM	non_malignant_or_diploid_leaning	5430	112416	0.04830273270708796
+ndGBM	review	61845	112416	0.5501441076003416
+rGBM	cycling_malignant_like_candidate	10339	92832	0.1113732333678042
+rGBM	malignant_like	18512	92832	0.1994139951740779
+rGBM	non_malignant_or_diploid_leaning	4836	92832	0.052094105480868666
+rGBM	review	59145	92832	0.6371186659772492
