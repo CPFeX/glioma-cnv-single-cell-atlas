@@ -1,0 +1,6 @@
+output_label	path	exists	size_mb
+final_cluster_consensus	G:\Repository\glioma-cnv-single-cell-atlas\metadata\final_copykat_marker_infercnvpy_cluster_consensus_HVG8000_r0_6.tsv	True	0.005
+final_cell_counts	G:\Repository\glioma-cnv-single-cell-atlas\metadata\final_copykat_marker_malignancy_group_counts_HVG8000_r0_6.tsv	True	0.001
+final_cluster_counts	G:\Repository\glioma-cnv-single-cell-atlas\metadata\final_copykat_marker_cluster_counts_HVG8000_r0_6.tsv	True	0.003
+final_annotation_counts	G:\Repository\glioma-cnv-single-cell-atlas\metadata\final_copykat_marker_annotation_counts_HVG8000_r0_6.tsv	True	0.001
+final_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_fullgene_marker_based_annotation_bias_status_copykat_consensus.h5ad	True	13522.327

@@ -1,0 +1,15 @@
+final_malignancy_group_copykat_marker	copykat_pred_clean	n_cells
+cycling_malignant_like_candidate	aneuploid	29096
+cycling_malignant_like_candidate	diploid	5913
+cycling_malignant_like_candidate	not_defined	3625
+malignant_like	aneuploid	88602
+malignant_like	diploid	20033
+malignant_like	missing	1
+malignant_like	not_defined	14614
+non_malignant_or_diploid_leaning	aneuploid	4379
+non_malignant_or_diploid_leaning	diploid	16139
+non_malignant_or_diploid_leaning	not_defined	1847
+review	aneuploid	80818
+review	diploid	69408
+review	missing	1
+review	not_defined	16951
