@@ -1,0 +1,2 @@
+input_h5ad	n_cells	n_genes	counts_source	counts_integer_like_sample	counts_has_negative_sample	sample_col	condition_col	patient_col	cluster_col	compartment_col	state_col_original	state_col_used	min_cells_per_pseudobulk	min_pseudobulks_per_group
+G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_final_annotation_malignant_states.h5ad	351427	15176	layers['counts']	True	False	sample_id	condition	patient_id	leiden_scvi_main	final_compartment_major	malignant_state	malignant_state_for_pseudobulk	30	3

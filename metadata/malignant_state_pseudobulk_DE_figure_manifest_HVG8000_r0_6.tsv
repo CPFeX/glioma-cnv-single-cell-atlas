@@ -1,0 +1,2 @@
+figure	path	description
+malignant_state_pseudobulk_top_marker_heatmap	G:\Repository\glioma-cnv-single-cell-atlas\figures\malignant_state_pseudobulk_DE_HVG8000_r0_6\malignant_state_pseudobulk_top_marker_heatmap.png	Heatmap of top pseudobulk up-marker genes per malignant state, using z-scored mean logCPM across states.

@@ -1,0 +1,6 @@
+malignant_state	status	n_pseudobulk_state	n_pseudobulk_rest	cells_state	cells_rest	n_genes_tested	n_significant_basic_filter	n_up_basic_filter	n_down_basic_filter
+OPC_NPC_like_malignant	tested	69	221	61505	99444	15176	1493	925	568
+hypoxia_stress_malignant	tested	58	232	32685	128264	15176	4315	1622	2693
+AC_like_reactive_malignant	tested	66	224	22348	138601	15176	5208	2425	2783
+NPC_neuronal_like_malignant	tested	31	259	5868	155081	15176	6249	2825	3424
+cycling_malignant_candidate	tested	66	224	38543	122406	15176	3535	2077	1458

@@ -1,0 +1,6 @@
+malignant_state	n_pseudobulks	n_pseudobulks_passing	total_cells	median_cells_per_pseudobulk	n_samples	n_patients	n_conditions	median_library_size	median_detected_genes
+AC_like_reactive_malignant	80	66	22525	133.0	80	50	4	629187.5	12718.0
+NPC_neuronal_like_malignant	66	31	6183	26.5	66	42	4	86648.5	9256.0
+OPC_NPC_like_malignant	79	69	61646	426.0	79	49	4	2.237404e+06	13726.0
+cycling_malignant_candidate	75	66	38634	279.0	75	48	4	1.913692e+06	13500.0
+hypoxia_stress_malignant	75	58	32896	178.0	75	48	4	887913.0	12887.0
