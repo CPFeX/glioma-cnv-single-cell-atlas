@@ -1,0 +1,4 @@
+feature_type	table	test	n_cells	n_rows	n_cols	chi2	dof	pvalue	cramers_v	interpretation_note
+compartment	final_compartment_major x condition	chi_square_independence_per_cell_descriptive	351427	4	4	33319.61801217448	9	0.0	0.1777754624336507	Descriptive per-cell association only; sample-level tests are primary for condition comparisons.
+annotation	final_annotation_refined x condition	chi_square_independence_per_cell_descriptive	351427	18	4	113258.37950964065	51	0.0	0.3277607780021447	Descriptive per-cell association only; sample-level tests are primary for condition comparisons.
+cluster	leiden_scvi_main x condition	chi_square_independence_per_cell_descriptive	351427	18	4	113258.37950964068	51	0.0	0.32776077800214476	Descriptive per-cell association only; sample-level tests are primary for condition comparisons.

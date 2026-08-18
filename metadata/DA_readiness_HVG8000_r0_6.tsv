@@ -1,0 +1,17 @@
+metric	value
+n_cells	351427
+n_genes	15176
+condition_col	condition
+sample_col	sample_id
+patient_col	patient_id
+dataset_col	core_dataset
+cluster_col	leiden_scvi_main
+compartment_col	final_compartment_major
+annotation_col	final_annotation_refined
+copykat_col	copykat_pred_clean
+n_conditions	4
+n_samples	83
+n_patients	50
+n_clusters	18
+n_compartments	4
+n_refined_annotations	18

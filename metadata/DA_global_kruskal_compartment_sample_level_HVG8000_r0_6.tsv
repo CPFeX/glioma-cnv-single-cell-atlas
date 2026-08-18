@@ -1,0 +1,5 @@
+feature_type	feature	test	conditions_compared	statistic	pvalue	status	n_units_total	qvalue_fdr_bh
+final_compartment_major	review	Kruskal-Wallis	GBM;LGG;ndGBM;rGBM	18.904233651221602	0.00028615120079379143	ok	83	0.0011446048031751657
+final_compartment_major	malignant_like	Kruskal-Wallis	GBM;LGG;ndGBM;rGBM	12.59197977766604	0.0056074404257286095	ok	80	0.011214880851457219
+final_compartment_major	cycling_malignant_like_candidate	Kruskal-Wallis	GBM;LGG;ndGBM;rGBM	4.252584345479079	0.23544964405014684	ok	75	0.3139328587335291
+final_compartment_major	non_malignant_or_diploid_leaning	Kruskal-Wallis	GBM;LGG;ndGBM;rGBM	1.7186837452420036	0.6327879914455303	ok	81	0.6327879914455303

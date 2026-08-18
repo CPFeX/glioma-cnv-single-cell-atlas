@@ -1,0 +1,5 @@
+feature_type	feature	test	conditions_compared	statistic	pvalue	status	n_units_total	qvalue_fdr_bh
+copykat_pred_clean	diploid	Kruskal-Wallis	GBM;LGG;ndGBM;rGBM	8.092552466634174	0.04413715422175581	ok	82	0.13241146266526746
+copykat_pred_clean	not_defined	Kruskal-Wallis	GBM;LGG;ndGBM;rGBM	6.1989770604228625	0.10232081291038098	ok	83	0.15348121936557146
+copykat_pred_clean	aneuploid	Kruskal-Wallis	GBM;LGG;ndGBM;rGBM	2.6088449702907326	0.4559410189748362	ok	83	0.4559410189748362
+copykat_pred_clean	missing	Kruskal-Wallis	GBM;LGG;ndGBM;rGBM			insufficient_nonconstant_groups	1	
