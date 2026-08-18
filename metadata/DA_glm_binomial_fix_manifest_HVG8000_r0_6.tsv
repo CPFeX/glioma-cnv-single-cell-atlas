@@ -1,0 +1,4 @@
+path	exists	size_bytes
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\DA_sample_level_compartment_proportions_HVG8000_r0_6.tsv	True	41280
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\DA_glm_binomial_compartment_sample_level_HVG8000_r0_6_v2_fixed.tsv	True	649
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\DA_glm_binomial_compartment_sample_level_HVG8000_r0_6_v2_fixed_coefficients.tsv	True	2560

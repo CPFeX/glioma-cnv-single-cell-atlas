@@ -1,0 +1,5 @@
+feature	test	pvalue	status	n_units	n_conditions	ll_full	ll_null	df_diff	lrt_stat	qvalue_fdr_bh
+cycling_malignant_like_candidate	binomial_GLM_condition_LRT_v2	0.0	ok	75	4	-17523.804323909168	-18524.57278840656	3	2001.5369289947848	0.0
+malignant_like	binomial_GLM_condition_LRT_v2	0.0	ok	80	4	-51857.44480476095	-63006.80442968802	3	22298.71924985414	0.0
+review	binomial_GLM_condition_LRT_v2	0.0	ok	83	4	-74921.66124639552	-90140.84680406022	3	30438.371115329384	0.0
+non_malignant_or_diploid_leaning	binomial_GLM_condition_LRT_v2	2.2537479224121863e-282	ok	81	4	-12626.41089165405	-13278.288770297462	3	1303.7557572868245	2.2537479224121863e-282
