@@ -1,0 +1,11 @@
+figure	description
+G:\Repository\glioma-cnv-single-cell-atlas\figures\final_malignant_state_analysis\UMAP_malignant_state_final_compartment_condition_HVG8000_r0_6.png	UMAP colored by malignant state, final compartment and condition
+G:\Repository\glioma-cnv-single-cell-atlas\figures\final_malignant_state_analysis\UMAP_score_OPC_proneural_program_HVG8000_r0_6.png	UMAP program score: score_OPC_proneural_program
+G:\Repository\glioma-cnv-single-cell-atlas\figures\final_malignant_state_analysis\UMAP_score_NPC_neural_program_HVG8000_r0_6.png	UMAP program score: score_NPC_neural_program
+G:\Repository\glioma-cnv-single-cell-atlas\figures\final_malignant_state_analysis\UMAP_score_AC_like_reactive_program_HVG8000_r0_6.png	UMAP program score: score_AC_like_reactive_program
+G:\Repository\glioma-cnv-single-cell-atlas\figures\final_malignant_state_analysis\UMAP_score_MES_like_program_HVG8000_r0_6.png	UMAP program score: score_MES_like_program
+G:\Repository\glioma-cnv-single-cell-atlas\figures\final_malignant_state_analysis\UMAP_score_hypoxia_stress_program_HVG8000_r0_6.png	UMAP program score: score_hypoxia_stress_program
+G:\Repository\glioma-cnv-single-cell-atlas\figures\final_malignant_state_analysis\UMAP_score_cycling_program_HVG8000_r0_6.png	UMAP program score: score_cycling_program
+G:\Repository\glioma-cnv-single-cell-atlas\figures\final_malignant_state_analysis\UMAP_score_myeloid_contamination_review_program_HVG8000_r0_6.png	UMAP program score: score_myeloid_contamination_review_program
+G:\Repository\glioma-cnv-single-cell-atlas\figures\final_malignant_state_analysis\bar_malignant_state_condition_median_sample_fraction_HVG8000_r0_6.png	Barplot of sample-level median malignant-state fractions by condition
+G:\Repository\glioma-cnv-single-cell-atlas\figures\final_malignant_state_analysis\dotplot_malignant_state_program_markers_HVG8000_r0_6.png	Dotplot of malignant-state program markers

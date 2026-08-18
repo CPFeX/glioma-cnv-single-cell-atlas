@@ -1,0 +1,8 @@
+program	n_genes_requested	n_genes_present	n_genes_missing	present_genes	missing_genes
+OPC_proneural_program	9	9	0	PDGFRA,OLIG1,OLIG2,PTPRZ1,BCAN,SOX6,SOX10,CSPG4,NKX2-2	
+NPC_neural_program	9	9	0	SOX4,SOX11,DCX,STMN2,TUBB3,DLX5,MYT1L,ASCL1,NEUROD1	
+AC_like_reactive_program	8	8	0	GFAP,AQP4,ALDH1L1,SLC1A3,CLU,SPARCL1,APOE,VIM	
+MES_like_program	9	9	0	CHI3L1,CD44,VIM,FN1,SERPINE1,TGFBI,LGALS3,CCL2,ITGA5	
+hypoxia_stress_program	9	9	0	CA9,VEGFA,HILPDA,LOX,BNIP3,PDK1,SLC2A1,DDIT4,NDRG1	
+cycling_program	9	9	0	MKI67,TOP2A,PBK,BIRC5,UBE2C,CENPF,NUSAP1,CENPA,HMGB2	
+myeloid_contamination_review_program	9	9	0	C1QA,C1QB,C1QC,TYROBP,LYZ,FCN1,CD74,HLA-DRA,CSF1R	

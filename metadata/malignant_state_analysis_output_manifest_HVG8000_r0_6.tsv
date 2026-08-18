@@ -1,0 +1,13 @@
+file	description
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\malignant_state_cell_counts_HVG8000_r0_6.tsv	Cell counts for malignant-state labels
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\malignant_state_readiness_HVG8000_r0_6.tsv	Input readiness report
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\malignant_state_cluster_summary_HVG8000_r0_6.tsv	Cluster-to-malignant-state QC summary
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\malignant_state_sample_level_proportions_HVG8000_r0_6.tsv	Sample-level malignant state proportions
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\malignant_state_condition_summary_sample_level_HVG8000_r0_6.tsv	Condition-level summary of malignant-state sample fractions
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\malignant_state_global_kruskal_sample_level_HVG8000_r0_6.tsv	Kruskal-Wallis tests for malignant-state proportions by condition
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\malignant_state_pairwise_mannwhitney_sample_level_HVG8000_r0_6.tsv	Pairwise Mann-Whitney tests for malignant-state proportions by condition
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\malignant_state_program_marker_presence_HVG8000_r0_6.tsv	Presence/absence of malignant program marker genes
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\malignant_state_program_score_summary_HVG8000_r0_6.tsv	Program score summaries by malignant state and condition
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\malignant_state_sample_level_program_scores_HVG8000_r0_6.tsv	Sample-level program score summaries for malignant states
+G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_final_annotation_malignant_states.h5ad	Updated h5ad with malignant-state labels and program scores
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\malignant_state_figure_manifest_HVG8000_r0_6.tsv	Figure manifest for malignant-state analysis

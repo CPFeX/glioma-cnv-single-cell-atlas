@@ -1,0 +1,7 @@
+malignant_state	n_cells	fraction_all_cells
+not_malignant_state	189543	0.5393524117384265
+OPC_NPC_like_malignant	61646	0.17541623153599467
+cycling_malignant_candidate	38634	0.10993463791911265
+hypoxia_stress_malignant	32896	0.09360692263258087
+AC_like_reactive_malignant	22525	0.06409581506258767
+NPC_neuronal_like_malignant	6183	0.017593981111297653

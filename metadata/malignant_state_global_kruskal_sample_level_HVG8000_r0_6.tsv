@@ -1,0 +1,6 @@
+malignant_state	test	value_tested	conditions_tested	n_conditions	p_value	q_value_bh
+AC_like_reactive_malignant	Kruskal-Wallis	fraction_within_malignant_state_pool	GBM,LGG,ndGBM,rGBM	4	0.08239277354157189	0.08239277354157189
+NPC_neuronal_like_malignant	Kruskal-Wallis	fraction_within_malignant_state_pool	GBM,LGG,ndGBM,rGBM	4	0.054498538596675805	0.06812317324584476
+OPC_NPC_like_malignant	Kruskal-Wallis	fraction_within_malignant_state_pool	GBM,LGG,ndGBM,rGBM	4	0.005453062570640093	0.02081558897996767
+cycling_malignant_candidate	Kruskal-Wallis	fraction_within_malignant_state_pool	GBM,LGG,ndGBM,rGBM	4	0.008326235591987068	0.02081558897996767
+hypoxia_stress_malignant	Kruskal-Wallis	fraction_within_malignant_state_pool	GBM,LGG,ndGBM,rGBM	4	0.01533839259436945	0.02556398765728242

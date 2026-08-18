@@ -1,0 +1,16 @@
+item	value
+n_cells	351427
+n_genes	15176
+input_h5ad_exists	True
+cluster_key	leiden_scvi_main
+final_compartment_col	final_compartment_major
+final_annotation_col	final_annotation_refined
+condition_col	condition
+sample_col	sample_id
+patient_col	patient_id
+dataset_col	core_dataset
+counts_source_for_scoring	counts
+counts_min_sample	1.0
+counts_max_sample	389.0
+counts_integer_like_sample	True
+has_X_umap	True
