@@ -1,0 +1,7 @@
+contrast	condition_A	condition_B	n_A	n_B	status	n_genes_tested	n_sig_welch_fdr_0_05	n_sig_mw_fdr_0_05	n_sig_abs_log2fc_0_5_fdr_0_05
+GBM_vs_LGG	GBM	LGG	39	4	tested	15081	8504	6015	7455
+GBM_vs_ndGBM	GBM	ndGBM	39	18	tested	15081	4584	4192	3308
+GBM_vs_rGBM	GBM	rGBM	39	16	tested	15081	5285	4556	4089
+LGG_vs_ndGBM	LGG	ndGBM	4	18	tested	15081	6164	4569	5512
+LGG_vs_rGBM	LGG	rGBM	4	16	tested	15081	6553	5270	5970
+ndGBM_vs_rGBM	ndGBM	rGBM	18	16	tested	15081	919	862	670

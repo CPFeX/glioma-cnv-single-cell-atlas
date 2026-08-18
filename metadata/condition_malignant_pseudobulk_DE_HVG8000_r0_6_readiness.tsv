@@ -1,0 +1,11 @@
+item	value
+input_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_final_annotation_malignant_states.h5ad
+n_cells	351427
+n_genes	15176
+counts_source	Notebook-21 pseudobulk layers['counts']
+counts_integer_like_sample	True
+condition_col	condition
+sample_col	sample_id
+patient_col	patient_id
+dataset_col	core_dataset
+cluster_col	leiden_scvi_main

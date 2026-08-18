@@ -1,0 +1,5 @@
+condition	n_samples	n_pseudobulks	median_cells	total_cells	median_library_size
+GBM	39	39	1162.0	82869	4191294.0
+LGG	4	4	1510.0	5023	16806812.5
+ndGBM	18	18	1800.0	45136	16141893.5
+rGBM	16	16	1412.0	28835	15412161.0

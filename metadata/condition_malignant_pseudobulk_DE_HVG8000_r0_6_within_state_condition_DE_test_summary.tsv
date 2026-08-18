@@ -1,0 +1,28 @@
+condition_malignant_state	contrast	condition_A	condition_B	n_A	n_B	status	n_genes_tested	n_sig_welch_fdr_0_05	n_sig_mw_fdr_0_05	n_sig_abs_log2fc_0_5_fdr_0_05
+AC_like_reactive_malignant	GBM_vs_LGG	GBM	LGG	34	2	skipped_low_sample_count				
+AC_like_reactive_malignant	GBM_vs_ndGBM	GBM	ndGBM	34	17	tested	15176.0	3664.0	3557.0	3254.0
+AC_like_reactive_malignant	GBM_vs_rGBM	GBM	rGBM	34	13	tested	15176.0	4324.0	3460.0	3994.0
+AC_like_reactive_malignant	LGG_vs_ndGBM	LGG	ndGBM	2	17	skipped_low_sample_count				
+AC_like_reactive_malignant	LGG_vs_rGBM	LGG	rGBM	2	13	skipped_low_sample_count				
+AC_like_reactive_malignant	ndGBM_vs_rGBM	ndGBM	rGBM	17	13	tested	15176.0	662.0	394.0	582.0
+NPC_neuronal_like_malignant	GBM_vs_LGG	GBM	LGG	17	3	tested	15176.0	4184.0	759.0	4127.0
+NPC_neuronal_like_malignant	GBM_vs_ndGBM	GBM	ndGBM	17	7	tested	15176.0	585.0	593.0	582.0
+NPC_neuronal_like_malignant	GBM_vs_rGBM	GBM	rGBM	17	4	tested	15176.0	1235.0	119.0	1219.0
+NPC_neuronal_like_malignant	LGG_vs_ndGBM	LGG	ndGBM	3	7	tested	15176.0	1050.0	0.0	1046.0
+NPC_neuronal_like_malignant	LGG_vs_rGBM	LGG	rGBM	3	4	tested	15176.0	212.0	0.0	212.0
+NPC_neuronal_like_malignant	ndGBM_vs_rGBM	ndGBM	rGBM	7	4	tested	15176.0	76.0	0.0	76.0
+OPC_NPC_like_malignant	GBM_vs_LGG	GBM	LGG	36	4	tested	15176.0	8111.0	4874.0	7185.0
+OPC_NPC_like_malignant	GBM_vs_ndGBM	GBM	ndGBM	36	15	tested	15176.0	4273.0	3535.0	3408.0
+OPC_NPC_like_malignant	GBM_vs_rGBM	GBM	rGBM	36	14	tested	15176.0	4712.0	3753.0	3997.0
+OPC_NPC_like_malignant	LGG_vs_ndGBM	LGG	ndGBM	4	15	tested	15176.0	5954.0	4656.0	5362.0
+OPC_NPC_like_malignant	LGG_vs_rGBM	LGG	rGBM	4	14	tested	15176.0	5926.0	4580.0	5532.0
+OPC_NPC_like_malignant	ndGBM_vs_rGBM	ndGBM	rGBM	15	14	tested	15176.0	678.0	493.0	550.0
+cycling_malignant_candidate	GBM_vs_LGG	GBM	LGG	32	4	tested	15176.0	5652.0	4448.0	5015.0
+cycling_malignant_candidate	GBM_vs_ndGBM	GBM	ndGBM	32	16	tested	15176.0	3942.0	3435.0	3046.0
+cycling_malignant_candidate	GBM_vs_rGBM	GBM	rGBM	32	14	tested	15176.0	4672.0	3934.0	3880.0
+cycling_malignant_candidate	LGG_vs_ndGBM	LGG	ndGBM	4	16	tested	15176.0	3896.0	3589.0	3597.0
+cycling_malignant_candidate	LGG_vs_rGBM	LGG	rGBM	4	14	tested	15176.0	3984.0	3905.0	3767.0
+cycling_malignant_candidate	ndGBM_vs_rGBM	ndGBM	rGBM	16	14	tested	15176.0	767.0	540.0	616.0
+hypoxia_stress_malignant	GBM_vs_ndGBM	GBM	ndGBM	31	15	tested	15176.0	3162.0	2847.0	2820.0
+hypoxia_stress_malignant	GBM_vs_rGBM	GBM	rGBM	31	12	tested	15176.0	3944.0	2877.0	3608.0
+hypoxia_stress_malignant	ndGBM_vs_rGBM	ndGBM	rGBM	15	12	tested	15176.0	947.0	615.0	846.0
