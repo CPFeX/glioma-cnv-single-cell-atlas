@@ -1,0 +1,3 @@
+test	n_cells_defined	n_categories	chi2	dof	p_value	cramers_v	q_value_bh
+cluster_vs_copykat	314388	18	50389.90746454868	17	0.0	0.4003490478376939	0.0
+final_group_vs_copykat	314388	4	43327.50432661231	3	0.0	0.3712349503948064	0.0

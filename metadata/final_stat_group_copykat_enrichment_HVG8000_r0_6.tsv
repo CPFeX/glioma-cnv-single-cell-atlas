@@ -1,0 +1,5 @@
+final_group	n_defined	n_aneuploid	n_diploid	aneuploid_fraction_defined	odds_ratio_group_vs_rest	fisher_p_value	fisher_q_value_bh
+cycling_malignant_like_candidate	35009	29096	5913	0.8311005741380788	2.9892331746026644	0.0	0.0
+malignant_like	108635	88602	20033	0.8155935011736549	3.539232545442225	0.0	0.0
+review	150226	80818	69408	0.5379761159852489	0.401413571743579	0.0	0.0
+non_malignant_or_diploid_leaning	20518	4379	16139	0.21342236085388439	0.13032919829918965	0.0	0.0

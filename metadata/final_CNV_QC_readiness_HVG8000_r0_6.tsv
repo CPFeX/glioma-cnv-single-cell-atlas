@@ -1,0 +1,2 @@
+final_h5ad	n_cells	n_obs_columns	has_umap	cluster_col	copykat_col	final_group_col
+G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_fullgene_marker_based_annotation_bias_status_copykat_consensus.h5ad	351427	93	True	leiden_scvi_main	copykat_pred_clean	final_malignancy_group_copykat_marker

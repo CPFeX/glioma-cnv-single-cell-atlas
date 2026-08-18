@@ -1,0 +1,9 @@
+field	column
+cluster	leiden_scvi_main
+annotation	annotation_marker_based_HVG8000_r0_6
+copykat_prediction	copykat_pred_clean
+final_malignancy_group	final_malignancy_group_copykat_marker
+condition	condition
+dataset	core_dataset
+patient	patient_id
+sample	sample_id

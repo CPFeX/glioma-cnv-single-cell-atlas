@@ -1,0 +1,8 @@
+figure_label	path	exists	size_mb
+Final malignancy group + CopyKAT/marker consensus	G:\Repository\glioma-cnv-single-cell-atlas\figures\final_CNV_QC_HVG8000_r0_6\UMAP_final_group_for_plot_HVG8000_r0_6.png	True	0.020895957946777344
+CopyKAT prediction	G:\Repository\glioma-cnv-single-cell-atlas\figures\final_CNV_QC_HVG8000_r0_6\UMAP_copykat_for_plot_HVG8000_r0_6.png	True	0.01654338836669922
+scVI Leiden cluster	G:\Repository\glioma-cnv-single-cell-atlas\figures\final_CNV_QC_HVG8000_r0_6\UMAP_cluster_for_plot_HVG8000_r0_6.png	True	0.015705108642578125
+Marker-based annotation	G:\Repository\glioma-cnv-single-cell-atlas\figures\final_CNV_QC_HVG8000_r0_6\UMAP_annotation_marker_based_HVG8000_r0_6_HVG8000_r0_6.png	True	0.01686573028564453
+Condition	G:\Repository\glioma-cnv-single-cell-atlas\figures\final_CNV_QC_HVG8000_r0_6\UMAP_condition_HVG8000_r0_6.png	True	0.0142364501953125
+Dataset	G:\Repository\glioma-cnv-single-cell-atlas\figures\final_CNV_QC_HVG8000_r0_6\UMAP_core_dataset_HVG8000_r0_6.png	True	0.014086723327636719
+bar_final_malignancy_group_counts	G:\Repository\glioma-cnv-single-cell-atlas\figures\final_CNV_QC_HVG8000_r0_6\bar_final_malignancy_group_counts_HVG8000_r0_6.png	True	0.04886913299560547
