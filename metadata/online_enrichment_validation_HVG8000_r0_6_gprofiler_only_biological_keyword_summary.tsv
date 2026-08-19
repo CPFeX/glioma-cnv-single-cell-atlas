@@ -1,0 +1,47 @@
+source	gene_list	category	n_terms	best_p_value	top_terms
+gProfiler	condition_overall__GBM_vs_LGG__GBM_up	immune_inflammation_interferon_TNF	11	6.568603031007756e-05	immune system process | Immune System | Antigen processing-Cross presentation | Innate Immune System | antigen processing and presentation of peptide antigen via MHC class I
+gProfiler	condition_overall__GBM_vs_LGG__GBM_up	MES_ECM_EMT_invasion	4	0.00045158157286653264	Extracellular matrix organization | regulation of smooth muscle cell-matrix adhesion | response to wounding | wound healing
+gProfiler	condition_overall__GBM_vs_LGG__GBM_up	angiogenesis_endothelial	3	0.004987433351987626	vasculature development | blood vessel development | blood vessel morphogenesis
+gProfiler	condition_overall__GBM_vs_LGG__LGG_up	OPC_oligodendrocyte_glial	1	0.021423907207354247	Oligodendrocyte development
+gProfiler	condition_overall__GBM_vs_ndGBM__ndGBM_up	dna_damage_repair	1	0.02665028100693856	DNA repair
+gProfiler	condition_overall__GBM_vs_rGBM__GBM_up	immune_inflammation_interferon_TNF	8	0.0016389242555985464	Antigen Presentation: Folding, assembly and peptide loading of class I MHC | antigen processing and presentation of endogenous peptide antigen via MHC class I | Antigen processing and presentation | antigen processing and presentation of endogenous peptide antigen | antigen processing and presentation of endogenous peptide antigen via MHC class I via ER pathway, TAP-independent
+gProfiler	condition_overall__GBM_vs_rGBM__rGBM_up	cycling_E2F_G2M	15	5.844736800672715e-06	cell cycle process | cell cycle | mitotic cell cycle process | mitotic sister chromatid segregation | chromosome segregation
+gProfiler	condition_overall__GBM_vs_rGBM__rGBM_up	dna_damage_repair	4	4.491421848090877e-05	DNA repair | DNA damage response | double-strand break repair via homologous recombination | double-strand break repair
+gProfiler	condition_overall__GBM_vs_rGBM__rGBM_up	hypoxia_glycolysis_stress	1	0.00017413072409987914	cellular response to stress
+gProfiler	condition_overall__LGG_vs_ndGBM__LGG_up	neural_NPC_development	11	9.382225881388506e-14	nervous system development | neurogenesis | generation of neurons | neuron differentiation | central nervous system development
+gProfiler	condition_overall__LGG_vs_ndGBM__LGG_up	OPC_oligodendrocyte_glial	3	0.001730018890796066	Oligodendrocyte specification and differentiation leading to myelin components for CNS | glial cell differentiation | glial cell fate commitment
+gProfiler	condition_overall__LGG_vs_ndGBM__ndGBM_up	MES_ECM_EMT_invasion	17	3.4891015501039205e-08	Extracellular matrix organization | cell migration | regulation of cell migration | positive regulation of cell migration | wound healing
+gProfiler	condition_overall__LGG_vs_ndGBM__ndGBM_up	immune_inflammation_interferon_TNF	3	4.817265925696975e-05	immune system process | regulation of immune system process | positive regulation of immune system process
+gProfiler	condition_overall__LGG_vs_ndGBM__ndGBM_up	hypoxia_glycolysis_stress	2	0.00010025047972799886	response to stress | response to hypoxia
+gProfiler	condition_overall__LGG_vs_ndGBM__ndGBM_up	angiogenesis_endothelial	6	0.0020119289515851337	vasculature development | blood vessel morphogenesis | angiogenesis | blood vessel development | regulation of angiogenesis
+gProfiler	condition_overall__LGG_vs_ndGBM__ndGBM_up	MES_ECM_EMT_invasion;immune_inflammation_interferon_TNF	1	0.04039672883865948	positive regulation of leukocyte migration
+gProfiler	condition_overall__LGG_vs_rGBM__LGG_up	neural_NPC_development	18	1.1347314195956736e-17	nervous system development | neurogenesis | neuron differentiation | generation of neurons | neuron development
+gProfiler	condition_overall__LGG_vs_rGBM__rGBM_up	MES_ECM_EMT_invasion	11	2.8943440926494115e-06	cell migration | regulation of cell migration | Extracellular matrix organization | extracellular matrix organization | Focal adhesion
+gProfiler	condition_overall__LGG_vs_rGBM__rGBM_up	immune_inflammation_interferon_TNF	3	6.614659101948586e-05	Immune System | Innate Immune System | regulation of immune system process
+gProfiler	condition_overall__LGG_vs_rGBM__rGBM_up	angiogenesis_endothelial	6	0.00025335596588863207	vasculature development | blood vessel morphogenesis | regulation of vasculature development | blood vessel development | regulation of angiogenesis
+gProfiler	condition_overall__LGG_vs_rGBM__rGBM_up	hypoxia_glycolysis_stress	1	0.0038789364965858453	response to stress
+gProfiler	condition_overall__LGG_vs_rGBM__rGBM_up	neural_NPC_development	1	0.00669919904530624	Nervous system development
+gProfiler	condition_overall__LGG_vs_rGBM__rGBM_up	MES_ECM_EMT_invasion;immune_inflammation_interferon_TNF	1	0.013533074720422525	regulation of leukocyte migration
+gProfiler	condition_overall__ndGBM_vs_rGBM__rGBM_up	dna_damage_repair	2	5.8952304817966685e-05	DNA damage response | DNA repair
+gProfiler	condition_overall__ndGBM_vs_rGBM__rGBM_up	hypoxia_glycolysis_stress	1	0.011724638746091923	cellular response to stress
+gProfiler	condition_overall__ndGBM_vs_rGBM__rGBM_up	cycling_E2F_G2M	2	0.02699897794876377	DNA replication | regulation of cell cycle
+gProfiler	state_marker__AC_like_reactive_malignant__up	neural_NPC_development	5	3.6829088800227e-06	nervous system development | neurogenesis | neuron differentiation | generation of neurons | Complement system in neuronal development and plasticity
+gProfiler	state_marker__AC_like_reactive_malignant__up	MES_ECM_EMT_invasion	3	2.610993979847778e-05	cell migration | cell-matrix adhesion | response to wounding
+gProfiler	state_marker__AC_like_reactive_malignant__up	OPC_oligodendrocyte_glial	2	0.003893288147457638	gliogenesis | microglial cell proliferation
+gProfiler	state_marker__NPC_neuronal_like_malignant__up	neural_NPC_development	38	1.1184808350300269e-30	nervous system development | neuron differentiation | generation of neurons | neuron development | neurogenesis
+gProfiler	state_marker__NPC_neuronal_like_malignant__up	MES_ECM_EMT_invasion;neural_NPC_development	1	0.0036613007043770017	neuron migration
+gProfiler	state_marker__OPC_NPC_like_malignant__up	neural_NPC_development	10	7.987723660326081e-08	nervous system development | neurogenesis | neuron differentiation | generation of neurons | central nervous system development
+gProfiler	state_marker__OPC_NPC_like_malignant__up	OPC_oligodendrocyte_glial	7	2.1504093226521865e-06	oligodendrocyte differentiation | gliogenesis | glial cell differentiation | Oligodendrocyte development | myelination
+gProfiler	state_marker__OPC_NPC_like_malignant__up	OPC_oligodendrocyte_glial;neural_NPC_development	1	0.0018714327074236966	axon ensheathment
+gProfiler	state_marker__cycling_malignant_candidate__up	cycling_E2F_G2M	154	2.287292193087319e-134	cell cycle process | Cell Cycle | cell cycle | mitotic cell cycle | Cell Cycle, Mitotic
+gProfiler	state_marker__cycling_malignant_candidate__up	cycling_E2F_G2M;dna_damage_repair	24	3.663755806020915e-70	Cell Cycle Checkpoints | cell cycle checkpoint signaling | Mitotic Spindle Checkpoint | mitotic cell cycle checkpoint signaling | mitotic spindle assembly checkpoint signaling
+gProfiler	state_marker__cycling_malignant_candidate__up	dna_damage_repair	31	3.446378119868064e-53	DNA repair | DNA damage response | double-strand break repair | double-strand break repair via homologous recombination | G2/M Checkpoints
+gProfiler	state_marker__cycling_malignant_candidate__up	hypoxia_glycolysis_stress	3	6.356853900186573e-32	cellular response to stress | response to stress | regulation of cellular response to stress
+gProfiler	state_marker__cycling_malignant_candidate__up	hypoxia_glycolysis_stress;dna_damage_repair	1	3.7065150986615738e-28	Activation of ATR in response to replication stress
+gProfiler	state_marker__cycling_malignant_candidate__up	immune_inflammation_interferon_TNF	7	3.853623733028493e-14	cytokinesis | regulation of cytokinesis | cytoskeleton-dependent cytokinesis | positive regulation of cytokinesis | cytokinetic process
+gProfiler	state_marker__cycling_malignant_candidate__up	cycling_E2F_G2M;immune_inflammation_interferon_TNF	5	2.7343663297064784e-12	mitotic cytokinesis | positive regulation of mitotic cytokinesis | regulation of mitotic cytokinesis | mitotic cytokinetic process | Mitotic Telophase/Cytokinesis
+gProfiler	state_marker__hypoxia_stress_malignant__up	hypoxia_glycolysis_stress	29	4.332374901552654e-19	response to hypoxia | response to stress | Photodynamic therapy induced HIF 1 survival signaling | cellular response to stress | cellular response to hypoxia
+gProfiler	state_marker__hypoxia_stress_malignant__up	angiogenesis_endothelial	9	2.012644106949001e-05	angiogenesis | positive regulation of angiogenesis | positive regulation of vasculature development | blood vessel morphogenesis | blood vessel development
+gProfiler	state_marker__hypoxia_stress_malignant__up	MES_ECM_EMT_invasion	5	7.286432836620489e-05	Type I collagen synthesis in the context of osteogenesis imperfecta | collagen fibril organization | response to wounding | Collagen formation | smooth muscle cell migration
+gProfiler	state_marker__hypoxia_stress_malignant__up	hypoxia_glycolysis_stress;OPC_oligodendrocyte_glial	1	0.0010336401531738585	Lactate shuttle in glial cells
+gProfiler	state_marker__hypoxia_stress_malignant__up	immune_inflammation_interferon_TNF	2	0.02983568101038058	canonical NF-kappaB signal transduction | response to cytokine

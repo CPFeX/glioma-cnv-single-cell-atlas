@@ -1,0 +1,10 @@
+checkpoint	historical_value
+submitted_gene_lists	17
+successful_gene_lists	16
+gprofiler_result_rows	1669
+gprofiler_top_term_rows	160
+gprofiler_error_rows	1
+biological_keyword_summary_rows	43
+biological_category_count_rows	15
+historical_failed_gene_list	state_marker__AC_like_reactive_malignant__up
+historical_failure	TimeoutError('The read operation timed out')

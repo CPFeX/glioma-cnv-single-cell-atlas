@@ -1,0 +1,16 @@
+source	category	n_gene_list_category_hits
+gProfiler	MES_ECM_EMT_invasion	5
+gProfiler	MES_ECM_EMT_invasion;immune_inflammation_interferon_TNF	2
+gProfiler	MES_ECM_EMT_invasion;neural_NPC_development	1
+gProfiler	OPC_oligodendrocyte_glial	4
+gProfiler	OPC_oligodendrocyte_glial;neural_NPC_development	1
+gProfiler	angiogenesis_endothelial	4
+gProfiler	cycling_E2F_G2M	3
+gProfiler	cycling_E2F_G2M;dna_damage_repair	1
+gProfiler	cycling_E2F_G2M;immune_inflammation_interferon_TNF	1
+gProfiler	dna_damage_repair	4
+gProfiler	hypoxia_glycolysis_stress	6
+gProfiler	hypoxia_glycolysis_stress;OPC_oligodendrocyte_glial	1
+gProfiler	hypoxia_glycolysis_stress;dna_damage_repair	1
+gProfiler	immune_inflammation_interferon_TNF	6
+gProfiler	neural_NPC_development	6

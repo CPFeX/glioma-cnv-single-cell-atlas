@@ -1,0 +1,8 @@
+metric	historical	current	interpretation
+submitted_gene_lists	17	17	deterministic input checkpoint
+successful_gene_lists	16	17	online API coverage; may differ because the historical run had a timeout
+gprofiler_result_rows	1669	1738	online database snapshot; exact equality is not expected
+gprofiler_top_term_rows	160	170	online database snapshot; exact equality is not expected
+gprofiler_error_rows	1	0	transient network/API behavior
+biological_keyword_summary_rows	43	46	depends on current g:Profiler term snapshot
+biological_category_count_rows	15	15	depends on current g:Profiler term snapshot

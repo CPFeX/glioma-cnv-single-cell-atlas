@@ -1,0 +1,5 @@
+item	path	exists	n_rows
+state_marker_DE_file	G:\Repository\glioma-cnv-single-cell-atlas\metadata\malignant_state_pseudobulk_DE_state_vs_rest_significant_HVG8000_r0_6.tsv	True	20800.0
+condition_overall_DE_file	G:\Repository\glioma-cnv-single-cell-atlas\metadata\condition_malignant_pseudobulk_DE_HVG8000_r0_6_overall_malignant_pairwise_DE_significant_FDR0_05_absLFC0_5.tsv	True	27004.0
+historical_directional_gene_lists	in_memory	True	17.0
+gprofiler_api	https://biit.cs.ut.ee/gprofiler/api/gost/profile/	True	
