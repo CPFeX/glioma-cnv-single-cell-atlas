@@ -1,0 +1,6 @@
+label	n_rows	legacy_lfc_col	legacy_q_col	legacy_p_col	corrected_lfc_col	corrected_q_col	corrected_p_col
+malignant_state_significant	20800				logFC_logCPM_state_vs_rest	padj_fdr_bh	pval_mannwhitney
+malignant_state_top	1000				logFC_logCPM_state_vs_rest	padj_fdr_bh	pval_mannwhitney
+condition_overall_significant	27004				log2FC_A_vs_B	padj_welch	pvalue_welch
+condition_overall_top	1200				log2FC_A_vs_B	padj_welch	pvalue_welch
+within_state_condition_top	2400				log2FC_A_vs_B	padj_welch	pvalue_welch

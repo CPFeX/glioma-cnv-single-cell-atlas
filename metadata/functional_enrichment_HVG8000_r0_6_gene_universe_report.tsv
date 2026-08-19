@@ -1,0 +1,2 @@
+universe_source	n_universe_genes	n_universe_files	universe_files	warning
+canonical_all_genes_DE_files	15176	2	G:\Repository\glioma-cnv-single-cell-atlas\metadata\condition_malignant_pseudobulk_DE_HVG8000_r0_6_overall_malignant_pairwise_DE_all_genes.tsv;G:\Repository\glioma-cnv-single-cell-atlas\metadata\condition_malignant_pseudobulk_DE_HVG8000_r0_6_within_state_condition_DE_all_genes.tsv	

@@ -1,0 +1,6 @@
+label	n_rows	gene_col	lfc_col	q_col	p_col	group_cols
+malignant_state_significant	20800	gene	logFC_logCPM_state_vs_rest	padj_fdr_bh	pval_mannwhitney	malignant_state
+malignant_state_top	1000	gene	logFC_logCPM_state_vs_rest	padj_fdr_bh	pval_mannwhitney	malignant_state
+condition_overall_significant	27004	gene	log2FC_A_vs_B	padj_welch	pvalue_welch	contrast
+condition_overall_top	1200	gene	log2FC_A_vs_B	padj_welch	pvalue_welch	contrast
+within_state_condition_top	2400	gene	log2FC_A_vs_B	padj_welch	pvalue_welch	condition_malignant_state,contrast

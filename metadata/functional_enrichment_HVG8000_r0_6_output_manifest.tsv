@@ -1,0 +1,16 @@
+path	exists	size_mb
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\functional_enrichment_HVG8000_r0_6_readiness.tsv	True	0.001
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\functional_enrichment_HVG8000_r0_6_legacy_direction_detection_audit.tsv	True	0.0
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\functional_enrichment_HVG8000_r0_6_detected_DE_columns.tsv	True	0.001
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\functional_enrichment_HVG8000_r0_6_gene_universe_report.tsv	True	0.0
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\functional_enrichment_HVG8000_r0_6_gene_set_inventory.tsv	True	0.001
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\functional_enrichment_HVG8000_r0_6_external_gmt_files_loaded.tsv	True	0.0
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\functional_enrichment_HVG8000_r0_6_directional_gene_list_QC.tsv	True	0.012
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\functional_enrichment_HVG8000_r0_6_gene_list_inventory.tsv	True	0.006
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\functional_enrichment_HVG8000_r0_6_malignant_state_marker_ORA.tsv	True	0.01
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\functional_enrichment_HVG8000_r0_6_condition_overall_malignant_ORA.tsv	True	0.013
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\functional_enrichment_HVG8000_r0_6_within_state_condition_ORA.tsv	True	0.0
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\functional_enrichment_HVG8000_r0_6_biological_interpretation_summary.tsv	True	0.011
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\functional_enrichment_HVG8000_r0_6_program_score_global_kruskal_summary.tsv	True	0.001
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\functional_enrichment_HVG8000_r0_6_program_score_pairwise_summary.tsv	True	0.005
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\functional_enrichment_HVG8000_r0_6_figure_manifest.tsv	True	0.001

@@ -1,0 +1,9 @@
+input	path	exists	n_rows	size_mb
+state_significant	G:\Repository\glioma-cnv-single-cell-atlas\metadata\malignant_state_pseudobulk_DE_state_vs_rest_significant_HVG8000_r0_6.tsv	True	20800	4.17
+state_top	G:\Repository\glioma-cnv-single-cell-atlas\metadata\malignant_state_pseudobulk_DE_state_vs_rest_top100_up_down_HVG8000_r0_6.tsv	True	1000	0.21
+condition_overall_significant	G:\Repository\glioma-cnv-single-cell-atlas\metadata\condition_malignant_pseudobulk_DE_HVG8000_r0_6_overall_malignant_pairwise_DE_significant_FDR0_05_absLFC0_5.tsv	True	27004	4.511
+condition_overall_top	G:\Repository\glioma-cnv-single-cell-atlas\metadata\condition_malignant_pseudobulk_DE_HVG8000_r0_6_overall_malignant_pairwise_DE_top100_up_down.tsv	True	1200	0.214
+within_state_top	G:\Repository\glioma-cnv-single-cell-atlas\metadata\condition_malignant_pseudobulk_DE_HVG8000_r0_6_within_state_condition_DE_top50_up_down.tsv	True	2400	0.483
+within_state_summary	G:\Repository\glioma-cnv-single-cell-atlas\metadata\condition_malignant_pseudobulk_DE_HVG8000_r0_6_within_state_condition_DE_test_summary.tsv	True	27	0.002
+program_global	G:\Repository\glioma-cnv-single-cell-atlas\metadata\condition_malignant_pseudobulk_DE_HVG8000_r0_6_program_score_global_kruskal.tsv	True	7	0.001
+program_pairwise	G:\Repository\glioma-cnv-single-cell-atlas\metadata\condition_malignant_pseudobulk_DE_HVG8000_r0_6_program_score_pairwise_mannwhitney.tsv	True	42	0.005
