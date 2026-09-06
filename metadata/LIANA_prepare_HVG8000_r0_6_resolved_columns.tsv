@@ -1,0 +1,10 @@
+role	column
+cluster	leiden_scvi_main
+annotation	final_annotation_refined
+compartment	final_compartment_major
+condition	condition
+sample	sample_id
+patient	patient_id
+dataset	dataset_id
+copykat	copykat_pred_clean
+malignant_state	malignant_state

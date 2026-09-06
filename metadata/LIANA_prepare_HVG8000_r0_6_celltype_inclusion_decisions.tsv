@@ -1,0 +1,11 @@
+liana_celltype	n_total_cells	n_samples_present	n_conditions_present	n_cells_GBM	n_cells_LGG	n_cells_ndGBM	n_cells_rGBM	include_main_global	n_conditions_with_min_cells	include_condition_specific	note
+Malignant_OPC_NPC_like_malignant	61646	79	4	27377	3975	18830	11464	True	4	True	included in main LIANA global analysis
+Malignant_cycling_candidate	38634	75	4	17282	283	10730	10339	True	4	True	included in main LIANA global analysis
+Malignant_hypoxia_stress_malignant	32896	75	4	19953	38	9476	3429	True	3	True	included in main LIANA global analysis
+Malignant_AC_like_reactive_malignant	22525	80	4	13834	507	4864	3320	True	4	True	included in main LIANA global analysis
+Oligodendrocyte_myelinating	14809	72	4	9045	1180	1241	3343	True	4	True	included in main LIANA global analysis
+Malignant_NPC_neuronal_like_malignant	6183	66	4	4423	220	1241	299	True	4	True	included in main LIANA global analysis
+Mural_Pericyte_Fibroblast	3566	60	4	623	36	2446	461	True	3	True	included in main LIANA global analysis
+Endothelial	2640	62	4	1026	168	1002	444	True	4	True	included in main LIANA global analysis
+B_Plasma	1167	41	4	12	2	619	534	True	2	True	included in main LIANA global analysis
+Mast_cell	183	12	4	4	3	122	54	False	2	True	excluded from main LIANA global analysis due to low cells or low sample support

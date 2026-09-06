@@ -1,0 +1,11 @@
+path	exists	size_mb
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\LIANA_prepare_HVG8000_r0_6_resolved_columns.tsv	True	0.0
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\LIANA_prepare_HVG8000_r0_6_historical_to_canonical_label_audit.tsv	True	0.003
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\LIANA_prepare_HVG8000_r0_6_celltype_counts.tsv	True	0.002
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\LIANA_prepare_HVG8000_r0_6_sample_celltype_counts.tsv	True	0.148
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\LIANA_prepare_HVG8000_r0_6_condition_celltype_counts.tsv	True	0.006
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\LIANA_prepare_HVG8000_r0_6_celltype_inclusion_decisions.tsv	True	0.001
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\LIANA_prepare_HVG8000_r0_6_cell_metadata.tsv	True	85.034
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\LIANA_prepare_HVG8000_r0_6_main_cells.tsv	True	45.386
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\LIANA_prepare_HVG8000_r0_6_exploratory_cells.tsv	True	85.034
+G:\Repository\glioma-cnv-single-cell-atlas\metadata\LIANA_prepare_HVG8000_r0_6_readiness.tsv	True	0.001

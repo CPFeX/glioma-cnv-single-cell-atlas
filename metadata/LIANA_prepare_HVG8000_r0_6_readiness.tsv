@@ -1,0 +1,20 @@
+item	value	status
+input_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_final_annotation_malignant_states.h5ad	found
+n_cells	351427	ok
+n_genes	15176	ok
+cluster_col	leiden_scvi_main	ok
+annotation_col	final_annotation_refined	ok
+compartment_col	final_compartment_major	ok
+condition_col	condition	ok
+sample_col	sample_id	ok
+patient_col	patient_id	ok
+dataset_col	dataset_id	ok
+copykat_col	copykat_pred_clean	ok
+malignant_state_col	malignant_state	ok
+historical_label_bug	non_malignant substring was captured by malignant branch	corrected
+label_correction_membership_change	False	verified
+main_liana_celltypes	10	ok
+main_cells_included_global	184066	ok
+exploratory_cells	351427	ok
+write_duplicate_liana_ready_h5ad	False	configured
+created_at	2026-09-05T01:32:08	ok
