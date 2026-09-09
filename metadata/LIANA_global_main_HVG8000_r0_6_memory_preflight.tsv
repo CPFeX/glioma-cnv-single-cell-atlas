@@ -1,0 +1,8 @@
+item	value
+selected_counts_nnz	431978608
+source_counts_dtype	int32
+target_expression_dtype	float32
+estimated_expression_csr_gb	3.22
+available_ram_gb_before_load	8.153
+recommended_available_ram_gb	7.796
+n_jobs_memory_safe	1

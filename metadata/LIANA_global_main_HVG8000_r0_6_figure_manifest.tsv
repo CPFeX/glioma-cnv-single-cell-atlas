@@ -1,0 +1,4 @@
+figure	description
+G:\Repository\glioma-cnv-single-cell-atlas\figures\LIANA_HVG8000_r0_6\LIANA_global_main_HVG8000_r0_6_source_target_prioritized_count_heatmap.png	Diagnostic heatmap of prioritized LIANA LR interaction counts by source-target pair.
+G:\Repository\glioma-cnv-single-cell-atlas\figures\LIANA_HVG8000_r0_6\LIANA_global_main_HVG8000_r0_6_source_target_median_rank_heatmap.png	Diagnostic heatmap of median LIANA primary rank by source-target pair.
+G:\Repository\glioma-cnv-single-cell-atlas\figures\LIANA_HVG8000_r0_6\LIANA_global_main_HVG8000_r0_6_axis_summary_barplot.png	Diagnostic barplot of corrected malignant/non-malignant communication axes.

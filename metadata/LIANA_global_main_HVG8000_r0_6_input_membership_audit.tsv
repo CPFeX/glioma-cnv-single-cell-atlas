@@ -1,0 +1,6 @@
+item	expected	observed	match
+input_n_obs	351427	351427	True
+input_n_vars	15176	15176	True
+requested_main_cells	184066	184066	True
+matched_main_cells	184066	184066	True
+missing_main_cell_ids	0	0	True

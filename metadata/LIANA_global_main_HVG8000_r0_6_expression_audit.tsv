@@ -1,0 +1,7 @@
+item	expected	observed	match
+n_cells	184066	184066	True
+n_genes_after_historical_min_cells_1	15176	15176	True
+normalized_X_nnz	431978608	431978608	True
+X_dtype	float32	float32	True
+normalization_target_sum	10000.0	10000.0	True
+transform	log1p	log1p	True

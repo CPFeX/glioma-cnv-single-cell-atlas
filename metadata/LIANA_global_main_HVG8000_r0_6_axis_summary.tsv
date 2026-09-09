@@ -1,0 +1,5 @@
+communication_axis	n_prioritized_interactions	n_source_target_pairs	median_primary_rank	min_primary_rank
+non_malignant_reference_like_to_non_malignant_reference_like	168	16	0.015616486331616584	1.4302842329951697e-07
+non_malignant_reference_like_to_malignant_or_cycling	98	20	0.017271246215514985	2.5426564307392246e-07
+malignant_or_cycling_to_non_malignant_reference_like	88	20	0.0177402651948115	1.0736099965873651e-05
+malignant_or_cycling_to_malignant_or_cycling	60	25	0.012463265598503512	1.5892938467069037e-08

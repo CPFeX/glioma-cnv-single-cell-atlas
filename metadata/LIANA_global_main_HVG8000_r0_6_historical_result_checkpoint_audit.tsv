@@ -1,0 +1,5 @@
+checkpoint	expected_historical	observed	match
+n_liana_results	23797	23797	True
+n_prioritized	1384	1384	True
+n_unique_lr_pairs	264	264	True
+n_source_target_pairs	81	81	True
