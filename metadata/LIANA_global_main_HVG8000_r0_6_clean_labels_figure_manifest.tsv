@@ -1,0 +1,4 @@
+figure	description
+G:\Repository\glioma-cnv-single-cell-atlas\figures\LIANA_HVG8000_r0_6\LIANA_global_main_HVG8000_r0_6_clean_labels_source_target_prioritized_count_heatmap.png	Diagnostic canonical-label heatmap of unique prioritized LR pairs by source-target pair.
+G:\Repository\glioma-cnv-single-cell-atlas\figures\LIANA_HVG8000_r0_6\LIANA_global_main_HVG8000_r0_6_clean_labels_axis_summary_barplot.png	Diagnostic canonical-label barplot of unique prioritized LR pairs across communication axes.
+G:\Repository\glioma-cnv-single-cell-atlas\figures\LIANA_HVG8000_r0_6\LIANA_global_main_HVG8000_r0_6_clean_labels_top_lineage_axis_barplot.png	Diagnostic canonical-label barplot of top lineage-level LIANA axes.

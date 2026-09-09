@@ -1,0 +1,4 @@
+axis	n_rows	n_unique_lr_pairs	n_source_target_pairs	median_primary_rank	min_primary_rank
+malignant_to_microenvironment	309	88	20	0.0177402651948115	1.0736099965873653e-05
+microenvironment_to_malignant	344	98	20	0.01727124621551495	2.542656430739225e-07
+malignant_state_to_malignant_state	391	60	25	0.0124632655985035	1.5892938467069037e-08

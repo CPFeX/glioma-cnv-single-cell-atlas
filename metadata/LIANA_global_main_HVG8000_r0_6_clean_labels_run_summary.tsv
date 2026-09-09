@@ -1,0 +1,14 @@
+item	value
+postprocessing_only	True
+liana_rerun	False
+original_prefix	LIANA_global_main_HVG8000_r0_6
+clean_prefix	LIANA_global_main_HVG8000_r0_6_clean_labels
+canonical_labels_already_fixed_upstream	True
+historical_label_repair_applied	False
+n_prioritized_rows	1384
+n_unique_lr_pairs	264
+n_source_target_pairs	81
+n_clean_celltypes	9
+n_communication_axes	4
+notebook26_consistency_all_match	True
+completed_at	2026-09-09T15:19:45
