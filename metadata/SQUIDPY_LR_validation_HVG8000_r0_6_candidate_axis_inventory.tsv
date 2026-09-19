@@ -1,0 +1,9 @@
+candidate_axis	n_rows	n_unique_lr	n_source_target	n_single_gene_available
+PTN_PTPRZ1_NCL_SDC3_axis	162	4	62	162
+MDK_PTPRZ1_NCL_axis	110	4	54	110
+TIMP1_CD63_axis	64	1	64	64
+LGALS1_ITGB1_axis	46	1	46	46
+MIF_EGFR_CD74_axis	45	1	45	45
+VIM_CD44_axis	31	1	31	31
+VEGFA_angiogenesis_axis	16	2	14	16
+APP_CD74_axis	17	1	17	17

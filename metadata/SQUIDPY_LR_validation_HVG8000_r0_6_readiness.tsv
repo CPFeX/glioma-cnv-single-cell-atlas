@@ -1,0 +1,10 @@
+item	value	status
+input_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_final_annotation_malignant_states.h5ad	found
+h5ad_n_cells	351427	ok
+h5ad_n_genes	15176	ok
+canonical_main_cells	184066	ok
+canonical_celltypes	9	ok
+candidate_detail_rows	1298	ok
+historical_sample_manifest_rows	21167	ok
+squidpy_version	1.8.1	exact_historical
+counts_encoding	csr_matrix	memory_safe_supported

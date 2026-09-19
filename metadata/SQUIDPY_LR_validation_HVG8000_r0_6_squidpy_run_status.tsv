@@ -1,0 +1,12 @@
+item	value
+squidpy_status	available
+squidpy_version	1.8.1
+squidpy_run_status	completed
+squidpy_n_cells	21167
+squidpy_n_genes	19
+squidpy_n_candidate_interactions	15
+squidpy_n_perms	100
+squidpy_threshold	0.1
+random_seed	42
+sample_selection	audited_historical_stable_id_manifest
+normalization	scanpy_normalize_total_1e4_then_log1p

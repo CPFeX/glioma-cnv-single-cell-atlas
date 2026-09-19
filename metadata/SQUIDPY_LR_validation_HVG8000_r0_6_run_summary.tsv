@@ -1,0 +1,17 @@
+item	value
+historical_notebook	27_squidpy_LR_validation_top_LIANA_axes_HVG8000_r0_6.ipynb
+canonical_cell_metadata_source	LIANA_prepare_HVG8000_r0_6_main_cells.tsv
+canonical_candidate_source	LIANA_final_prioritization_HVG8000_r0_6_candidate_lr_source_target_details.tsv
+full_anndata_loaded	False
+memory_safe_selected_gene_streaming	True
+historical_scanpy_preprocessing_reproduced	True
+historical_structural_checkpoints_all_match	True
+canonical_label_audit_pass	True
+squidpy_version	1.8.1
+n_perms	100
+threshold	0.1
+random_seed	42
+sample_selection	audited_historical_stable_id_manifest
+candidate_axes	8
+candidate_interactions	491
+completed_at	2026-09-19T11:58:52

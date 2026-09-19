@@ -1,0 +1,7 @@
+item	value
+full_anndata_loaded	False
+streamed_cells	184066
+streamed_genes	19
+streamed_nnz	1952720
+streamed_matrix_mb	15.6
+source_counts_dtype	int32

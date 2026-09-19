@@ -1,0 +1,1216 @@
+ligand	receptor	lr_pair	source_clean	target_clean	squidpy_pvalue
+APP	CD74	APP→CD74	B_Plasma	B_Plasma	
+APP	CD74	APP→CD74	B_Plasma	Endothelial	
+APP	CD74	APP→CD74	B_Plasma	Malignant_AC_like_reactive_malignant	
+APP	CD74	APP→CD74	B_Plasma	Malignant_NPC_neuronal_like_malignant	
+APP	CD74	APP→CD74	B_Plasma	Malignant_OPC_NPC_like_malignant	
+APP	CD74	APP→CD74	B_Plasma	Malignant_cycling_candidate	
+APP	CD74	APP→CD74	B_Plasma	Malignant_hypoxia_stress_malignant	
+APP	CD74	APP→CD74	B_Plasma	Mural_Pericyte_Fibroblast	
+APP	CD74	APP→CD74	B_Plasma	Oligodendrocyte_myelinating	
+APP	CD74	APP→CD74	Endothelial	B_Plasma	0.0
+APP	CD74	APP→CD74	Endothelial	Endothelial	0.0
+APP	CD74	APP→CD74	Endothelial	Malignant_AC_like_reactive_malignant	0.0
+APP	CD74	APP→CD74	Endothelial	Malignant_NPC_neuronal_like_malignant	0.0
+APP	CD74	APP→CD74	Endothelial	Malignant_OPC_NPC_like_malignant	0.6942857142857143
+APP	CD74	APP→CD74	Endothelial	Malignant_cycling_candidate	0.3335294117647059
+APP	CD74	APP→CD74	Endothelial	Malignant_hypoxia_stress_malignant	0.0
+APP	CD74	APP→CD74	Endothelial	Mural_Pericyte_Fibroblast	0.0
+APP	CD74	APP→CD74	Endothelial	Oligodendrocyte_myelinating	0.0
+APP	CD74	APP→CD74	Malignant_AC_like_reactive_malignant	B_Plasma	0.0
+APP	CD74	APP→CD74	Malignant_AC_like_reactive_malignant	Endothelial	0.0
+APP	CD74	APP→CD74	Malignant_AC_like_reactive_malignant	Malignant_AC_like_reactive_malignant	1.0
+APP	CD74	APP→CD74	Malignant_AC_like_reactive_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+APP	CD74	APP→CD74	Malignant_AC_like_reactive_malignant	Malignant_OPC_NPC_like_malignant	1.0
+APP	CD74	APP→CD74	Malignant_AC_like_reactive_malignant	Malignant_cycling_candidate	1.0
+APP	CD74	APP→CD74	Malignant_AC_like_reactive_malignant	Malignant_hypoxia_stress_malignant	1.0
+APP	CD74	APP→CD74	Malignant_AC_like_reactive_malignant	Mural_Pericyte_Fibroblast	1.0
+APP	CD74	APP→CD74	Malignant_AC_like_reactive_malignant	Oligodendrocyte_myelinating	0.0
+APP	CD74	APP→CD74	Malignant_NPC_neuronal_like_malignant	B_Plasma	0.0
+APP	CD74	APP→CD74	Malignant_NPC_neuronal_like_malignant	Endothelial	0.0
+APP	CD74	APP→CD74	Malignant_NPC_neuronal_like_malignant	Malignant_AC_like_reactive_malignant	1.0
+APP	CD74	APP→CD74	Malignant_NPC_neuronal_like_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+APP	CD74	APP→CD74	Malignant_NPC_neuronal_like_malignant	Malignant_OPC_NPC_like_malignant	1.0
+APP	CD74	APP→CD74	Malignant_NPC_neuronal_like_malignant	Malignant_cycling_candidate	1.0
+APP	CD74	APP→CD74	Malignant_NPC_neuronal_like_malignant	Malignant_hypoxia_stress_malignant	1.0
+APP	CD74	APP→CD74	Malignant_NPC_neuronal_like_malignant	Mural_Pericyte_Fibroblast	1.0
+APP	CD74	APP→CD74	Malignant_NPC_neuronal_like_malignant	Oligodendrocyte_myelinating	0.0
+APP	CD74	APP→CD74	Malignant_OPC_NPC_like_malignant	B_Plasma	0.0
+APP	CD74	APP→CD74	Malignant_OPC_NPC_like_malignant	Endothelial	0.0
+APP	CD74	APP→CD74	Malignant_OPC_NPC_like_malignant	Malignant_AC_like_reactive_malignant	1.0
+APP	CD74	APP→CD74	Malignant_OPC_NPC_like_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+APP	CD74	APP→CD74	Malignant_OPC_NPC_like_malignant	Malignant_OPC_NPC_like_malignant	1.0
+APP	CD74	APP→CD74	Malignant_OPC_NPC_like_malignant	Malignant_cycling_candidate	1.0
+APP	CD74	APP→CD74	Malignant_OPC_NPC_like_malignant	Malignant_hypoxia_stress_malignant	1.0
+APP	CD74	APP→CD74	Malignant_OPC_NPC_like_malignant	Mural_Pericyte_Fibroblast	1.0
+APP	CD74	APP→CD74	Malignant_OPC_NPC_like_malignant	Oligodendrocyte_myelinating	0.0
+APP	CD74	APP→CD74	Malignant_cycling_candidate	B_Plasma	0.0
+APP	CD74	APP→CD74	Malignant_cycling_candidate	Endothelial	0.14727272727272728
+APP	CD74	APP→CD74	Malignant_cycling_candidate	Malignant_AC_like_reactive_malignant	1.0
+APP	CD74	APP→CD74	Malignant_cycling_candidate	Malignant_NPC_neuronal_like_malignant	1.0
+APP	CD74	APP→CD74	Malignant_cycling_candidate	Malignant_OPC_NPC_like_malignant	1.0
+APP	CD74	APP→CD74	Malignant_cycling_candidate	Malignant_cycling_candidate	1.0
+APP	CD74	APP→CD74	Malignant_cycling_candidate	Malignant_hypoxia_stress_malignant	1.0
+APP	CD74	APP→CD74	Malignant_cycling_candidate	Mural_Pericyte_Fibroblast	1.0
+APP	CD74	APP→CD74	Malignant_cycling_candidate	Oligodendrocyte_myelinating	0.0
+APP	CD74	APP→CD74	Malignant_hypoxia_stress_malignant	B_Plasma	0.0
+APP	CD74	APP→CD74	Malignant_hypoxia_stress_malignant	Endothelial	0.0
+APP	CD74	APP→CD74	Malignant_hypoxia_stress_malignant	Malignant_AC_like_reactive_malignant	1.0
+APP	CD74	APP→CD74	Malignant_hypoxia_stress_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+APP	CD74	APP→CD74	Malignant_hypoxia_stress_malignant	Malignant_OPC_NPC_like_malignant	1.0
+APP	CD74	APP→CD74	Malignant_hypoxia_stress_malignant	Malignant_cycling_candidate	1.0
+APP	CD74	APP→CD74	Malignant_hypoxia_stress_malignant	Malignant_hypoxia_stress_malignant	1.0
+APP	CD74	APP→CD74	Malignant_hypoxia_stress_malignant	Mural_Pericyte_Fibroblast	1.0
+APP	CD74	APP→CD74	Malignant_hypoxia_stress_malignant	Oligodendrocyte_myelinating	0.0
+APP	CD74	APP→CD74	Mural_Pericyte_Fibroblast	B_Plasma	0.0
+APP	CD74	APP→CD74	Mural_Pericyte_Fibroblast	Endothelial	1.0
+APP	CD74	APP→CD74	Mural_Pericyte_Fibroblast	Malignant_AC_like_reactive_malignant	1.0
+APP	CD74	APP→CD74	Mural_Pericyte_Fibroblast	Malignant_NPC_neuronal_like_malignant	1.0
+APP	CD74	APP→CD74	Mural_Pericyte_Fibroblast	Malignant_OPC_NPC_like_malignant	1.0
+APP	CD74	APP→CD74	Mural_Pericyte_Fibroblast	Malignant_cycling_candidate	1.0
+APP	CD74	APP→CD74	Mural_Pericyte_Fibroblast	Malignant_hypoxia_stress_malignant	1.0
+APP	CD74	APP→CD74	Mural_Pericyte_Fibroblast	Mural_Pericyte_Fibroblast	1.0
+APP	CD74	APP→CD74	Mural_Pericyte_Fibroblast	Oligodendrocyte_myelinating	0.0
+APP	CD74	APP→CD74	Oligodendrocyte_myelinating	B_Plasma	0.0
+APP	CD74	APP→CD74	Oligodendrocyte_myelinating	Endothelial	0.0
+APP	CD74	APP→CD74	Oligodendrocyte_myelinating	Malignant_AC_like_reactive_malignant	0.0
+APP	CD74	APP→CD74	Oligodendrocyte_myelinating	Malignant_NPC_neuronal_like_malignant	0.0
+APP	CD74	APP→CD74	Oligodendrocyte_myelinating	Malignant_OPC_NPC_like_malignant	0.0
+APP	CD74	APP→CD74	Oligodendrocyte_myelinating	Malignant_cycling_candidate	0.0
+APP	CD74	APP→CD74	Oligodendrocyte_myelinating	Malignant_hypoxia_stress_malignant	0.0
+APP	CD74	APP→CD74	Oligodendrocyte_myelinating	Mural_Pericyte_Fibroblast	0.0
+APP	CD74	APP→CD74	Oligodendrocyte_myelinating	Oligodendrocyte_myelinating	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	B_Plasma	B_Plasma	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	B_Plasma	Endothelial	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	B_Plasma	Malignant_AC_like_reactive_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	B_Plasma	Malignant_NPC_neuronal_like_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	B_Plasma	Malignant_OPC_NPC_like_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	B_Plasma	Malignant_cycling_candidate	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	B_Plasma	Malignant_hypoxia_stress_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	B_Plasma	Mural_Pericyte_Fibroblast	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	B_Plasma	Oligodendrocyte_myelinating	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Endothelial	B_Plasma	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Endothelial	Endothelial	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Endothelial	Malignant_AC_like_reactive_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Endothelial	Malignant_NPC_neuronal_like_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Endothelial	Malignant_OPC_NPC_like_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Endothelial	Malignant_cycling_candidate	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Endothelial	Malignant_hypoxia_stress_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Endothelial	Mural_Pericyte_Fibroblast	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Endothelial	Oligodendrocyte_myelinating	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_AC_like_reactive_malignant	B_Plasma	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_AC_like_reactive_malignant	Endothelial	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_AC_like_reactive_malignant	Malignant_AC_like_reactive_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_AC_like_reactive_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_AC_like_reactive_malignant	Malignant_OPC_NPC_like_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_AC_like_reactive_malignant	Malignant_cycling_candidate	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_AC_like_reactive_malignant	Malignant_hypoxia_stress_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_AC_like_reactive_malignant	Mural_Pericyte_Fibroblast	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_AC_like_reactive_malignant	Oligodendrocyte_myelinating	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_NPC_neuronal_like_malignant	B_Plasma	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_NPC_neuronal_like_malignant	Endothelial	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_NPC_neuronal_like_malignant	Malignant_AC_like_reactive_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_NPC_neuronal_like_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_NPC_neuronal_like_malignant	Malignant_OPC_NPC_like_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_NPC_neuronal_like_malignant	Malignant_cycling_candidate	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_NPC_neuronal_like_malignant	Malignant_hypoxia_stress_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_NPC_neuronal_like_malignant	Mural_Pericyte_Fibroblast	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_NPC_neuronal_like_malignant	Oligodendrocyte_myelinating	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_OPC_NPC_like_malignant	B_Plasma	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_OPC_NPC_like_malignant	Endothelial	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_OPC_NPC_like_malignant	Malignant_AC_like_reactive_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_OPC_NPC_like_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_OPC_NPC_like_malignant	Malignant_OPC_NPC_like_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_OPC_NPC_like_malignant	Malignant_cycling_candidate	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_OPC_NPC_like_malignant	Malignant_hypoxia_stress_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_OPC_NPC_like_malignant	Mural_Pericyte_Fibroblast	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_OPC_NPC_like_malignant	Oligodendrocyte_myelinating	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_cycling_candidate	B_Plasma	0.3335294117647059
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_cycling_candidate	Endothelial	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_cycling_candidate	Malignant_AC_like_reactive_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_cycling_candidate	Malignant_NPC_neuronal_like_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_cycling_candidate	Malignant_OPC_NPC_like_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_cycling_candidate	Malignant_cycling_candidate	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_cycling_candidate	Malignant_hypoxia_stress_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_cycling_candidate	Mural_Pericyte_Fibroblast	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_cycling_candidate	Oligodendrocyte_myelinating	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_hypoxia_stress_malignant	B_Plasma	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_hypoxia_stress_malignant	Endothelial	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_hypoxia_stress_malignant	Malignant_AC_like_reactive_malignant	0.024545454545454547
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_hypoxia_stress_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_hypoxia_stress_malignant	Malignant_OPC_NPC_like_malignant	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_hypoxia_stress_malignant	Malignant_cycling_candidate	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_hypoxia_stress_malignant	Malignant_hypoxia_stress_malignant	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_hypoxia_stress_malignant	Mural_Pericyte_Fibroblast	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Malignant_hypoxia_stress_malignant	Oligodendrocyte_myelinating	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Mural_Pericyte_Fibroblast	B_Plasma	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Mural_Pericyte_Fibroblast	Endothelial	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Mural_Pericyte_Fibroblast	Malignant_AC_like_reactive_malignant	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Mural_Pericyte_Fibroblast	Malignant_NPC_neuronal_like_malignant	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Mural_Pericyte_Fibroblast	Malignant_OPC_NPC_like_malignant	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Mural_Pericyte_Fibroblast	Malignant_cycling_candidate	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Mural_Pericyte_Fibroblast	Malignant_hypoxia_stress_malignant	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Mural_Pericyte_Fibroblast	Mural_Pericyte_Fibroblast	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Mural_Pericyte_Fibroblast	Oligodendrocyte_myelinating	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Oligodendrocyte_myelinating	B_Plasma	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Oligodendrocyte_myelinating	Endothelial	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Oligodendrocyte_myelinating	Malignant_AC_like_reactive_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Oligodendrocyte_myelinating	Malignant_NPC_neuronal_like_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Oligodendrocyte_myelinating	Malignant_OPC_NPC_like_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Oligodendrocyte_myelinating	Malignant_cycling_candidate	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Oligodendrocyte_myelinating	Malignant_hypoxia_stress_malignant	1.0
+LGALS1	ITGB1	LGALS1→ITGB1	Oligodendrocyte_myelinating	Mural_Pericyte_Fibroblast	0.0
+LGALS1	ITGB1	LGALS1→ITGB1	Oligodendrocyte_myelinating	Oligodendrocyte_myelinating	1.0
+MDK	LRP1	MDK→LRP1	B_Plasma	B_Plasma	
+MDK	LRP1	MDK→LRP1	B_Plasma	Endothelial	
+MDK	LRP1	MDK→LRP1	B_Plasma	Malignant_AC_like_reactive_malignant	
+MDK	LRP1	MDK→LRP1	B_Plasma	Malignant_NPC_neuronal_like_malignant	
+MDK	LRP1	MDK→LRP1	B_Plasma	Malignant_OPC_NPC_like_malignant	
+MDK	LRP1	MDK→LRP1	B_Plasma	Malignant_cycling_candidate	
+MDK	LRP1	MDK→LRP1	B_Plasma	Malignant_hypoxia_stress_malignant	
+MDK	LRP1	MDK→LRP1	B_Plasma	Mural_Pericyte_Fibroblast	
+MDK	LRP1	MDK→LRP1	B_Plasma	Oligodendrocyte_myelinating	
+MDK	LRP1	MDK→LRP1	Endothelial	B_Plasma	
+MDK	LRP1	MDK→LRP1	Endothelial	Endothelial	1.0
+MDK	LRP1	MDK→LRP1	Endothelial	Malignant_AC_like_reactive_malignant	1.0
+MDK	LRP1	MDK→LRP1	Endothelial	Malignant_NPC_neuronal_like_malignant	1.0
+MDK	LRP1	MDK→LRP1	Endothelial	Malignant_OPC_NPC_like_malignant	1.0
+MDK	LRP1	MDK→LRP1	Endothelial	Malignant_cycling_candidate	1.0
+MDK	LRP1	MDK→LRP1	Endothelial	Malignant_hypoxia_stress_malignant	1.0
+MDK	LRP1	MDK→LRP1	Endothelial	Mural_Pericyte_Fibroblast	1.0
+MDK	LRP1	MDK→LRP1	Endothelial	Oligodendrocyte_myelinating	1.0
+MDK	LRP1	MDK→LRP1	Malignant_AC_like_reactive_malignant	B_Plasma	
+MDK	LRP1	MDK→LRP1	Malignant_AC_like_reactive_malignant	Endothelial	1.0
+MDK	LRP1	MDK→LRP1	Malignant_AC_like_reactive_malignant	Malignant_AC_like_reactive_malignant	0.0
+MDK	LRP1	MDK→LRP1	Malignant_AC_like_reactive_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+MDK	LRP1	MDK→LRP1	Malignant_AC_like_reactive_malignant	Malignant_OPC_NPC_like_malignant	0.0
+MDK	LRP1	MDK→LRP1	Malignant_AC_like_reactive_malignant	Malignant_cycling_candidate	0.0
+MDK	LRP1	MDK→LRP1	Malignant_AC_like_reactive_malignant	Malignant_hypoxia_stress_malignant	0.02382352941176471
+MDK	LRP1	MDK→LRP1	Malignant_AC_like_reactive_malignant	Mural_Pericyte_Fibroblast	0.0
+MDK	LRP1	MDK→LRP1	Malignant_AC_like_reactive_malignant	Oligodendrocyte_myelinating	1.0
+MDK	LRP1	MDK→LRP1	Malignant_NPC_neuronal_like_malignant	B_Plasma	
+MDK	LRP1	MDK→LRP1	Malignant_NPC_neuronal_like_malignant	Endothelial	1.0
+MDK	LRP1	MDK→LRP1	Malignant_NPC_neuronal_like_malignant	Malignant_AC_like_reactive_malignant	0.0
+MDK	LRP1	MDK→LRP1	Malignant_NPC_neuronal_like_malignant	Malignant_NPC_neuronal_like_malignant	0.0
+MDK	LRP1	MDK→LRP1	Malignant_NPC_neuronal_like_malignant	Malignant_OPC_NPC_like_malignant	0.0
+MDK	LRP1	MDK→LRP1	Malignant_NPC_neuronal_like_malignant	Malignant_cycling_candidate	0.0
+MDK	LRP1	MDK→LRP1	Malignant_NPC_neuronal_like_malignant	Malignant_hypoxia_stress_malignant	0.0
+MDK	LRP1	MDK→LRP1	Malignant_NPC_neuronal_like_malignant	Mural_Pericyte_Fibroblast	0.0
+MDK	LRP1	MDK→LRP1	Malignant_NPC_neuronal_like_malignant	Oligodendrocyte_myelinating	1.0
+MDK	LRP1	MDK→LRP1	Malignant_OPC_NPC_like_malignant	B_Plasma	
+MDK	LRP1	MDK→LRP1	Malignant_OPC_NPC_like_malignant	Endothelial	1.0
+MDK	LRP1	MDK→LRP1	Malignant_OPC_NPC_like_malignant	Malignant_AC_like_reactive_malignant	0.0
+MDK	LRP1	MDK→LRP1	Malignant_OPC_NPC_like_malignant	Malignant_NPC_neuronal_like_malignant	0.0
+MDK	LRP1	MDK→LRP1	Malignant_OPC_NPC_like_malignant	Malignant_OPC_NPC_like_malignant	0.0
+MDK	LRP1	MDK→LRP1	Malignant_OPC_NPC_like_malignant	Malignant_cycling_candidate	0.0
+MDK	LRP1	MDK→LRP1	Malignant_OPC_NPC_like_malignant	Malignant_hypoxia_stress_malignant	0.0
+MDK	LRP1	MDK→LRP1	Malignant_OPC_NPC_like_malignant	Mural_Pericyte_Fibroblast	0.0
+MDK	LRP1	MDK→LRP1	Malignant_OPC_NPC_like_malignant	Oligodendrocyte_myelinating	1.0
+MDK	LRP1	MDK→LRP1	Malignant_cycling_candidate	B_Plasma	
+MDK	LRP1	MDK→LRP1	Malignant_cycling_candidate	Endothelial	0.0
+MDK	LRP1	MDK→LRP1	Malignant_cycling_candidate	Malignant_AC_like_reactive_malignant	0.0
+MDK	LRP1	MDK→LRP1	Malignant_cycling_candidate	Malignant_NPC_neuronal_like_malignant	0.0
+MDK	LRP1	MDK→LRP1	Malignant_cycling_candidate	Malignant_OPC_NPC_like_malignant	0.0
+MDK	LRP1	MDK→LRP1	Malignant_cycling_candidate	Malignant_cycling_candidate	0.0
+MDK	LRP1	MDK→LRP1	Malignant_cycling_candidate	Malignant_hypoxia_stress_malignant	0.0
+MDK	LRP1	MDK→LRP1	Malignant_cycling_candidate	Mural_Pericyte_Fibroblast	0.0
+MDK	LRP1	MDK→LRP1	Malignant_cycling_candidate	Oligodendrocyte_myelinating	0.0
+MDK	LRP1	MDK→LRP1	Malignant_hypoxia_stress_malignant	B_Plasma	
+MDK	LRP1	MDK→LRP1	Malignant_hypoxia_stress_malignant	Endothelial	1.0
+MDK	LRP1	MDK→LRP1	Malignant_hypoxia_stress_malignant	Malignant_AC_like_reactive_malignant	0.0
+MDK	LRP1	MDK→LRP1	Malignant_hypoxia_stress_malignant	Malignant_NPC_neuronal_like_malignant	0.4628571428571429
+MDK	LRP1	MDK→LRP1	Malignant_hypoxia_stress_malignant	Malignant_OPC_NPC_like_malignant	0.0
+MDK	LRP1	MDK→LRP1	Malignant_hypoxia_stress_malignant	Malignant_cycling_candidate	0.0
+MDK	LRP1	MDK→LRP1	Malignant_hypoxia_stress_malignant	Malignant_hypoxia_stress_malignant	0.0
+MDK	LRP1	MDK→LRP1	Malignant_hypoxia_stress_malignant	Mural_Pericyte_Fibroblast	0.0
+MDK	LRP1	MDK→LRP1	Malignant_hypoxia_stress_malignant	Oligodendrocyte_myelinating	1.0
+MDK	LRP1	MDK→LRP1	Mural_Pericyte_Fibroblast	B_Plasma	
+MDK	LRP1	MDK→LRP1	Mural_Pericyte_Fibroblast	Endothelial	1.0
+MDK	LRP1	MDK→LRP1	Mural_Pericyte_Fibroblast	Malignant_AC_like_reactive_malignant	0.0
+MDK	LRP1	MDK→LRP1	Mural_Pericyte_Fibroblast	Malignant_NPC_neuronal_like_malignant	1.0
+MDK	LRP1	MDK→LRP1	Mural_Pericyte_Fibroblast	Malignant_OPC_NPC_like_malignant	0.0
+MDK	LRP1	MDK→LRP1	Mural_Pericyte_Fibroblast	Malignant_cycling_candidate	0.0
+MDK	LRP1	MDK→LRP1	Mural_Pericyte_Fibroblast	Malignant_hypoxia_stress_malignant	1.0
+MDK	LRP1	MDK→LRP1	Mural_Pericyte_Fibroblast	Mural_Pericyte_Fibroblast	0.0
+MDK	LRP1	MDK→LRP1	Mural_Pericyte_Fibroblast	Oligodendrocyte_myelinating	1.0
+MDK	LRP1	MDK→LRP1	Oligodendrocyte_myelinating	B_Plasma	
+MDK	LRP1	MDK→LRP1	Oligodendrocyte_myelinating	Endothelial	1.0
+MDK	LRP1	MDK→LRP1	Oligodendrocyte_myelinating	Malignant_AC_like_reactive_malignant	1.0
+MDK	LRP1	MDK→LRP1	Oligodendrocyte_myelinating	Malignant_NPC_neuronal_like_malignant	1.0
+MDK	LRP1	MDK→LRP1	Oligodendrocyte_myelinating	Malignant_OPC_NPC_like_malignant	1.0
+MDK	LRP1	MDK→LRP1	Oligodendrocyte_myelinating	Malignant_cycling_candidate	1.0
+MDK	LRP1	MDK→LRP1	Oligodendrocyte_myelinating	Malignant_hypoxia_stress_malignant	1.0
+MDK	LRP1	MDK→LRP1	Oligodendrocyte_myelinating	Mural_Pericyte_Fibroblast	1.0
+MDK	LRP1	MDK→LRP1	Oligodendrocyte_myelinating	Oligodendrocyte_myelinating	1.0
+MDK	NCL	MDK→NCL	B_Plasma	B_Plasma	
+MDK	NCL	MDK→NCL	B_Plasma	Endothelial	
+MDK	NCL	MDK→NCL	B_Plasma	Malignant_AC_like_reactive_malignant	
+MDK	NCL	MDK→NCL	B_Plasma	Malignant_NPC_neuronal_like_malignant	
+MDK	NCL	MDK→NCL	B_Plasma	Malignant_OPC_NPC_like_malignant	
+MDK	NCL	MDK→NCL	B_Plasma	Malignant_cycling_candidate	
+MDK	NCL	MDK→NCL	B_Plasma	Malignant_hypoxia_stress_malignant	
+MDK	NCL	MDK→NCL	B_Plasma	Mural_Pericyte_Fibroblast	
+MDK	NCL	MDK→NCL	B_Plasma	Oligodendrocyte_myelinating	
+MDK	NCL	MDK→NCL	Endothelial	B_Plasma	1.0
+MDK	NCL	MDK→NCL	Endothelial	Endothelial	1.0
+MDK	NCL	MDK→NCL	Endothelial	Malignant_AC_like_reactive_malignant	1.0
+MDK	NCL	MDK→NCL	Endothelial	Malignant_NPC_neuronal_like_malignant	1.0
+MDK	NCL	MDK→NCL	Endothelial	Malignant_OPC_NPC_like_malignant	1.0
+MDK	NCL	MDK→NCL	Endothelial	Malignant_cycling_candidate	1.0
+MDK	NCL	MDK→NCL	Endothelial	Malignant_hypoxia_stress_malignant	1.0
+MDK	NCL	MDK→NCL	Endothelial	Mural_Pericyte_Fibroblast	1.0
+MDK	NCL	MDK→NCL	Endothelial	Oligodendrocyte_myelinating	1.0
+MDK	NCL	MDK→NCL	Malignant_AC_like_reactive_malignant	B_Plasma	0.0
+MDK	NCL	MDK→NCL	Malignant_AC_like_reactive_malignant	Endothelial	1.0
+MDK	NCL	MDK→NCL	Malignant_AC_like_reactive_malignant	Malignant_AC_like_reactive_malignant	1.0
+MDK	NCL	MDK→NCL	Malignant_AC_like_reactive_malignant	Malignant_NPC_neuronal_like_malignant	0.9230232558139534
+MDK	NCL	MDK→NCL	Malignant_AC_like_reactive_malignant	Malignant_OPC_NPC_like_malignant	0.0
+MDK	NCL	MDK→NCL	Malignant_AC_like_reactive_malignant	Malignant_cycling_candidate	0.0
+MDK	NCL	MDK→NCL	Malignant_AC_like_reactive_malignant	Malignant_hypoxia_stress_malignant	1.0
+MDK	NCL	MDK→NCL	Malignant_AC_like_reactive_malignant	Mural_Pericyte_Fibroblast	1.0
+MDK	NCL	MDK→NCL	Malignant_AC_like_reactive_malignant	Oligodendrocyte_myelinating	1.0
+MDK	NCL	MDK→NCL	Malignant_NPC_neuronal_like_malignant	B_Plasma	0.0
+MDK	NCL	MDK→NCL	Malignant_NPC_neuronal_like_malignant	Endothelial	0.0
+MDK	NCL	MDK→NCL	Malignant_NPC_neuronal_like_malignant	Malignant_AC_like_reactive_malignant	0.0
+MDK	NCL	MDK→NCL	Malignant_NPC_neuronal_like_malignant	Malignant_NPC_neuronal_like_malignant	0.0
+MDK	NCL	MDK→NCL	Malignant_NPC_neuronal_like_malignant	Malignant_OPC_NPC_like_malignant	0.0
+MDK	NCL	MDK→NCL	Malignant_NPC_neuronal_like_malignant	Malignant_cycling_candidate	0.0
+MDK	NCL	MDK→NCL	Malignant_NPC_neuronal_like_malignant	Malignant_hypoxia_stress_malignant	0.0
+MDK	NCL	MDK→NCL	Malignant_NPC_neuronal_like_malignant	Mural_Pericyte_Fibroblast	0.0
+MDK	NCL	MDK→NCL	Malignant_NPC_neuronal_like_malignant	Oligodendrocyte_myelinating	0.0
+MDK	NCL	MDK→NCL	Malignant_OPC_NPC_like_malignant	B_Plasma	0.0
+MDK	NCL	MDK→NCL	Malignant_OPC_NPC_like_malignant	Endothelial	0.0
+MDK	NCL	MDK→NCL	Malignant_OPC_NPC_like_malignant	Malignant_AC_like_reactive_malignant	0.0
+MDK	NCL	MDK→NCL	Malignant_OPC_NPC_like_malignant	Malignant_NPC_neuronal_like_malignant	0.0
+MDK	NCL	MDK→NCL	Malignant_OPC_NPC_like_malignant	Malignant_OPC_NPC_like_malignant	0.0
+MDK	NCL	MDK→NCL	Malignant_OPC_NPC_like_malignant	Malignant_cycling_candidate	0.0
+MDK	NCL	MDK→NCL	Malignant_OPC_NPC_like_malignant	Malignant_hypoxia_stress_malignant	0.0
+MDK	NCL	MDK→NCL	Malignant_OPC_NPC_like_malignant	Mural_Pericyte_Fibroblast	0.0
+MDK	NCL	MDK→NCL	Malignant_OPC_NPC_like_malignant	Oligodendrocyte_myelinating	0.0
+MDK	NCL	MDK→NCL	Malignant_cycling_candidate	B_Plasma	0.0
+MDK	NCL	MDK→NCL	Malignant_cycling_candidate	Endothelial	0.0
+MDK	NCL	MDK→NCL	Malignant_cycling_candidate	Malignant_AC_like_reactive_malignant	0.0
+MDK	NCL	MDK→NCL	Malignant_cycling_candidate	Malignant_NPC_neuronal_like_malignant	0.0
+MDK	NCL	MDK→NCL	Malignant_cycling_candidate	Malignant_OPC_NPC_like_malignant	0.0
+MDK	NCL	MDK→NCL	Malignant_cycling_candidate	Malignant_cycling_candidate	0.0
+MDK	NCL	MDK→NCL	Malignant_cycling_candidate	Malignant_hypoxia_stress_malignant	0.0
+MDK	NCL	MDK→NCL	Malignant_cycling_candidate	Mural_Pericyte_Fibroblast	0.0
+MDK	NCL	MDK→NCL	Malignant_cycling_candidate	Oligodendrocyte_myelinating	0.0
+MDK	NCL	MDK→NCL	Malignant_hypoxia_stress_malignant	B_Plasma	0.0
+MDK	NCL	MDK→NCL	Malignant_hypoxia_stress_malignant	Endothelial	0.06075
+MDK	NCL	MDK→NCL	Malignant_hypoxia_stress_malignant	Malignant_AC_like_reactive_malignant	0.020769230769230772
+MDK	NCL	MDK→NCL	Malignant_hypoxia_stress_malignant	Malignant_NPC_neuronal_like_malignant	0.0
+MDK	NCL	MDK→NCL	Malignant_hypoxia_stress_malignant	Malignant_OPC_NPC_like_malignant	0.0
+MDK	NCL	MDK→NCL	Malignant_hypoxia_stress_malignant	Malignant_cycling_candidate	0.0
+MDK	NCL	MDK→NCL	Malignant_hypoxia_stress_malignant	Malignant_hypoxia_stress_malignant	0.13829268292682928
+MDK	NCL	MDK→NCL	Malignant_hypoxia_stress_malignant	Mural_Pericyte_Fibroblast	0.0
+MDK	NCL	MDK→NCL	Malignant_hypoxia_stress_malignant	Oligodendrocyte_myelinating	0.0
+MDK	NCL	MDK→NCL	Mural_Pericyte_Fibroblast	B_Plasma	0.020769230769230772
+MDK	NCL	MDK→NCL	Mural_Pericyte_Fibroblast	Endothelial	1.0
+MDK	NCL	MDK→NCL	Mural_Pericyte_Fibroblast	Malignant_AC_like_reactive_malignant	1.0
+MDK	NCL	MDK→NCL	Mural_Pericyte_Fibroblast	Malignant_NPC_neuronal_like_malignant	1.0
+MDK	NCL	MDK→NCL	Mural_Pericyte_Fibroblast	Malignant_OPC_NPC_like_malignant	0.9230232558139534
+MDK	NCL	MDK→NCL	Mural_Pericyte_Fibroblast	Malignant_cycling_candidate	0.0
+MDK	NCL	MDK→NCL	Mural_Pericyte_Fibroblast	Malignant_hypoxia_stress_malignant	1.0
+MDK	NCL	MDK→NCL	Mural_Pericyte_Fibroblast	Mural_Pericyte_Fibroblast	1.0
+MDK	NCL	MDK→NCL	Mural_Pericyte_Fibroblast	Oligodendrocyte_myelinating	1.0
+MDK	NCL	MDK→NCL	Oligodendrocyte_myelinating	B_Plasma	1.0
+MDK	NCL	MDK→NCL	Oligodendrocyte_myelinating	Endothelial	1.0
+MDK	NCL	MDK→NCL	Oligodendrocyte_myelinating	Malignant_AC_like_reactive_malignant	1.0
+MDK	NCL	MDK→NCL	Oligodendrocyte_myelinating	Malignant_NPC_neuronal_like_malignant	1.0
+MDK	NCL	MDK→NCL	Oligodendrocyte_myelinating	Malignant_OPC_NPC_like_malignant	1.0
+MDK	NCL	MDK→NCL	Oligodendrocyte_myelinating	Malignant_cycling_candidate	1.0
+MDK	NCL	MDK→NCL	Oligodendrocyte_myelinating	Malignant_hypoxia_stress_malignant	1.0
+MDK	NCL	MDK→NCL	Oligodendrocyte_myelinating	Mural_Pericyte_Fibroblast	1.0
+MDK	NCL	MDK→NCL	Oligodendrocyte_myelinating	Oligodendrocyte_myelinating	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	B_Plasma	B_Plasma	
+MDK	PTPRZ1	MDK→PTPRZ1	B_Plasma	Endothelial	
+MDK	PTPRZ1	MDK→PTPRZ1	B_Plasma	Malignant_AC_like_reactive_malignant	
+MDK	PTPRZ1	MDK→PTPRZ1	B_Plasma	Malignant_NPC_neuronal_like_malignant	
+MDK	PTPRZ1	MDK→PTPRZ1	B_Plasma	Malignant_OPC_NPC_like_malignant	
+MDK	PTPRZ1	MDK→PTPRZ1	B_Plasma	Malignant_cycling_candidate	
+MDK	PTPRZ1	MDK→PTPRZ1	B_Plasma	Malignant_hypoxia_stress_malignant	
+MDK	PTPRZ1	MDK→PTPRZ1	B_Plasma	Mural_Pericyte_Fibroblast	
+MDK	PTPRZ1	MDK→PTPRZ1	B_Plasma	Oligodendrocyte_myelinating	
+MDK	PTPRZ1	MDK→PTPRZ1	Endothelial	B_Plasma	
+MDK	PTPRZ1	MDK→PTPRZ1	Endothelial	Endothelial	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Endothelial	Malignant_AC_like_reactive_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Endothelial	Malignant_NPC_neuronal_like_malignant	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Endothelial	Malignant_OPC_NPC_like_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Endothelial	Malignant_cycling_candidate	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Endothelial	Malignant_hypoxia_stress_malignant	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Endothelial	Mural_Pericyte_Fibroblast	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Endothelial	Oligodendrocyte_myelinating	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_AC_like_reactive_malignant	B_Plasma	
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_AC_like_reactive_malignant	Endothelial	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_AC_like_reactive_malignant	Malignant_AC_like_reactive_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_AC_like_reactive_malignant	Malignant_NPC_neuronal_like_malignant	0.47647058823529415
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_AC_like_reactive_malignant	Malignant_OPC_NPC_like_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_AC_like_reactive_malignant	Malignant_cycling_candidate	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_AC_like_reactive_malignant	Malignant_hypoxia_stress_malignant	0.024545454545454547
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_AC_like_reactive_malignant	Mural_Pericyte_Fibroblast	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_AC_like_reactive_malignant	Oligodendrocyte_myelinating	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_NPC_neuronal_like_malignant	B_Plasma	
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_NPC_neuronal_like_malignant	Endothelial	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_NPC_neuronal_like_malignant	Malignant_AC_like_reactive_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_NPC_neuronal_like_malignant	Malignant_NPC_neuronal_like_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_NPC_neuronal_like_malignant	Malignant_OPC_NPC_like_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_NPC_neuronal_like_malignant	Malignant_cycling_candidate	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_NPC_neuronal_like_malignant	Malignant_hypoxia_stress_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_NPC_neuronal_like_malignant	Mural_Pericyte_Fibroblast	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_NPC_neuronal_like_malignant	Oligodendrocyte_myelinating	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_OPC_NPC_like_malignant	B_Plasma	
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_OPC_NPC_like_malignant	Endothelial	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_OPC_NPC_like_malignant	Malignant_AC_like_reactive_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_OPC_NPC_like_malignant	Malignant_NPC_neuronal_like_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_OPC_NPC_like_malignant	Malignant_OPC_NPC_like_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_OPC_NPC_like_malignant	Malignant_cycling_candidate	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_OPC_NPC_like_malignant	Malignant_hypoxia_stress_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_OPC_NPC_like_malignant	Mural_Pericyte_Fibroblast	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_OPC_NPC_like_malignant	Oligodendrocyte_myelinating	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_cycling_candidate	B_Plasma	
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_cycling_candidate	Endothelial	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_cycling_candidate	Malignant_AC_like_reactive_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_cycling_candidate	Malignant_NPC_neuronal_like_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_cycling_candidate	Malignant_OPC_NPC_like_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_cycling_candidate	Malignant_cycling_candidate	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_cycling_candidate	Malignant_hypoxia_stress_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_cycling_candidate	Mural_Pericyte_Fibroblast	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_cycling_candidate	Oligodendrocyte_myelinating	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_hypoxia_stress_malignant	B_Plasma	
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_hypoxia_stress_malignant	Endothelial	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_hypoxia_stress_malignant	Malignant_AC_like_reactive_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_hypoxia_stress_malignant	Malignant_NPC_neuronal_like_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_hypoxia_stress_malignant	Malignant_OPC_NPC_like_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_hypoxia_stress_malignant	Malignant_cycling_candidate	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_hypoxia_stress_malignant	Malignant_hypoxia_stress_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_hypoxia_stress_malignant	Mural_Pericyte_Fibroblast	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Malignant_hypoxia_stress_malignant	Oligodendrocyte_myelinating	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Mural_Pericyte_Fibroblast	B_Plasma	
+MDK	PTPRZ1	MDK→PTPRZ1	Mural_Pericyte_Fibroblast	Endothelial	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Mural_Pericyte_Fibroblast	Malignant_AC_like_reactive_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Mural_Pericyte_Fibroblast	Malignant_NPC_neuronal_like_malignant	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Mural_Pericyte_Fibroblast	Malignant_OPC_NPC_like_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Mural_Pericyte_Fibroblast	Malignant_cycling_candidate	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Mural_Pericyte_Fibroblast	Malignant_hypoxia_stress_malignant	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Mural_Pericyte_Fibroblast	Mural_Pericyte_Fibroblast	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Mural_Pericyte_Fibroblast	Oligodendrocyte_myelinating	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Oligodendrocyte_myelinating	B_Plasma	
+MDK	PTPRZ1	MDK→PTPRZ1	Oligodendrocyte_myelinating	Endothelial	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Oligodendrocyte_myelinating	Malignant_AC_like_reactive_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Oligodendrocyte_myelinating	Malignant_NPC_neuronal_like_malignant	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Oligodendrocyte_myelinating	Malignant_OPC_NPC_like_malignant	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Oligodendrocyte_myelinating	Malignant_cycling_candidate	0.0
+MDK	PTPRZ1	MDK→PTPRZ1	Oligodendrocyte_myelinating	Malignant_hypoxia_stress_malignant	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Oligodendrocyte_myelinating	Mural_Pericyte_Fibroblast	1.0
+MDK	PTPRZ1	MDK→PTPRZ1	Oligodendrocyte_myelinating	Oligodendrocyte_myelinating	1.0
+MDK	SDC3	MDK→SDC3	B_Plasma	B_Plasma	
+MDK	SDC3	MDK→SDC3	B_Plasma	Endothelial	
+MDK	SDC3	MDK→SDC3	B_Plasma	Malignant_AC_like_reactive_malignant	
+MDK	SDC3	MDK→SDC3	B_Plasma	Malignant_NPC_neuronal_like_malignant	
+MDK	SDC3	MDK→SDC3	B_Plasma	Malignant_OPC_NPC_like_malignant	
+MDK	SDC3	MDK→SDC3	B_Plasma	Malignant_cycling_candidate	
+MDK	SDC3	MDK→SDC3	B_Plasma	Malignant_hypoxia_stress_malignant	
+MDK	SDC3	MDK→SDC3	B_Plasma	Mural_Pericyte_Fibroblast	
+MDK	SDC3	MDK→SDC3	B_Plasma	Oligodendrocyte_myelinating	
+MDK	SDC3	MDK→SDC3	Endothelial	B_Plasma	
+MDK	SDC3	MDK→SDC3	Endothelial	Endothelial	1.0
+MDK	SDC3	MDK→SDC3	Endothelial	Malignant_AC_like_reactive_malignant	1.0
+MDK	SDC3	MDK→SDC3	Endothelial	Malignant_NPC_neuronal_like_malignant	1.0
+MDK	SDC3	MDK→SDC3	Endothelial	Malignant_OPC_NPC_like_malignant	1.0
+MDK	SDC3	MDK→SDC3	Endothelial	Malignant_cycling_candidate	1.0
+MDK	SDC3	MDK→SDC3	Endothelial	Malignant_hypoxia_stress_malignant	1.0
+MDK	SDC3	MDK→SDC3	Endothelial	Mural_Pericyte_Fibroblast	1.0
+MDK	SDC3	MDK→SDC3	Endothelial	Oligodendrocyte_myelinating	1.0
+MDK	SDC3	MDK→SDC3	Malignant_AC_like_reactive_malignant	B_Plasma	
+MDK	SDC3	MDK→SDC3	Malignant_AC_like_reactive_malignant	Endothelial	1.0
+MDK	SDC3	MDK→SDC3	Malignant_AC_like_reactive_malignant	Malignant_AC_like_reactive_malignant	0.0
+MDK	SDC3	MDK→SDC3	Malignant_AC_like_reactive_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+MDK	SDC3	MDK→SDC3	Malignant_AC_like_reactive_malignant	Malignant_OPC_NPC_like_malignant	0.0
+MDK	SDC3	MDK→SDC3	Malignant_AC_like_reactive_malignant	Malignant_cycling_candidate	0.0
+MDK	SDC3	MDK→SDC3	Malignant_AC_like_reactive_malignant	Malignant_hypoxia_stress_malignant	1.0
+MDK	SDC3	MDK→SDC3	Malignant_AC_like_reactive_malignant	Mural_Pericyte_Fibroblast	1.0
+MDK	SDC3	MDK→SDC3	Malignant_AC_like_reactive_malignant	Oligodendrocyte_myelinating	1.0
+MDK	SDC3	MDK→SDC3	Malignant_NPC_neuronal_like_malignant	B_Plasma	
+MDK	SDC3	MDK→SDC3	Malignant_NPC_neuronal_like_malignant	Endothelial	0.0
+MDK	SDC3	MDK→SDC3	Malignant_NPC_neuronal_like_malignant	Malignant_AC_like_reactive_malignant	0.0
+MDK	SDC3	MDK→SDC3	Malignant_NPC_neuronal_like_malignant	Malignant_NPC_neuronal_like_malignant	0.0
+MDK	SDC3	MDK→SDC3	Malignant_NPC_neuronal_like_malignant	Malignant_OPC_NPC_like_malignant	0.0
+MDK	SDC3	MDK→SDC3	Malignant_NPC_neuronal_like_malignant	Malignant_cycling_candidate	0.0
+MDK	SDC3	MDK→SDC3	Malignant_NPC_neuronal_like_malignant	Malignant_hypoxia_stress_malignant	0.0
+MDK	SDC3	MDK→SDC3	Malignant_NPC_neuronal_like_malignant	Mural_Pericyte_Fibroblast	0.0
+MDK	SDC3	MDK→SDC3	Malignant_NPC_neuronal_like_malignant	Oligodendrocyte_myelinating	0.0
+MDK	SDC3	MDK→SDC3	Malignant_OPC_NPC_like_malignant	B_Plasma	
+MDK	SDC3	MDK→SDC3	Malignant_OPC_NPC_like_malignant	Endothelial	0.0
+MDK	SDC3	MDK→SDC3	Malignant_OPC_NPC_like_malignant	Malignant_AC_like_reactive_malignant	0.0
+MDK	SDC3	MDK→SDC3	Malignant_OPC_NPC_like_malignant	Malignant_NPC_neuronal_like_malignant	0.0
+MDK	SDC3	MDK→SDC3	Malignant_OPC_NPC_like_malignant	Malignant_OPC_NPC_like_malignant	0.0
+MDK	SDC3	MDK→SDC3	Malignant_OPC_NPC_like_malignant	Malignant_cycling_candidate	0.0
+MDK	SDC3	MDK→SDC3	Malignant_OPC_NPC_like_malignant	Malignant_hypoxia_stress_malignant	0.0
+MDK	SDC3	MDK→SDC3	Malignant_OPC_NPC_like_malignant	Mural_Pericyte_Fibroblast	0.7174285714285714
+MDK	SDC3	MDK→SDC3	Malignant_OPC_NPC_like_malignant	Oligodendrocyte_myelinating	0.04764705882352942
+MDK	SDC3	MDK→SDC3	Malignant_cycling_candidate	B_Plasma	
+MDK	SDC3	MDK→SDC3	Malignant_cycling_candidate	Endothelial	0.0
+MDK	SDC3	MDK→SDC3	Malignant_cycling_candidate	Malignant_AC_like_reactive_malignant	0.0
+MDK	SDC3	MDK→SDC3	Malignant_cycling_candidate	Malignant_NPC_neuronal_like_malignant	0.0
+MDK	SDC3	MDK→SDC3	Malignant_cycling_candidate	Malignant_OPC_NPC_like_malignant	0.0
+MDK	SDC3	MDK→SDC3	Malignant_cycling_candidate	Malignant_cycling_candidate	0.0
+MDK	SDC3	MDK→SDC3	Malignant_cycling_candidate	Malignant_hypoxia_stress_malignant	0.0
+MDK	SDC3	MDK→SDC3	Malignant_cycling_candidate	Mural_Pericyte_Fibroblast	0.0
+MDK	SDC3	MDK→SDC3	Malignant_cycling_candidate	Oligodendrocyte_myelinating	0.0
+MDK	SDC3	MDK→SDC3	Malignant_hypoxia_stress_malignant	B_Plasma	
+MDK	SDC3	MDK→SDC3	Malignant_hypoxia_stress_malignant	Endothelial	0.0
+MDK	SDC3	MDK→SDC3	Malignant_hypoxia_stress_malignant	Malignant_AC_like_reactive_malignant	0.0
+MDK	SDC3	MDK→SDC3	Malignant_hypoxia_stress_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+MDK	SDC3	MDK→SDC3	Malignant_hypoxia_stress_malignant	Malignant_OPC_NPC_like_malignant	0.0
+MDK	SDC3	MDK→SDC3	Malignant_hypoxia_stress_malignant	Malignant_cycling_candidate	0.0
+MDK	SDC3	MDK→SDC3	Malignant_hypoxia_stress_malignant	Malignant_hypoxia_stress_malignant	0.0
+MDK	SDC3	MDK→SDC3	Malignant_hypoxia_stress_malignant	Mural_Pericyte_Fibroblast	1.0
+MDK	SDC3	MDK→SDC3	Malignant_hypoxia_stress_malignant	Oligodendrocyte_myelinating	1.0
+MDK	SDC3	MDK→SDC3	Mural_Pericyte_Fibroblast	B_Plasma	
+MDK	SDC3	MDK→SDC3	Mural_Pericyte_Fibroblast	Endothelial	1.0
+MDK	SDC3	MDK→SDC3	Mural_Pericyte_Fibroblast	Malignant_AC_like_reactive_malignant	0.0
+MDK	SDC3	MDK→SDC3	Mural_Pericyte_Fibroblast	Malignant_NPC_neuronal_like_malignant	1.0
+MDK	SDC3	MDK→SDC3	Mural_Pericyte_Fibroblast	Malignant_OPC_NPC_like_malignant	0.0
+MDK	SDC3	MDK→SDC3	Mural_Pericyte_Fibroblast	Malignant_cycling_candidate	0.0
+MDK	SDC3	MDK→SDC3	Mural_Pericyte_Fibroblast	Malignant_hypoxia_stress_malignant	1.0
+MDK	SDC3	MDK→SDC3	Mural_Pericyte_Fibroblast	Mural_Pericyte_Fibroblast	1.0
+MDK	SDC3	MDK→SDC3	Mural_Pericyte_Fibroblast	Oligodendrocyte_myelinating	1.0
+MDK	SDC3	MDK→SDC3	Oligodendrocyte_myelinating	B_Plasma	
+MDK	SDC3	MDK→SDC3	Oligodendrocyte_myelinating	Endothelial	1.0
+MDK	SDC3	MDK→SDC3	Oligodendrocyte_myelinating	Malignant_AC_like_reactive_malignant	1.0
+MDK	SDC3	MDK→SDC3	Oligodendrocyte_myelinating	Malignant_NPC_neuronal_like_malignant	1.0
+MDK	SDC3	MDK→SDC3	Oligodendrocyte_myelinating	Malignant_OPC_NPC_like_malignant	1.0
+MDK	SDC3	MDK→SDC3	Oligodendrocyte_myelinating	Malignant_cycling_candidate	1.0
+MDK	SDC3	MDK→SDC3	Oligodendrocyte_myelinating	Malignant_hypoxia_stress_malignant	1.0
+MDK	SDC3	MDK→SDC3	Oligodendrocyte_myelinating	Mural_Pericyte_Fibroblast	1.0
+MDK	SDC3	MDK→SDC3	Oligodendrocyte_myelinating	Oligodendrocyte_myelinating	1.0
+MIF	EGFR	MIF→EGFR	B_Plasma	B_Plasma	
+MIF	EGFR	MIF→EGFR	B_Plasma	Endothelial	1.0
+MIF	EGFR	MIF→EGFR	B_Plasma	Malignant_AC_like_reactive_malignant	0.0
+MIF	EGFR	MIF→EGFR	B_Plasma	Malignant_NPC_neuronal_like_malignant	0.43615384615384617
+MIF	EGFR	MIF→EGFR	B_Plasma	Malignant_OPC_NPC_like_malignant	0.0
+MIF	EGFR	MIF→EGFR	B_Plasma	Malignant_cycling_candidate	0.0
+MIF	EGFR	MIF→EGFR	B_Plasma	Malignant_hypoxia_stress_malignant	0.0
+MIF	EGFR	MIF→EGFR	B_Plasma	Mural_Pericyte_Fibroblast	1.0
+MIF	EGFR	MIF→EGFR	B_Plasma	Oligodendrocyte_myelinating	
+MIF	EGFR	MIF→EGFR	Endothelial	B_Plasma	
+MIF	EGFR	MIF→EGFR	Endothelial	Endothelial	1.0
+MIF	EGFR	MIF→EGFR	Endothelial	Malignant_AC_like_reactive_malignant	1.0
+MIF	EGFR	MIF→EGFR	Endothelial	Malignant_NPC_neuronal_like_malignant	1.0
+MIF	EGFR	MIF→EGFR	Endothelial	Malignant_OPC_NPC_like_malignant	1.0
+MIF	EGFR	MIF→EGFR	Endothelial	Malignant_cycling_candidate	0.0
+MIF	EGFR	MIF→EGFR	Endothelial	Malignant_hypoxia_stress_malignant	1.0
+MIF	EGFR	MIF→EGFR	Endothelial	Mural_Pericyte_Fibroblast	1.0
+MIF	EGFR	MIF→EGFR	Endothelial	Oligodendrocyte_myelinating	
+MIF	EGFR	MIF→EGFR	Malignant_AC_like_reactive_malignant	B_Plasma	
+MIF	EGFR	MIF→EGFR	Malignant_AC_like_reactive_malignant	Endothelial	1.0
+MIF	EGFR	MIF→EGFR	Malignant_AC_like_reactive_malignant	Malignant_AC_like_reactive_malignant	0.0
+MIF	EGFR	MIF→EGFR	Malignant_AC_like_reactive_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+MIF	EGFR	MIF→EGFR	Malignant_AC_like_reactive_malignant	Malignant_OPC_NPC_like_malignant	0.0
+MIF	EGFR	MIF→EGFR	Malignant_AC_like_reactive_malignant	Malignant_cycling_candidate	0.0
+MIF	EGFR	MIF→EGFR	Malignant_AC_like_reactive_malignant	Malignant_hypoxia_stress_malignant	1.0
+MIF	EGFR	MIF→EGFR	Malignant_AC_like_reactive_malignant	Mural_Pericyte_Fibroblast	1.0
+MIF	EGFR	MIF→EGFR	Malignant_AC_like_reactive_malignant	Oligodendrocyte_myelinating	
+MIF	EGFR	MIF→EGFR	Malignant_NPC_neuronal_like_malignant	B_Plasma	
+MIF	EGFR	MIF→EGFR	Malignant_NPC_neuronal_like_malignant	Endothelial	1.0
+MIF	EGFR	MIF→EGFR	Malignant_NPC_neuronal_like_malignant	Malignant_AC_like_reactive_malignant	0.0
+MIF	EGFR	MIF→EGFR	Malignant_NPC_neuronal_like_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+MIF	EGFR	MIF→EGFR	Malignant_NPC_neuronal_like_malignant	Malignant_OPC_NPC_like_malignant	0.0
+MIF	EGFR	MIF→EGFR	Malignant_NPC_neuronal_like_malignant	Malignant_cycling_candidate	0.0
+MIF	EGFR	MIF→EGFR	Malignant_NPC_neuronal_like_malignant	Malignant_hypoxia_stress_malignant	0.0
+MIF	EGFR	MIF→EGFR	Malignant_NPC_neuronal_like_malignant	Mural_Pericyte_Fibroblast	1.0
+MIF	EGFR	MIF→EGFR	Malignant_NPC_neuronal_like_malignant	Oligodendrocyte_myelinating	
+MIF	EGFR	MIF→EGFR	Malignant_OPC_NPC_like_malignant	B_Plasma	
+MIF	EGFR	MIF→EGFR	Malignant_OPC_NPC_like_malignant	Endothelial	1.0
+MIF	EGFR	MIF→EGFR	Malignant_OPC_NPC_like_malignant	Malignant_AC_like_reactive_malignant	0.0
+MIF	EGFR	MIF→EGFR	Malignant_OPC_NPC_like_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+MIF	EGFR	MIF→EGFR	Malignant_OPC_NPC_like_malignant	Malignant_OPC_NPC_like_malignant	0.0
+MIF	EGFR	MIF→EGFR	Malignant_OPC_NPC_like_malignant	Malignant_cycling_candidate	0.0
+MIF	EGFR	MIF→EGFR	Malignant_OPC_NPC_like_malignant	Malignant_hypoxia_stress_malignant	0.3410526315789474
+MIF	EGFR	MIF→EGFR	Malignant_OPC_NPC_like_malignant	Mural_Pericyte_Fibroblast	1.0
+MIF	EGFR	MIF→EGFR	Malignant_OPC_NPC_like_malignant	Oligodendrocyte_myelinating	
+MIF	EGFR	MIF→EGFR	Malignant_cycling_candidate	B_Plasma	
+MIF	EGFR	MIF→EGFR	Malignant_cycling_candidate	Endothelial	1.0
+MIF	EGFR	MIF→EGFR	Malignant_cycling_candidate	Malignant_AC_like_reactive_malignant	0.0
+MIF	EGFR	MIF→EGFR	Malignant_cycling_candidate	Malignant_NPC_neuronal_like_malignant	1.0
+MIF	EGFR	MIF→EGFR	Malignant_cycling_candidate	Malignant_OPC_NPC_like_malignant	0.0
+MIF	EGFR	MIF→EGFR	Malignant_cycling_candidate	Malignant_cycling_candidate	0.0
+MIF	EGFR	MIF→EGFR	Malignant_cycling_candidate	Malignant_hypoxia_stress_malignant	0.0
+MIF	EGFR	MIF→EGFR	Malignant_cycling_candidate	Mural_Pericyte_Fibroblast	1.0
+MIF	EGFR	MIF→EGFR	Malignant_cycling_candidate	Oligodendrocyte_myelinating	
+MIF	EGFR	MIF→EGFR	Malignant_hypoxia_stress_malignant	B_Plasma	
+MIF	EGFR	MIF→EGFR	Malignant_hypoxia_stress_malignant	Endothelial	0.13135135135135134
+MIF	EGFR	MIF→EGFR	Malignant_hypoxia_stress_malignant	Malignant_AC_like_reactive_malignant	0.0
+MIF	EGFR	MIF→EGFR	Malignant_hypoxia_stress_malignant	Malignant_NPC_neuronal_like_malignant	0.0
+MIF	EGFR	MIF→EGFR	Malignant_hypoxia_stress_malignant	Malignant_OPC_NPC_like_malignant	0.0
+MIF	EGFR	MIF→EGFR	Malignant_hypoxia_stress_malignant	Malignant_cycling_candidate	0.0
+MIF	EGFR	MIF→EGFR	Malignant_hypoxia_stress_malignant	Malignant_hypoxia_stress_malignant	0.0
+MIF	EGFR	MIF→EGFR	Malignant_hypoxia_stress_malignant	Mural_Pericyte_Fibroblast	0.0
+MIF	EGFR	MIF→EGFR	Malignant_hypoxia_stress_malignant	Oligodendrocyte_myelinating	
+MIF	EGFR	MIF→EGFR	Mural_Pericyte_Fibroblast	B_Plasma	
+MIF	EGFR	MIF→EGFR	Mural_Pericyte_Fibroblast	Endothelial	1.0
+MIF	EGFR	MIF→EGFR	Mural_Pericyte_Fibroblast	Malignant_AC_like_reactive_malignant	0.0
+MIF	EGFR	MIF→EGFR	Mural_Pericyte_Fibroblast	Malignant_NPC_neuronal_like_malignant	1.0
+MIF	EGFR	MIF→EGFR	Mural_Pericyte_Fibroblast	Malignant_OPC_NPC_like_malignant	0.0
+MIF	EGFR	MIF→EGFR	Mural_Pericyte_Fibroblast	Malignant_cycling_candidate	0.0
+MIF	EGFR	MIF→EGFR	Mural_Pericyte_Fibroblast	Malignant_hypoxia_stress_malignant	0.11250000000000002
+MIF	EGFR	MIF→EGFR	Mural_Pericyte_Fibroblast	Mural_Pericyte_Fibroblast	1.0
+MIF	EGFR	MIF→EGFR	Mural_Pericyte_Fibroblast	Oligodendrocyte_myelinating	
+MIF	EGFR	MIF→EGFR	Oligodendrocyte_myelinating	B_Plasma	
+MIF	EGFR	MIF→EGFR	Oligodendrocyte_myelinating	Endothelial	0.0
+MIF	EGFR	MIF→EGFR	Oligodendrocyte_myelinating	Malignant_AC_like_reactive_malignant	0.0
+MIF	EGFR	MIF→EGFR	Oligodendrocyte_myelinating	Malignant_NPC_neuronal_like_malignant	0.0
+MIF	EGFR	MIF→EGFR	Oligodendrocyte_myelinating	Malignant_OPC_NPC_like_malignant	0.0
+MIF	EGFR	MIF→EGFR	Oligodendrocyte_myelinating	Malignant_cycling_candidate	0.0
+MIF	EGFR	MIF→EGFR	Oligodendrocyte_myelinating	Malignant_hypoxia_stress_malignant	0.0
+MIF	EGFR	MIF→EGFR	Oligodendrocyte_myelinating	Mural_Pericyte_Fibroblast	0.0
+MIF	EGFR	MIF→EGFR	Oligodendrocyte_myelinating	Oligodendrocyte_myelinating	
+PTN	NCL	PTN→NCL	B_Plasma	B_Plasma	
+PTN	NCL	PTN→NCL	B_Plasma	Endothelial	
+PTN	NCL	PTN→NCL	B_Plasma	Malignant_AC_like_reactive_malignant	
+PTN	NCL	PTN→NCL	B_Plasma	Malignant_NPC_neuronal_like_malignant	
+PTN	NCL	PTN→NCL	B_Plasma	Malignant_OPC_NPC_like_malignant	
+PTN	NCL	PTN→NCL	B_Plasma	Malignant_cycling_candidate	
+PTN	NCL	PTN→NCL	B_Plasma	Malignant_hypoxia_stress_malignant	
+PTN	NCL	PTN→NCL	B_Plasma	Mural_Pericyte_Fibroblast	
+PTN	NCL	PTN→NCL	B_Plasma	Oligodendrocyte_myelinating	
+PTN	NCL	PTN→NCL	Endothelial	B_Plasma	1.0
+PTN	NCL	PTN→NCL	Endothelial	Endothelial	1.0
+PTN	NCL	PTN→NCL	Endothelial	Malignant_AC_like_reactive_malignant	1.0
+PTN	NCL	PTN→NCL	Endothelial	Malignant_NPC_neuronal_like_malignant	1.0
+PTN	NCL	PTN→NCL	Endothelial	Malignant_OPC_NPC_like_malignant	1.0
+PTN	NCL	PTN→NCL	Endothelial	Malignant_cycling_candidate	1.0
+PTN	NCL	PTN→NCL	Endothelial	Malignant_hypoxia_stress_malignant	1.0
+PTN	NCL	PTN→NCL	Endothelial	Mural_Pericyte_Fibroblast	1.0
+PTN	NCL	PTN→NCL	Endothelial	Oligodendrocyte_myelinating	1.0
+PTN	NCL	PTN→NCL	Malignant_AC_like_reactive_malignant	B_Plasma	0.0
+PTN	NCL	PTN→NCL	Malignant_AC_like_reactive_malignant	Endothelial	0.0
+PTN	NCL	PTN→NCL	Malignant_AC_like_reactive_malignant	Malignant_AC_like_reactive_malignant	0.0
+PTN	NCL	PTN→NCL	Malignant_AC_like_reactive_malignant	Malignant_NPC_neuronal_like_malignant	0.0
+PTN	NCL	PTN→NCL	Malignant_AC_like_reactive_malignant	Malignant_OPC_NPC_like_malignant	0.0
+PTN	NCL	PTN→NCL	Malignant_AC_like_reactive_malignant	Malignant_cycling_candidate	0.0
+PTN	NCL	PTN→NCL	Malignant_AC_like_reactive_malignant	Malignant_hypoxia_stress_malignant	0.0
+PTN	NCL	PTN→NCL	Malignant_AC_like_reactive_malignant	Mural_Pericyte_Fibroblast	0.0
+PTN	NCL	PTN→NCL	Malignant_AC_like_reactive_malignant	Oligodendrocyte_myelinating	0.0
+PTN	NCL	PTN→NCL	Malignant_NPC_neuronal_like_malignant	B_Plasma	0.0
+PTN	NCL	PTN→NCL	Malignant_NPC_neuronal_like_malignant	Endothelial	1.0
+PTN	NCL	PTN→NCL	Malignant_NPC_neuronal_like_malignant	Malignant_AC_like_reactive_malignant	1.0
+PTN	NCL	PTN→NCL	Malignant_NPC_neuronal_like_malignant	Malignant_NPC_neuronal_like_malignant	0.0
+PTN	NCL	PTN→NCL	Malignant_NPC_neuronal_like_malignant	Malignant_OPC_NPC_like_malignant	0.0
+PTN	NCL	PTN→NCL	Malignant_NPC_neuronal_like_malignant	Malignant_cycling_candidate	0.0
+PTN	NCL	PTN→NCL	Malignant_NPC_neuronal_like_malignant	Malignant_hypoxia_stress_malignant	1.0
+PTN	NCL	PTN→NCL	Malignant_NPC_neuronal_like_malignant	Mural_Pericyte_Fibroblast	1.0
+PTN	NCL	PTN→NCL	Malignant_NPC_neuronal_like_malignant	Oligodendrocyte_myelinating	0.625909090909091
+PTN	NCL	PTN→NCL	Malignant_OPC_NPC_like_malignant	B_Plasma	0.0
+PTN	NCL	PTN→NCL	Malignant_OPC_NPC_like_malignant	Endothelial	0.0
+PTN	NCL	PTN→NCL	Malignant_OPC_NPC_like_malignant	Malignant_AC_like_reactive_malignant	0.0
+PTN	NCL	PTN→NCL	Malignant_OPC_NPC_like_malignant	Malignant_NPC_neuronal_like_malignant	0.0
+PTN	NCL	PTN→NCL	Malignant_OPC_NPC_like_malignant	Malignant_OPC_NPC_like_malignant	0.0
+PTN	NCL	PTN→NCL	Malignant_OPC_NPC_like_malignant	Malignant_cycling_candidate	0.0
+PTN	NCL	PTN→NCL	Malignant_OPC_NPC_like_malignant	Malignant_hypoxia_stress_malignant	0.0
+PTN	NCL	PTN→NCL	Malignant_OPC_NPC_like_malignant	Mural_Pericyte_Fibroblast	0.0
+PTN	NCL	PTN→NCL	Malignant_OPC_NPC_like_malignant	Oligodendrocyte_myelinating	0.0
+PTN	NCL	PTN→NCL	Malignant_cycling_candidate	B_Plasma	0.0
+PTN	NCL	PTN→NCL	Malignant_cycling_candidate	Endothelial	0.0
+PTN	NCL	PTN→NCL	Malignant_cycling_candidate	Malignant_AC_like_reactive_malignant	0.0
+PTN	NCL	PTN→NCL	Malignant_cycling_candidate	Malignant_NPC_neuronal_like_malignant	0.0
+PTN	NCL	PTN→NCL	Malignant_cycling_candidate	Malignant_OPC_NPC_like_malignant	0.0
+PTN	NCL	PTN→NCL	Malignant_cycling_candidate	Malignant_cycling_candidate	0.0
+PTN	NCL	PTN→NCL	Malignant_cycling_candidate	Malignant_hypoxia_stress_malignant	0.0
+PTN	NCL	PTN→NCL	Malignant_cycling_candidate	Mural_Pericyte_Fibroblast	0.0
+PTN	NCL	PTN→NCL	Malignant_cycling_candidate	Oligodendrocyte_myelinating	0.0
+PTN	NCL	PTN→NCL	Malignant_hypoxia_stress_malignant	B_Plasma	0.0
+PTN	NCL	PTN→NCL	Malignant_hypoxia_stress_malignant	Endothelial	1.0
+PTN	NCL	PTN→NCL	Malignant_hypoxia_stress_malignant	Malignant_AC_like_reactive_malignant	1.0
+PTN	NCL	PTN→NCL	Malignant_hypoxia_stress_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+PTN	NCL	PTN→NCL	Malignant_hypoxia_stress_malignant	Malignant_OPC_NPC_like_malignant	0.0
+PTN	NCL	PTN→NCL	Malignant_hypoxia_stress_malignant	Malignant_cycling_candidate	0.0
+PTN	NCL	PTN→NCL	Malignant_hypoxia_stress_malignant	Malignant_hypoxia_stress_malignant	1.0
+PTN	NCL	PTN→NCL	Malignant_hypoxia_stress_malignant	Mural_Pericyte_Fibroblast	1.0
+PTN	NCL	PTN→NCL	Malignant_hypoxia_stress_malignant	Oligodendrocyte_myelinating	1.0
+PTN	NCL	PTN→NCL	Mural_Pericyte_Fibroblast	B_Plasma	0.0
+PTN	NCL	PTN→NCL	Mural_Pericyte_Fibroblast	Endothelial	1.0
+PTN	NCL	PTN→NCL	Mural_Pericyte_Fibroblast	Malignant_AC_like_reactive_malignant	1.0
+PTN	NCL	PTN→NCL	Mural_Pericyte_Fibroblast	Malignant_NPC_neuronal_like_malignant	0.6216279069767442
+PTN	NCL	PTN→NCL	Mural_Pericyte_Fibroblast	Malignant_OPC_NPC_like_malignant	0.0
+PTN	NCL	PTN→NCL	Mural_Pericyte_Fibroblast	Malignant_cycling_candidate	0.0
+PTN	NCL	PTN→NCL	Mural_Pericyte_Fibroblast	Malignant_hypoxia_stress_malignant	1.0
+PTN	NCL	PTN→NCL	Mural_Pericyte_Fibroblast	Mural_Pericyte_Fibroblast	1.0
+PTN	NCL	PTN→NCL	Mural_Pericyte_Fibroblast	Oligodendrocyte_myelinating	1.0
+PTN	NCL	PTN→NCL	Oligodendrocyte_myelinating	B_Plasma	0.0
+PTN	NCL	PTN→NCL	Oligodendrocyte_myelinating	Endothelial	1.0
+PTN	NCL	PTN→NCL	Oligodendrocyte_myelinating	Malignant_AC_like_reactive_malignant	1.0
+PTN	NCL	PTN→NCL	Oligodendrocyte_myelinating	Malignant_NPC_neuronal_like_malignant	0.0
+PTN	NCL	PTN→NCL	Oligodendrocyte_myelinating	Malignant_OPC_NPC_like_malignant	0.0
+PTN	NCL	PTN→NCL	Oligodendrocyte_myelinating	Malignant_cycling_candidate	0.0
+PTN	NCL	PTN→NCL	Oligodendrocyte_myelinating	Malignant_hypoxia_stress_malignant	1.0
+PTN	NCL	PTN→NCL	Oligodendrocyte_myelinating	Mural_Pericyte_Fibroblast	1.0
+PTN	NCL	PTN→NCL	Oligodendrocyte_myelinating	Oligodendrocyte_myelinating	0.405
+PTN	PTPRZ1	PTN→PTPRZ1	B_Plasma	B_Plasma	
+PTN	PTPRZ1	PTN→PTPRZ1	B_Plasma	Endothelial	
+PTN	PTPRZ1	PTN→PTPRZ1	B_Plasma	Malignant_AC_like_reactive_malignant	
+PTN	PTPRZ1	PTN→PTPRZ1	B_Plasma	Malignant_NPC_neuronal_like_malignant	
+PTN	PTPRZ1	PTN→PTPRZ1	B_Plasma	Malignant_OPC_NPC_like_malignant	
+PTN	PTPRZ1	PTN→PTPRZ1	B_Plasma	Malignant_cycling_candidate	
+PTN	PTPRZ1	PTN→PTPRZ1	B_Plasma	Malignant_hypoxia_stress_malignant	
+PTN	PTPRZ1	PTN→PTPRZ1	B_Plasma	Mural_Pericyte_Fibroblast	
+PTN	PTPRZ1	PTN→PTPRZ1	B_Plasma	Oligodendrocyte_myelinating	
+PTN	PTPRZ1	PTN→PTPRZ1	Endothelial	B_Plasma	
+PTN	PTPRZ1	PTN→PTPRZ1	Endothelial	Endothelial	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Endothelial	Malignant_AC_like_reactive_malignant	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Endothelial	Malignant_NPC_neuronal_like_malignant	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Endothelial	Malignant_OPC_NPC_like_malignant	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Endothelial	Malignant_cycling_candidate	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Endothelial	Malignant_hypoxia_stress_malignant	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Endothelial	Mural_Pericyte_Fibroblast	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Endothelial	Oligodendrocyte_myelinating	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_AC_like_reactive_malignant	B_Plasma	
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_AC_like_reactive_malignant	Endothelial	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_AC_like_reactive_malignant	Malignant_AC_like_reactive_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_AC_like_reactive_malignant	Malignant_NPC_neuronal_like_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_AC_like_reactive_malignant	Malignant_OPC_NPC_like_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_AC_like_reactive_malignant	Malignant_cycling_candidate	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_AC_like_reactive_malignant	Malignant_hypoxia_stress_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_AC_like_reactive_malignant	Mural_Pericyte_Fibroblast	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_AC_like_reactive_malignant	Oligodendrocyte_myelinating	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_NPC_neuronal_like_malignant	B_Plasma	
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_NPC_neuronal_like_malignant	Endothelial	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_NPC_neuronal_like_malignant	Malignant_AC_like_reactive_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_NPC_neuronal_like_malignant	Malignant_NPC_neuronal_like_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_NPC_neuronal_like_malignant	Malignant_OPC_NPC_like_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_NPC_neuronal_like_malignant	Malignant_cycling_candidate	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_NPC_neuronal_like_malignant	Malignant_hypoxia_stress_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_NPC_neuronal_like_malignant	Mural_Pericyte_Fibroblast	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_NPC_neuronal_like_malignant	Oligodendrocyte_myelinating	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_OPC_NPC_like_malignant	B_Plasma	
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_OPC_NPC_like_malignant	Endothelial	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_OPC_NPC_like_malignant	Malignant_AC_like_reactive_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_OPC_NPC_like_malignant	Malignant_NPC_neuronal_like_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_OPC_NPC_like_malignant	Malignant_OPC_NPC_like_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_OPC_NPC_like_malignant	Malignant_cycling_candidate	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_OPC_NPC_like_malignant	Malignant_hypoxia_stress_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_OPC_NPC_like_malignant	Mural_Pericyte_Fibroblast	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_OPC_NPC_like_malignant	Oligodendrocyte_myelinating	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_cycling_candidate	B_Plasma	
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_cycling_candidate	Endothelial	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_cycling_candidate	Malignant_AC_like_reactive_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_cycling_candidate	Malignant_NPC_neuronal_like_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_cycling_candidate	Malignant_OPC_NPC_like_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_cycling_candidate	Malignant_cycling_candidate	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_cycling_candidate	Malignant_hypoxia_stress_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_cycling_candidate	Mural_Pericyte_Fibroblast	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_cycling_candidate	Oligodendrocyte_myelinating	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_hypoxia_stress_malignant	B_Plasma	
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_hypoxia_stress_malignant	Endothelial	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_hypoxia_stress_malignant	Malignant_AC_like_reactive_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_hypoxia_stress_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_hypoxia_stress_malignant	Malignant_OPC_NPC_like_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_hypoxia_stress_malignant	Malignant_cycling_candidate	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_hypoxia_stress_malignant	Malignant_hypoxia_stress_malignant	0.17181818181818184
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_hypoxia_stress_malignant	Mural_Pericyte_Fibroblast	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Malignant_hypoxia_stress_malignant	Oligodendrocyte_myelinating	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Mural_Pericyte_Fibroblast	B_Plasma	
+PTN	PTPRZ1	PTN→PTPRZ1	Mural_Pericyte_Fibroblast	Endothelial	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Mural_Pericyte_Fibroblast	Malignant_AC_like_reactive_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Mural_Pericyte_Fibroblast	Malignant_NPC_neuronal_like_malignant	0.3335294117647059
+PTN	PTPRZ1	PTN→PTPRZ1	Mural_Pericyte_Fibroblast	Malignant_OPC_NPC_like_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Mural_Pericyte_Fibroblast	Malignant_cycling_candidate	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Mural_Pericyte_Fibroblast	Malignant_hypoxia_stress_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Mural_Pericyte_Fibroblast	Mural_Pericyte_Fibroblast	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Mural_Pericyte_Fibroblast	Oligodendrocyte_myelinating	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Oligodendrocyte_myelinating	B_Plasma	
+PTN	PTPRZ1	PTN→PTPRZ1	Oligodendrocyte_myelinating	Endothelial	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Oligodendrocyte_myelinating	Malignant_AC_like_reactive_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Oligodendrocyte_myelinating	Malignant_NPC_neuronal_like_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Oligodendrocyte_myelinating	Malignant_OPC_NPC_like_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Oligodendrocyte_myelinating	Malignant_cycling_candidate	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Oligodendrocyte_myelinating	Malignant_hypoxia_stress_malignant	0.0
+PTN	PTPRZ1	PTN→PTPRZ1	Oligodendrocyte_myelinating	Mural_Pericyte_Fibroblast	1.0
+PTN	PTPRZ1	PTN→PTPRZ1	Oligodendrocyte_myelinating	Oligodendrocyte_myelinating	1.0
+PTN	SDC3	PTN→SDC3	B_Plasma	B_Plasma	
+PTN	SDC3	PTN→SDC3	B_Plasma	Endothelial	
+PTN	SDC3	PTN→SDC3	B_Plasma	Malignant_AC_like_reactive_malignant	
+PTN	SDC3	PTN→SDC3	B_Plasma	Malignant_NPC_neuronal_like_malignant	
+PTN	SDC3	PTN→SDC3	B_Plasma	Malignant_OPC_NPC_like_malignant	
+PTN	SDC3	PTN→SDC3	B_Plasma	Malignant_cycling_candidate	
+PTN	SDC3	PTN→SDC3	B_Plasma	Malignant_hypoxia_stress_malignant	
+PTN	SDC3	PTN→SDC3	B_Plasma	Mural_Pericyte_Fibroblast	
+PTN	SDC3	PTN→SDC3	B_Plasma	Oligodendrocyte_myelinating	
+PTN	SDC3	PTN→SDC3	Endothelial	B_Plasma	
+PTN	SDC3	PTN→SDC3	Endothelial	Endothelial	1.0
+PTN	SDC3	PTN→SDC3	Endothelial	Malignant_AC_like_reactive_malignant	1.0
+PTN	SDC3	PTN→SDC3	Endothelial	Malignant_NPC_neuronal_like_malignant	1.0
+PTN	SDC3	PTN→SDC3	Endothelial	Malignant_OPC_NPC_like_malignant	1.0
+PTN	SDC3	PTN→SDC3	Endothelial	Malignant_cycling_candidate	1.0
+PTN	SDC3	PTN→SDC3	Endothelial	Malignant_hypoxia_stress_malignant	1.0
+PTN	SDC3	PTN→SDC3	Endothelial	Mural_Pericyte_Fibroblast	1.0
+PTN	SDC3	PTN→SDC3	Endothelial	Oligodendrocyte_myelinating	1.0
+PTN	SDC3	PTN→SDC3	Malignant_AC_like_reactive_malignant	B_Plasma	
+PTN	SDC3	PTN→SDC3	Malignant_AC_like_reactive_malignant	Endothelial	0.0
+PTN	SDC3	PTN→SDC3	Malignant_AC_like_reactive_malignant	Malignant_AC_like_reactive_malignant	0.0
+PTN	SDC3	PTN→SDC3	Malignant_AC_like_reactive_malignant	Malignant_NPC_neuronal_like_malignant	0.0
+PTN	SDC3	PTN→SDC3	Malignant_AC_like_reactive_malignant	Malignant_OPC_NPC_like_malignant	0.0
+PTN	SDC3	PTN→SDC3	Malignant_AC_like_reactive_malignant	Malignant_cycling_candidate	0.0
+PTN	SDC3	PTN→SDC3	Malignant_AC_like_reactive_malignant	Malignant_hypoxia_stress_malignant	0.0
+PTN	SDC3	PTN→SDC3	Malignant_AC_like_reactive_malignant	Mural_Pericyte_Fibroblast	0.0
+PTN	SDC3	PTN→SDC3	Malignant_AC_like_reactive_malignant	Oligodendrocyte_myelinating	0.0
+PTN	SDC3	PTN→SDC3	Malignant_NPC_neuronal_like_malignant	B_Plasma	
+PTN	SDC3	PTN→SDC3	Malignant_NPC_neuronal_like_malignant	Endothelial	0.0
+PTN	SDC3	PTN→SDC3	Malignant_NPC_neuronal_like_malignant	Malignant_AC_like_reactive_malignant	0.0
+PTN	SDC3	PTN→SDC3	Malignant_NPC_neuronal_like_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+PTN	SDC3	PTN→SDC3	Malignant_NPC_neuronal_like_malignant	Malignant_OPC_NPC_like_malignant	0.0
+PTN	SDC3	PTN→SDC3	Malignant_NPC_neuronal_like_malignant	Malignant_cycling_candidate	0.0
+PTN	SDC3	PTN→SDC3	Malignant_NPC_neuronal_like_malignant	Malignant_hypoxia_stress_malignant	1.0
+PTN	SDC3	PTN→SDC3	Malignant_NPC_neuronal_like_malignant	Mural_Pericyte_Fibroblast	1.0
+PTN	SDC3	PTN→SDC3	Malignant_NPC_neuronal_like_malignant	Oligodendrocyte_myelinating	1.0
+PTN	SDC3	PTN→SDC3	Malignant_OPC_NPC_like_malignant	B_Plasma	
+PTN	SDC3	PTN→SDC3	Malignant_OPC_NPC_like_malignant	Endothelial	0.0
+PTN	SDC3	PTN→SDC3	Malignant_OPC_NPC_like_malignant	Malignant_AC_like_reactive_malignant	0.0
+PTN	SDC3	PTN→SDC3	Malignant_OPC_NPC_like_malignant	Malignant_NPC_neuronal_like_malignant	0.0
+PTN	SDC3	PTN→SDC3	Malignant_OPC_NPC_like_malignant	Malignant_OPC_NPC_like_malignant	0.0
+PTN	SDC3	PTN→SDC3	Malignant_OPC_NPC_like_malignant	Malignant_cycling_candidate	0.0
+PTN	SDC3	PTN→SDC3	Malignant_OPC_NPC_like_malignant	Malignant_hypoxia_stress_malignant	0.0
+PTN	SDC3	PTN→SDC3	Malignant_OPC_NPC_like_malignant	Mural_Pericyte_Fibroblast	0.0
+PTN	SDC3	PTN→SDC3	Malignant_OPC_NPC_like_malignant	Oligodendrocyte_myelinating	0.0
+PTN	SDC3	PTN→SDC3	Malignant_cycling_candidate	B_Plasma	
+PTN	SDC3	PTN→SDC3	Malignant_cycling_candidate	Endothelial	0.0
+PTN	SDC3	PTN→SDC3	Malignant_cycling_candidate	Malignant_AC_like_reactive_malignant	0.0
+PTN	SDC3	PTN→SDC3	Malignant_cycling_candidate	Malignant_NPC_neuronal_like_malignant	0.0
+PTN	SDC3	PTN→SDC3	Malignant_cycling_candidate	Malignant_OPC_NPC_like_malignant	0.0
+PTN	SDC3	PTN→SDC3	Malignant_cycling_candidate	Malignant_cycling_candidate	0.0
+PTN	SDC3	PTN→SDC3	Malignant_cycling_candidate	Malignant_hypoxia_stress_malignant	0.0
+PTN	SDC3	PTN→SDC3	Malignant_cycling_candidate	Mural_Pericyte_Fibroblast	0.0
+PTN	SDC3	PTN→SDC3	Malignant_cycling_candidate	Oligodendrocyte_myelinating	0.0
+PTN	SDC3	PTN→SDC3	Malignant_hypoxia_stress_malignant	B_Plasma	
+PTN	SDC3	PTN→SDC3	Malignant_hypoxia_stress_malignant	Endothelial	1.0
+PTN	SDC3	PTN→SDC3	Malignant_hypoxia_stress_malignant	Malignant_AC_like_reactive_malignant	0.0
+PTN	SDC3	PTN→SDC3	Malignant_hypoxia_stress_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+PTN	SDC3	PTN→SDC3	Malignant_hypoxia_stress_malignant	Malignant_OPC_NPC_like_malignant	0.0
+PTN	SDC3	PTN→SDC3	Malignant_hypoxia_stress_malignant	Malignant_cycling_candidate	0.0
+PTN	SDC3	PTN→SDC3	Malignant_hypoxia_stress_malignant	Malignant_hypoxia_stress_malignant	1.0
+PTN	SDC3	PTN→SDC3	Malignant_hypoxia_stress_malignant	Mural_Pericyte_Fibroblast	1.0
+PTN	SDC3	PTN→SDC3	Malignant_hypoxia_stress_malignant	Oligodendrocyte_myelinating	1.0
+PTN	SDC3	PTN→SDC3	Mural_Pericyte_Fibroblast	B_Plasma	
+PTN	SDC3	PTN→SDC3	Mural_Pericyte_Fibroblast	Endothelial	1.0
+PTN	SDC3	PTN→SDC3	Mural_Pericyte_Fibroblast	Malignant_AC_like_reactive_malignant	0.0
+PTN	SDC3	PTN→SDC3	Mural_Pericyte_Fibroblast	Malignant_NPC_neuronal_like_malignant	1.0
+PTN	SDC3	PTN→SDC3	Mural_Pericyte_Fibroblast	Malignant_OPC_NPC_like_malignant	0.0
+PTN	SDC3	PTN→SDC3	Mural_Pericyte_Fibroblast	Malignant_cycling_candidate	0.0
+PTN	SDC3	PTN→SDC3	Mural_Pericyte_Fibroblast	Malignant_hypoxia_stress_malignant	1.0
+PTN	SDC3	PTN→SDC3	Mural_Pericyte_Fibroblast	Mural_Pericyte_Fibroblast	1.0
+PTN	SDC3	PTN→SDC3	Mural_Pericyte_Fibroblast	Oligodendrocyte_myelinating	1.0
+PTN	SDC3	PTN→SDC3	Oligodendrocyte_myelinating	B_Plasma	
+PTN	SDC3	PTN→SDC3	Oligodendrocyte_myelinating	Endothelial	0.0
+PTN	SDC3	PTN→SDC3	Oligodendrocyte_myelinating	Malignant_AC_like_reactive_malignant	0.0
+PTN	SDC3	PTN→SDC3	Oligodendrocyte_myelinating	Malignant_NPC_neuronal_like_malignant	1.0
+PTN	SDC3	PTN→SDC3	Oligodendrocyte_myelinating	Malignant_OPC_NPC_like_malignant	0.0
+PTN	SDC3	PTN→SDC3	Oligodendrocyte_myelinating	Malignant_cycling_candidate	0.0
+PTN	SDC3	PTN→SDC3	Oligodendrocyte_myelinating	Malignant_hypoxia_stress_malignant	1.0
+PTN	SDC3	PTN→SDC3	Oligodendrocyte_myelinating	Mural_Pericyte_Fibroblast	1.0
+PTN	SDC3	PTN→SDC3	Oligodendrocyte_myelinating	Oligodendrocyte_myelinating	1.0
+PTN	SDC4	PTN→SDC4	B_Plasma	B_Plasma	
+PTN	SDC4	PTN→SDC4	B_Plasma	Endothelial	
+PTN	SDC4	PTN→SDC4	B_Plasma	Malignant_AC_like_reactive_malignant	
+PTN	SDC4	PTN→SDC4	B_Plasma	Malignant_NPC_neuronal_like_malignant	
+PTN	SDC4	PTN→SDC4	B_Plasma	Malignant_OPC_NPC_like_malignant	
+PTN	SDC4	PTN→SDC4	B_Plasma	Malignant_cycling_candidate	
+PTN	SDC4	PTN→SDC4	B_Plasma	Malignant_hypoxia_stress_malignant	
+PTN	SDC4	PTN→SDC4	B_Plasma	Mural_Pericyte_Fibroblast	
+PTN	SDC4	PTN→SDC4	B_Plasma	Oligodendrocyte_myelinating	
+PTN	SDC4	PTN→SDC4	Endothelial	B_Plasma	
+PTN	SDC4	PTN→SDC4	Endothelial	Endothelial	
+PTN	SDC4	PTN→SDC4	Endothelial	Malignant_AC_like_reactive_malignant	1.0
+PTN	SDC4	PTN→SDC4	Endothelial	Malignant_NPC_neuronal_like_malignant	
+PTN	SDC4	PTN→SDC4	Endothelial	Malignant_OPC_NPC_like_malignant	
+PTN	SDC4	PTN→SDC4	Endothelial	Malignant_cycling_candidate	
+PTN	SDC4	PTN→SDC4	Endothelial	Malignant_hypoxia_stress_malignant	1.0
+PTN	SDC4	PTN→SDC4	Endothelial	Mural_Pericyte_Fibroblast	1.0
+PTN	SDC4	PTN→SDC4	Endothelial	Oligodendrocyte_myelinating	
+PTN	SDC4	PTN→SDC4	Malignant_AC_like_reactive_malignant	B_Plasma	
+PTN	SDC4	PTN→SDC4	Malignant_AC_like_reactive_malignant	Endothelial	
+PTN	SDC4	PTN→SDC4	Malignant_AC_like_reactive_malignant	Malignant_AC_like_reactive_malignant	0.0
+PTN	SDC4	PTN→SDC4	Malignant_AC_like_reactive_malignant	Malignant_NPC_neuronal_like_malignant	
+PTN	SDC4	PTN→SDC4	Malignant_AC_like_reactive_malignant	Malignant_OPC_NPC_like_malignant	
+PTN	SDC4	PTN→SDC4	Malignant_AC_like_reactive_malignant	Malignant_cycling_candidate	
+PTN	SDC4	PTN→SDC4	Malignant_AC_like_reactive_malignant	Malignant_hypoxia_stress_malignant	0.0
+PTN	SDC4	PTN→SDC4	Malignant_AC_like_reactive_malignant	Mural_Pericyte_Fibroblast	0.0
+PTN	SDC4	PTN→SDC4	Malignant_AC_like_reactive_malignant	Oligodendrocyte_myelinating	
+PTN	SDC4	PTN→SDC4	Malignant_NPC_neuronal_like_malignant	B_Plasma	
+PTN	SDC4	PTN→SDC4	Malignant_NPC_neuronal_like_malignant	Endothelial	
+PTN	SDC4	PTN→SDC4	Malignant_NPC_neuronal_like_malignant	Malignant_AC_like_reactive_malignant	0.0
+PTN	SDC4	PTN→SDC4	Malignant_NPC_neuronal_like_malignant	Malignant_NPC_neuronal_like_malignant	
+PTN	SDC4	PTN→SDC4	Malignant_NPC_neuronal_like_malignant	Malignant_OPC_NPC_like_malignant	
+PTN	SDC4	PTN→SDC4	Malignant_NPC_neuronal_like_malignant	Malignant_cycling_candidate	
+PTN	SDC4	PTN→SDC4	Malignant_NPC_neuronal_like_malignant	Malignant_hypoxia_stress_malignant	0.0
+PTN	SDC4	PTN→SDC4	Malignant_NPC_neuronal_like_malignant	Mural_Pericyte_Fibroblast	0.0
+PTN	SDC4	PTN→SDC4	Malignant_NPC_neuronal_like_malignant	Oligodendrocyte_myelinating	
+PTN	SDC4	PTN→SDC4	Malignant_OPC_NPC_like_malignant	B_Plasma	
+PTN	SDC4	PTN→SDC4	Malignant_OPC_NPC_like_malignant	Endothelial	
+PTN	SDC4	PTN→SDC4	Malignant_OPC_NPC_like_malignant	Malignant_AC_like_reactive_malignant	0.0
+PTN	SDC4	PTN→SDC4	Malignant_OPC_NPC_like_malignant	Malignant_NPC_neuronal_like_malignant	
+PTN	SDC4	PTN→SDC4	Malignant_OPC_NPC_like_malignant	Malignant_OPC_NPC_like_malignant	
+PTN	SDC4	PTN→SDC4	Malignant_OPC_NPC_like_malignant	Malignant_cycling_candidate	
+PTN	SDC4	PTN→SDC4	Malignant_OPC_NPC_like_malignant	Malignant_hypoxia_stress_malignant	0.0
+PTN	SDC4	PTN→SDC4	Malignant_OPC_NPC_like_malignant	Mural_Pericyte_Fibroblast	0.0
+PTN	SDC4	PTN→SDC4	Malignant_OPC_NPC_like_malignant	Oligodendrocyte_myelinating	
+PTN	SDC4	PTN→SDC4	Malignant_cycling_candidate	B_Plasma	
+PTN	SDC4	PTN→SDC4	Malignant_cycling_candidate	Endothelial	
+PTN	SDC4	PTN→SDC4	Malignant_cycling_candidate	Malignant_AC_like_reactive_malignant	0.0
+PTN	SDC4	PTN→SDC4	Malignant_cycling_candidate	Malignant_NPC_neuronal_like_malignant	
+PTN	SDC4	PTN→SDC4	Malignant_cycling_candidate	Malignant_OPC_NPC_like_malignant	
+PTN	SDC4	PTN→SDC4	Malignant_cycling_candidate	Malignant_cycling_candidate	
+PTN	SDC4	PTN→SDC4	Malignant_cycling_candidate	Malignant_hypoxia_stress_malignant	0.0
+PTN	SDC4	PTN→SDC4	Malignant_cycling_candidate	Mural_Pericyte_Fibroblast	0.0
+PTN	SDC4	PTN→SDC4	Malignant_cycling_candidate	Oligodendrocyte_myelinating	
+PTN	SDC4	PTN→SDC4	Malignant_hypoxia_stress_malignant	B_Plasma	
+PTN	SDC4	PTN→SDC4	Malignant_hypoxia_stress_malignant	Endothelial	
+PTN	SDC4	PTN→SDC4	Malignant_hypoxia_stress_malignant	Malignant_AC_like_reactive_malignant	0.0
+PTN	SDC4	PTN→SDC4	Malignant_hypoxia_stress_malignant	Malignant_NPC_neuronal_like_malignant	
+PTN	SDC4	PTN→SDC4	Malignant_hypoxia_stress_malignant	Malignant_OPC_NPC_like_malignant	
+PTN	SDC4	PTN→SDC4	Malignant_hypoxia_stress_malignant	Malignant_cycling_candidate	
+PTN	SDC4	PTN→SDC4	Malignant_hypoxia_stress_malignant	Malignant_hypoxia_stress_malignant	0.0
+PTN	SDC4	PTN→SDC4	Malignant_hypoxia_stress_malignant	Mural_Pericyte_Fibroblast	0.038571428571428576
+PTN	SDC4	PTN→SDC4	Malignant_hypoxia_stress_malignant	Oligodendrocyte_myelinating	
+PTN	SDC4	PTN→SDC4	Mural_Pericyte_Fibroblast	B_Plasma	
+PTN	SDC4	PTN→SDC4	Mural_Pericyte_Fibroblast	Endothelial	
+PTN	SDC4	PTN→SDC4	Mural_Pericyte_Fibroblast	Malignant_AC_like_reactive_malignant	0.0
+PTN	SDC4	PTN→SDC4	Mural_Pericyte_Fibroblast	Malignant_NPC_neuronal_like_malignant	
+PTN	SDC4	PTN→SDC4	Mural_Pericyte_Fibroblast	Malignant_OPC_NPC_like_malignant	
+PTN	SDC4	PTN→SDC4	Mural_Pericyte_Fibroblast	Malignant_cycling_candidate	
+PTN	SDC4	PTN→SDC4	Mural_Pericyte_Fibroblast	Malignant_hypoxia_stress_malignant	0.0
+PTN	SDC4	PTN→SDC4	Mural_Pericyte_Fibroblast	Mural_Pericyte_Fibroblast	0.0
+PTN	SDC4	PTN→SDC4	Mural_Pericyte_Fibroblast	Oligodendrocyte_myelinating	
+PTN	SDC4	PTN→SDC4	Oligodendrocyte_myelinating	B_Plasma	
+PTN	SDC4	PTN→SDC4	Oligodendrocyte_myelinating	Endothelial	
+PTN	SDC4	PTN→SDC4	Oligodendrocyte_myelinating	Malignant_AC_like_reactive_malignant	0.0
+PTN	SDC4	PTN→SDC4	Oligodendrocyte_myelinating	Malignant_NPC_neuronal_like_malignant	
+PTN	SDC4	PTN→SDC4	Oligodendrocyte_myelinating	Malignant_OPC_NPC_like_malignant	
+PTN	SDC4	PTN→SDC4	Oligodendrocyte_myelinating	Malignant_cycling_candidate	
+PTN	SDC4	PTN→SDC4	Oligodendrocyte_myelinating	Malignant_hypoxia_stress_malignant	0.0
+PTN	SDC4	PTN→SDC4	Oligodendrocyte_myelinating	Mural_Pericyte_Fibroblast	0.0
+PTN	SDC4	PTN→SDC4	Oligodendrocyte_myelinating	Oligodendrocyte_myelinating	
+TIMP1	CD63	TIMP1→CD63	B_Plasma	B_Plasma	1.0
+TIMP1	CD63	TIMP1→CD63	B_Plasma	Endothelial	1.0
+TIMP1	CD63	TIMP1→CD63	B_Plasma	Malignant_AC_like_reactive_malignant	1.0
+TIMP1	CD63	TIMP1→CD63	B_Plasma	Malignant_NPC_neuronal_like_malignant	1.0
+TIMP1	CD63	TIMP1→CD63	B_Plasma	Malignant_OPC_NPC_like_malignant	1.0
+TIMP1	CD63	TIMP1→CD63	B_Plasma	Malignant_cycling_candidate	1.0
+TIMP1	CD63	TIMP1→CD63	B_Plasma	Malignant_hypoxia_stress_malignant	1.0
+TIMP1	CD63	TIMP1→CD63	B_Plasma	Mural_Pericyte_Fibroblast	1.0
+TIMP1	CD63	TIMP1→CD63	B_Plasma	Oligodendrocyte_myelinating	1.0
+TIMP1	CD63	TIMP1→CD63	Endothelial	B_Plasma	1.0
+TIMP1	CD63	TIMP1→CD63	Endothelial	Endothelial	1.0
+TIMP1	CD63	TIMP1→CD63	Endothelial	Malignant_AC_like_reactive_malignant	0.0
+TIMP1	CD63	TIMP1→CD63	Endothelial	Malignant_NPC_neuronal_like_malignant	1.0
+TIMP1	CD63	TIMP1→CD63	Endothelial	Malignant_OPC_NPC_like_malignant	0.0
+TIMP1	CD63	TIMP1→CD63	Endothelial	Malignant_cycling_candidate	0.0
+TIMP1	CD63	TIMP1→CD63	Endothelial	Malignant_hypoxia_stress_malignant	0.0
+TIMP1	CD63	TIMP1→CD63	Endothelial	Mural_Pericyte_Fibroblast	0.0
+TIMP1	CD63	TIMP1→CD63	Endothelial	Oligodendrocyte_myelinating	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_AC_like_reactive_malignant	B_Plasma	1.0
+TIMP1	CD63	TIMP1→CD63	Malignant_AC_like_reactive_malignant	Endothelial	1.0
+TIMP1	CD63	TIMP1→CD63	Malignant_AC_like_reactive_malignant	Malignant_AC_like_reactive_malignant	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_AC_like_reactive_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+TIMP1	CD63	TIMP1→CD63	Malignant_AC_like_reactive_malignant	Malignant_OPC_NPC_like_malignant	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_AC_like_reactive_malignant	Malignant_cycling_candidate	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_AC_like_reactive_malignant	Malignant_hypoxia_stress_malignant	0.5462790697674418
+TIMP1	CD63	TIMP1→CD63	Malignant_AC_like_reactive_malignant	Mural_Pericyte_Fibroblast	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_AC_like_reactive_malignant	Oligodendrocyte_myelinating	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_NPC_neuronal_like_malignant	B_Plasma	1.0
+TIMP1	CD63	TIMP1→CD63	Malignant_NPC_neuronal_like_malignant	Endothelial	1.0
+TIMP1	CD63	TIMP1→CD63	Malignant_NPC_neuronal_like_malignant	Malignant_AC_like_reactive_malignant	1.0
+TIMP1	CD63	TIMP1→CD63	Malignant_NPC_neuronal_like_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+TIMP1	CD63	TIMP1→CD63	Malignant_NPC_neuronal_like_malignant	Malignant_OPC_NPC_like_malignant	1.0
+TIMP1	CD63	TIMP1→CD63	Malignant_NPC_neuronal_like_malignant	Malignant_cycling_candidate	1.0
+TIMP1	CD63	TIMP1→CD63	Malignant_NPC_neuronal_like_malignant	Malignant_hypoxia_stress_malignant	1.0
+TIMP1	CD63	TIMP1→CD63	Malignant_NPC_neuronal_like_malignant	Mural_Pericyte_Fibroblast	1.0
+TIMP1	CD63	TIMP1→CD63	Malignant_NPC_neuronal_like_malignant	Oligodendrocyte_myelinating	1.0
+TIMP1	CD63	TIMP1→CD63	Malignant_OPC_NPC_like_malignant	B_Plasma	1.0
+TIMP1	CD63	TIMP1→CD63	Malignant_OPC_NPC_like_malignant	Endothelial	0.1215
+TIMP1	CD63	TIMP1→CD63	Malignant_OPC_NPC_like_malignant	Malignant_AC_like_reactive_malignant	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_OPC_NPC_like_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+TIMP1	CD63	TIMP1→CD63	Malignant_OPC_NPC_like_malignant	Malignant_OPC_NPC_like_malignant	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_OPC_NPC_like_malignant	Malignant_cycling_candidate	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_OPC_NPC_like_malignant	Malignant_hypoxia_stress_malignant	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_OPC_NPC_like_malignant	Mural_Pericyte_Fibroblast	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_OPC_NPC_like_malignant	Oligodendrocyte_myelinating	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_cycling_candidate	B_Plasma	1.0
+TIMP1	CD63	TIMP1→CD63	Malignant_cycling_candidate	Endothelial	0.5462790697674418
+TIMP1	CD63	TIMP1→CD63	Malignant_cycling_candidate	Malignant_AC_like_reactive_malignant	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_cycling_candidate	Malignant_NPC_neuronal_like_malignant	1.0
+TIMP1	CD63	TIMP1→CD63	Malignant_cycling_candidate	Malignant_OPC_NPC_like_malignant	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_cycling_candidate	Malignant_cycling_candidate	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_cycling_candidate	Malignant_hypoxia_stress_malignant	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_cycling_candidate	Mural_Pericyte_Fibroblast	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_cycling_candidate	Oligodendrocyte_myelinating	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_hypoxia_stress_malignant	B_Plasma	1.0
+TIMP1	CD63	TIMP1→CD63	Malignant_hypoxia_stress_malignant	Endothelial	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_hypoxia_stress_malignant	Malignant_AC_like_reactive_malignant	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_hypoxia_stress_malignant	Malignant_NPC_neuronal_like_malignant	0.5136585365853659
+TIMP1	CD63	TIMP1→CD63	Malignant_hypoxia_stress_malignant	Malignant_OPC_NPC_like_malignant	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_hypoxia_stress_malignant	Malignant_cycling_candidate	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_hypoxia_stress_malignant	Malignant_hypoxia_stress_malignant	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_hypoxia_stress_malignant	Mural_Pericyte_Fibroblast	0.0
+TIMP1	CD63	TIMP1→CD63	Malignant_hypoxia_stress_malignant	Oligodendrocyte_myelinating	0.0
+TIMP1	CD63	TIMP1→CD63	Mural_Pericyte_Fibroblast	B_Plasma	0.0
+TIMP1	CD63	TIMP1→CD63	Mural_Pericyte_Fibroblast	Endothelial	0.0
+TIMP1	CD63	TIMP1→CD63	Mural_Pericyte_Fibroblast	Malignant_AC_like_reactive_malignant	0.0
+TIMP1	CD63	TIMP1→CD63	Mural_Pericyte_Fibroblast	Malignant_NPC_neuronal_like_malignant	0.0
+TIMP1	CD63	TIMP1→CD63	Mural_Pericyte_Fibroblast	Malignant_OPC_NPC_like_malignant	0.0
+TIMP1	CD63	TIMP1→CD63	Mural_Pericyte_Fibroblast	Malignant_cycling_candidate	0.0
+TIMP1	CD63	TIMP1→CD63	Mural_Pericyte_Fibroblast	Malignant_hypoxia_stress_malignant	0.0
+TIMP1	CD63	TIMP1→CD63	Mural_Pericyte_Fibroblast	Mural_Pericyte_Fibroblast	0.0
+TIMP1	CD63	TIMP1→CD63	Mural_Pericyte_Fibroblast	Oligodendrocyte_myelinating	0.0
+TIMP1	CD63	TIMP1→CD63	Oligodendrocyte_myelinating	B_Plasma	1.0
+TIMP1	CD63	TIMP1→CD63	Oligodendrocyte_myelinating	Endothelial	1.0
+TIMP1	CD63	TIMP1→CD63	Oligodendrocyte_myelinating	Malignant_AC_like_reactive_malignant	1.0
+TIMP1	CD63	TIMP1→CD63	Oligodendrocyte_myelinating	Malignant_NPC_neuronal_like_malignant	1.0
+TIMP1	CD63	TIMP1→CD63	Oligodendrocyte_myelinating	Malignant_OPC_NPC_like_malignant	1.0
+TIMP1	CD63	TIMP1→CD63	Oligodendrocyte_myelinating	Malignant_cycling_candidate	1.0
+TIMP1	CD63	TIMP1→CD63	Oligodendrocyte_myelinating	Malignant_hypoxia_stress_malignant	1.0
+TIMP1	CD63	TIMP1→CD63	Oligodendrocyte_myelinating	Mural_Pericyte_Fibroblast	1.0
+TIMP1	CD63	TIMP1→CD63	Oligodendrocyte_myelinating	Oligodendrocyte_myelinating	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	B_Plasma	B_Plasma	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	B_Plasma	Endothelial	0.0
+VEGFA	ITGB1	VEGFA→ITGB1	B_Plasma	Malignant_AC_like_reactive_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	B_Plasma	Malignant_NPC_neuronal_like_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	B_Plasma	Malignant_OPC_NPC_like_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	B_Plasma	Malignant_cycling_candidate	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	B_Plasma	Malignant_hypoxia_stress_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	B_Plasma	Mural_Pericyte_Fibroblast	0.0
+VEGFA	ITGB1	VEGFA→ITGB1	B_Plasma	Oligodendrocyte_myelinating	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Endothelial	B_Plasma	
+VEGFA	ITGB1	VEGFA→ITGB1	Endothelial	Endothelial	
+VEGFA	ITGB1	VEGFA→ITGB1	Endothelial	Malignant_AC_like_reactive_malignant	
+VEGFA	ITGB1	VEGFA→ITGB1	Endothelial	Malignant_NPC_neuronal_like_malignant	
+VEGFA	ITGB1	VEGFA→ITGB1	Endothelial	Malignant_OPC_NPC_like_malignant	
+VEGFA	ITGB1	VEGFA→ITGB1	Endothelial	Malignant_cycling_candidate	
+VEGFA	ITGB1	VEGFA→ITGB1	Endothelial	Malignant_hypoxia_stress_malignant	
+VEGFA	ITGB1	VEGFA→ITGB1	Endothelial	Mural_Pericyte_Fibroblast	
+VEGFA	ITGB1	VEGFA→ITGB1	Endothelial	Oligodendrocyte_myelinating	
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_AC_like_reactive_malignant	B_Plasma	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_AC_like_reactive_malignant	Endothelial	0.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_AC_like_reactive_malignant	Malignant_AC_like_reactive_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_AC_like_reactive_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_AC_like_reactive_malignant	Malignant_OPC_NPC_like_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_AC_like_reactive_malignant	Malignant_cycling_candidate	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_AC_like_reactive_malignant	Malignant_hypoxia_stress_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_AC_like_reactive_malignant	Mural_Pericyte_Fibroblast	0.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_AC_like_reactive_malignant	Oligodendrocyte_myelinating	0.03375
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_NPC_neuronal_like_malignant	B_Plasma	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_NPC_neuronal_like_malignant	Endothelial	0.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_NPC_neuronal_like_malignant	Malignant_AC_like_reactive_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_NPC_neuronal_like_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_NPC_neuronal_like_malignant	Malignant_OPC_NPC_like_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_NPC_neuronal_like_malignant	Malignant_cycling_candidate	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_NPC_neuronal_like_malignant	Malignant_hypoxia_stress_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_NPC_neuronal_like_malignant	Mural_Pericyte_Fibroblast	0.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_NPC_neuronal_like_malignant	Oligodendrocyte_myelinating	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_OPC_NPC_like_malignant	B_Plasma	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_OPC_NPC_like_malignant	Endothelial	0.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_OPC_NPC_like_malignant	Malignant_AC_like_reactive_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_OPC_NPC_like_malignant	Malignant_NPC_neuronal_like_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_OPC_NPC_like_malignant	Malignant_OPC_NPC_like_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_OPC_NPC_like_malignant	Malignant_cycling_candidate	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_OPC_NPC_like_malignant	Malignant_hypoxia_stress_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_OPC_NPC_like_malignant	Mural_Pericyte_Fibroblast	0.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_OPC_NPC_like_malignant	Oligodendrocyte_myelinating	0.03375
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_cycling_candidate	B_Plasma	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_cycling_candidate	Endothelial	0.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_cycling_candidate	Malignant_AC_like_reactive_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_cycling_candidate	Malignant_NPC_neuronal_like_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_cycling_candidate	Malignant_OPC_NPC_like_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_cycling_candidate	Malignant_cycling_candidate	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_cycling_candidate	Malignant_hypoxia_stress_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_cycling_candidate	Mural_Pericyte_Fibroblast	0.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_cycling_candidate	Oligodendrocyte_myelinating	0.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_hypoxia_stress_malignant	B_Plasma	0.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_hypoxia_stress_malignant	Endothelial	0.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_hypoxia_stress_malignant	Malignant_AC_like_reactive_malignant	0.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_hypoxia_stress_malignant	Malignant_NPC_neuronal_like_malignant	0.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_hypoxia_stress_malignant	Malignant_OPC_NPC_like_malignant	0.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_hypoxia_stress_malignant	Malignant_cycling_candidate	0.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_hypoxia_stress_malignant	Malignant_hypoxia_stress_malignant	0.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_hypoxia_stress_malignant	Mural_Pericyte_Fibroblast	0.0
+VEGFA	ITGB1	VEGFA→ITGB1	Malignant_hypoxia_stress_malignant	Oligodendrocyte_myelinating	0.0
+VEGFA	ITGB1	VEGFA→ITGB1	Mural_Pericyte_Fibroblast	B_Plasma	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Mural_Pericyte_Fibroblast	Endothelial	0.0
+VEGFA	ITGB1	VEGFA→ITGB1	Mural_Pericyte_Fibroblast	Malignant_AC_like_reactive_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Mural_Pericyte_Fibroblast	Malignant_NPC_neuronal_like_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Mural_Pericyte_Fibroblast	Malignant_OPC_NPC_like_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Mural_Pericyte_Fibroblast	Malignant_cycling_candidate	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Mural_Pericyte_Fibroblast	Malignant_hypoxia_stress_malignant	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Mural_Pericyte_Fibroblast	Mural_Pericyte_Fibroblast	0.0
+VEGFA	ITGB1	VEGFA→ITGB1	Mural_Pericyte_Fibroblast	Oligodendrocyte_myelinating	1.0
+VEGFA	ITGB1	VEGFA→ITGB1	Oligodendrocyte_myelinating	B_Plasma	
+VEGFA	ITGB1	VEGFA→ITGB1	Oligodendrocyte_myelinating	Endothelial	
+VEGFA	ITGB1	VEGFA→ITGB1	Oligodendrocyte_myelinating	Malignant_AC_like_reactive_malignant	
+VEGFA	ITGB1	VEGFA→ITGB1	Oligodendrocyte_myelinating	Malignant_NPC_neuronal_like_malignant	
+VEGFA	ITGB1	VEGFA→ITGB1	Oligodendrocyte_myelinating	Malignant_OPC_NPC_like_malignant	
+VEGFA	ITGB1	VEGFA→ITGB1	Oligodendrocyte_myelinating	Malignant_cycling_candidate	
+VEGFA	ITGB1	VEGFA→ITGB1	Oligodendrocyte_myelinating	Malignant_hypoxia_stress_malignant	
+VEGFA	ITGB1	VEGFA→ITGB1	Oligodendrocyte_myelinating	Mural_Pericyte_Fibroblast	
+VEGFA	ITGB1	VEGFA→ITGB1	Oligodendrocyte_myelinating	Oligodendrocyte_myelinating	
+VEGFA	NRP1	VEGFA→NRP1	B_Plasma	B_Plasma	
+VEGFA	NRP1	VEGFA→NRP1	B_Plasma	Endothelial	0.0
+VEGFA	NRP1	VEGFA→NRP1	B_Plasma	Malignant_AC_like_reactive_malignant	
+VEGFA	NRP1	VEGFA→NRP1	B_Plasma	Malignant_NPC_neuronal_like_malignant	
+VEGFA	NRP1	VEGFA→NRP1	B_Plasma	Malignant_OPC_NPC_like_malignant	
+VEGFA	NRP1	VEGFA→NRP1	B_Plasma	Malignant_cycling_candidate	
+VEGFA	NRP1	VEGFA→NRP1	B_Plasma	Malignant_hypoxia_stress_malignant	1.0
+VEGFA	NRP1	VEGFA→NRP1	B_Plasma	Mural_Pericyte_Fibroblast	1.0
+VEGFA	NRP1	VEGFA→NRP1	B_Plasma	Oligodendrocyte_myelinating	
+VEGFA	NRP1	VEGFA→NRP1	Endothelial	B_Plasma	
+VEGFA	NRP1	VEGFA→NRP1	Endothelial	Endothelial	
+VEGFA	NRP1	VEGFA→NRP1	Endothelial	Malignant_AC_like_reactive_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Endothelial	Malignant_NPC_neuronal_like_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Endothelial	Malignant_OPC_NPC_like_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Endothelial	Malignant_cycling_candidate	
+VEGFA	NRP1	VEGFA→NRP1	Endothelial	Malignant_hypoxia_stress_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Endothelial	Mural_Pericyte_Fibroblast	
+VEGFA	NRP1	VEGFA→NRP1	Endothelial	Oligodendrocyte_myelinating	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_AC_like_reactive_malignant	B_Plasma	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_AC_like_reactive_malignant	Endothelial	0.0
+VEGFA	NRP1	VEGFA→NRP1	Malignant_AC_like_reactive_malignant	Malignant_AC_like_reactive_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_AC_like_reactive_malignant	Malignant_NPC_neuronal_like_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_AC_like_reactive_malignant	Malignant_OPC_NPC_like_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_AC_like_reactive_malignant	Malignant_cycling_candidate	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_AC_like_reactive_malignant	Malignant_hypoxia_stress_malignant	1.0
+VEGFA	NRP1	VEGFA→NRP1	Malignant_AC_like_reactive_malignant	Mural_Pericyte_Fibroblast	0.0
+VEGFA	NRP1	VEGFA→NRP1	Malignant_AC_like_reactive_malignant	Oligodendrocyte_myelinating	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_NPC_neuronal_like_malignant	B_Plasma	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_NPC_neuronal_like_malignant	Endothelial	0.0
+VEGFA	NRP1	VEGFA→NRP1	Malignant_NPC_neuronal_like_malignant	Malignant_AC_like_reactive_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_NPC_neuronal_like_malignant	Malignant_NPC_neuronal_like_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_NPC_neuronal_like_malignant	Malignant_OPC_NPC_like_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_NPC_neuronal_like_malignant	Malignant_cycling_candidate	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_NPC_neuronal_like_malignant	Malignant_hypoxia_stress_malignant	1.0
+VEGFA	NRP1	VEGFA→NRP1	Malignant_NPC_neuronal_like_malignant	Mural_Pericyte_Fibroblast	0.0
+VEGFA	NRP1	VEGFA→NRP1	Malignant_NPC_neuronal_like_malignant	Oligodendrocyte_myelinating	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_OPC_NPC_like_malignant	B_Plasma	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_OPC_NPC_like_malignant	Endothelial	0.0
+VEGFA	NRP1	VEGFA→NRP1	Malignant_OPC_NPC_like_malignant	Malignant_AC_like_reactive_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_OPC_NPC_like_malignant	Malignant_NPC_neuronal_like_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_OPC_NPC_like_malignant	Malignant_OPC_NPC_like_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_OPC_NPC_like_malignant	Malignant_cycling_candidate	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_OPC_NPC_like_malignant	Malignant_hypoxia_stress_malignant	1.0
+VEGFA	NRP1	VEGFA→NRP1	Malignant_OPC_NPC_like_malignant	Mural_Pericyte_Fibroblast	0.0
+VEGFA	NRP1	VEGFA→NRP1	Malignant_OPC_NPC_like_malignant	Oligodendrocyte_myelinating	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_cycling_candidate	B_Plasma	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_cycling_candidate	Endothelial	0.0
+VEGFA	NRP1	VEGFA→NRP1	Malignant_cycling_candidate	Malignant_AC_like_reactive_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_cycling_candidate	Malignant_NPC_neuronal_like_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_cycling_candidate	Malignant_OPC_NPC_like_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_cycling_candidate	Malignant_cycling_candidate	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_cycling_candidate	Malignant_hypoxia_stress_malignant	1.0
+VEGFA	NRP1	VEGFA→NRP1	Malignant_cycling_candidate	Mural_Pericyte_Fibroblast	0.0
+VEGFA	NRP1	VEGFA→NRP1	Malignant_cycling_candidate	Oligodendrocyte_myelinating	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_hypoxia_stress_malignant	B_Plasma	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_hypoxia_stress_malignant	Endothelial	0.0
+VEGFA	NRP1	VEGFA→NRP1	Malignant_hypoxia_stress_malignant	Malignant_AC_like_reactive_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_hypoxia_stress_malignant	Malignant_NPC_neuronal_like_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_hypoxia_stress_malignant	Malignant_OPC_NPC_like_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_hypoxia_stress_malignant	Malignant_cycling_candidate	
+VEGFA	NRP1	VEGFA→NRP1	Malignant_hypoxia_stress_malignant	Malignant_hypoxia_stress_malignant	0.0
+VEGFA	NRP1	VEGFA→NRP1	Malignant_hypoxia_stress_malignant	Mural_Pericyte_Fibroblast	0.0
+VEGFA	NRP1	VEGFA→NRP1	Malignant_hypoxia_stress_malignant	Oligodendrocyte_myelinating	
+VEGFA	NRP1	VEGFA→NRP1	Mural_Pericyte_Fibroblast	B_Plasma	
+VEGFA	NRP1	VEGFA→NRP1	Mural_Pericyte_Fibroblast	Endothelial	0.0
+VEGFA	NRP1	VEGFA→NRP1	Mural_Pericyte_Fibroblast	Malignant_AC_like_reactive_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Mural_Pericyte_Fibroblast	Malignant_NPC_neuronal_like_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Mural_Pericyte_Fibroblast	Malignant_OPC_NPC_like_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Mural_Pericyte_Fibroblast	Malignant_cycling_candidate	
+VEGFA	NRP1	VEGFA→NRP1	Mural_Pericyte_Fibroblast	Malignant_hypoxia_stress_malignant	1.0
+VEGFA	NRP1	VEGFA→NRP1	Mural_Pericyte_Fibroblast	Mural_Pericyte_Fibroblast	0.0
+VEGFA	NRP1	VEGFA→NRP1	Mural_Pericyte_Fibroblast	Oligodendrocyte_myelinating	
+VEGFA	NRP1	VEGFA→NRP1	Oligodendrocyte_myelinating	B_Plasma	
+VEGFA	NRP1	VEGFA→NRP1	Oligodendrocyte_myelinating	Endothelial	
+VEGFA	NRP1	VEGFA→NRP1	Oligodendrocyte_myelinating	Malignant_AC_like_reactive_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Oligodendrocyte_myelinating	Malignant_NPC_neuronal_like_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Oligodendrocyte_myelinating	Malignant_OPC_NPC_like_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Oligodendrocyte_myelinating	Malignant_cycling_candidate	
+VEGFA	NRP1	VEGFA→NRP1	Oligodendrocyte_myelinating	Malignant_hypoxia_stress_malignant	
+VEGFA	NRP1	VEGFA→NRP1	Oligodendrocyte_myelinating	Mural_Pericyte_Fibroblast	
+VEGFA	NRP1	VEGFA→NRP1	Oligodendrocyte_myelinating	Oligodendrocyte_myelinating	
+VIM	CD44	VIM→CD44	B_Plasma	B_Plasma	0.0
+VIM	CD44	VIM→CD44	B_Plasma	Endothelial	1.0
+VIM	CD44	VIM→CD44	B_Plasma	Malignant_AC_like_reactive_malignant	0.0
+VIM	CD44	VIM→CD44	B_Plasma	Malignant_NPC_neuronal_like_malignant	
+VIM	CD44	VIM→CD44	B_Plasma	Malignant_OPC_NPC_like_malignant	1.0
+VIM	CD44	VIM→CD44	B_Plasma	Malignant_cycling_candidate	1.0
+VIM	CD44	VIM→CD44	B_Plasma	Malignant_hypoxia_stress_malignant	0.0
+VIM	CD44	VIM→CD44	B_Plasma	Mural_Pericyte_Fibroblast	0.0
+VIM	CD44	VIM→CD44	B_Plasma	Oligodendrocyte_myelinating	1.0
+VIM	CD44	VIM→CD44	Endothelial	B_Plasma	0.0
+VIM	CD44	VIM→CD44	Endothelial	Endothelial	0.0
+VIM	CD44	VIM→CD44	Endothelial	Malignant_AC_like_reactive_malignant	0.0
+VIM	CD44	VIM→CD44	Endothelial	Malignant_NPC_neuronal_like_malignant	
+VIM	CD44	VIM→CD44	Endothelial	Malignant_OPC_NPC_like_malignant	0.0
+VIM	CD44	VIM→CD44	Endothelial	Malignant_cycling_candidate	0.0
+VIM	CD44	VIM→CD44	Endothelial	Malignant_hypoxia_stress_malignant	0.0
+VIM	CD44	VIM→CD44	Endothelial	Mural_Pericyte_Fibroblast	0.0
+VIM	CD44	VIM→CD44	Endothelial	Oligodendrocyte_myelinating	0.0
+VIM	CD44	VIM→CD44	Malignant_AC_like_reactive_malignant	B_Plasma	0.0
+VIM	CD44	VIM→CD44	Malignant_AC_like_reactive_malignant	Endothelial	0.0
+VIM	CD44	VIM→CD44	Malignant_AC_like_reactive_malignant	Malignant_AC_like_reactive_malignant	0.0
+VIM	CD44	VIM→CD44	Malignant_AC_like_reactive_malignant	Malignant_NPC_neuronal_like_malignant	
+VIM	CD44	VIM→CD44	Malignant_AC_like_reactive_malignant	Malignant_OPC_NPC_like_malignant	0.0
+VIM	CD44	VIM→CD44	Malignant_AC_like_reactive_malignant	Malignant_cycling_candidate	0.0
+VIM	CD44	VIM→CD44	Malignant_AC_like_reactive_malignant	Malignant_hypoxia_stress_malignant	0.0
+VIM	CD44	VIM→CD44	Malignant_AC_like_reactive_malignant	Mural_Pericyte_Fibroblast	0.0
+VIM	CD44	VIM→CD44	Malignant_AC_like_reactive_malignant	Oligodendrocyte_myelinating	0.0
+VIM	CD44	VIM→CD44	Malignant_NPC_neuronal_like_malignant	B_Plasma	1.0
+VIM	CD44	VIM→CD44	Malignant_NPC_neuronal_like_malignant	Endothelial	1.0
+VIM	CD44	VIM→CD44	Malignant_NPC_neuronal_like_malignant	Malignant_AC_like_reactive_malignant	1.0
+VIM	CD44	VIM→CD44	Malignant_NPC_neuronal_like_malignant	Malignant_NPC_neuronal_like_malignant	
+VIM	CD44	VIM→CD44	Malignant_NPC_neuronal_like_malignant	Malignant_OPC_NPC_like_malignant	1.0
+VIM	CD44	VIM→CD44	Malignant_NPC_neuronal_like_malignant	Malignant_cycling_candidate	1.0
+VIM	CD44	VIM→CD44	Malignant_NPC_neuronal_like_malignant	Malignant_hypoxia_stress_malignant	1.0
+VIM	CD44	VIM→CD44	Malignant_NPC_neuronal_like_malignant	Mural_Pericyte_Fibroblast	1.0
+VIM	CD44	VIM→CD44	Malignant_NPC_neuronal_like_malignant	Oligodendrocyte_myelinating	1.0
+VIM	CD44	VIM→CD44	Malignant_OPC_NPC_like_malignant	B_Plasma	0.0
+VIM	CD44	VIM→CD44	Malignant_OPC_NPC_like_malignant	Endothelial	1.0
+VIM	CD44	VIM→CD44	Malignant_OPC_NPC_like_malignant	Malignant_AC_like_reactive_malignant	0.0
+VIM	CD44	VIM→CD44	Malignant_OPC_NPC_like_malignant	Malignant_NPC_neuronal_like_malignant	
+VIM	CD44	VIM→CD44	Malignant_OPC_NPC_like_malignant	Malignant_OPC_NPC_like_malignant	1.0
+VIM	CD44	VIM→CD44	Malignant_OPC_NPC_like_malignant	Malignant_cycling_candidate	1.0
+VIM	CD44	VIM→CD44	Malignant_OPC_NPC_like_malignant	Malignant_hypoxia_stress_malignant	0.0
+VIM	CD44	VIM→CD44	Malignant_OPC_NPC_like_malignant	Mural_Pericyte_Fibroblast	0.0
+VIM	CD44	VIM→CD44	Malignant_OPC_NPC_like_malignant	Oligodendrocyte_myelinating	1.0
+VIM	CD44	VIM→CD44	Malignant_cycling_candidate	B_Plasma	0.0
+VIM	CD44	VIM→CD44	Malignant_cycling_candidate	Endothelial	1.0
+VIM	CD44	VIM→CD44	Malignant_cycling_candidate	Malignant_AC_like_reactive_malignant	0.0
+VIM	CD44	VIM→CD44	Malignant_cycling_candidate	Malignant_NPC_neuronal_like_malignant	
+VIM	CD44	VIM→CD44	Malignant_cycling_candidate	Malignant_OPC_NPC_like_malignant	1.0
+VIM	CD44	VIM→CD44	Malignant_cycling_candidate	Malignant_cycling_candidate	1.0
+VIM	CD44	VIM→CD44	Malignant_cycling_candidate	Malignant_hypoxia_stress_malignant	0.0
+VIM	CD44	VIM→CD44	Malignant_cycling_candidate	Mural_Pericyte_Fibroblast	0.0
+VIM	CD44	VIM→CD44	Malignant_cycling_candidate	Oligodendrocyte_myelinating	1.0
+VIM	CD44	VIM→CD44	Malignant_hypoxia_stress_malignant	B_Plasma	0.0
+VIM	CD44	VIM→CD44	Malignant_hypoxia_stress_malignant	Endothelial	0.0
+VIM	CD44	VIM→CD44	Malignant_hypoxia_stress_malignant	Malignant_AC_like_reactive_malignant	0.0
+VIM	CD44	VIM→CD44	Malignant_hypoxia_stress_malignant	Malignant_NPC_neuronal_like_malignant	
+VIM	CD44	VIM→CD44	Malignant_hypoxia_stress_malignant	Malignant_OPC_NPC_like_malignant	0.0
+VIM	CD44	VIM→CD44	Malignant_hypoxia_stress_malignant	Malignant_cycling_candidate	0.0
+VIM	CD44	VIM→CD44	Malignant_hypoxia_stress_malignant	Malignant_hypoxia_stress_malignant	0.0
+VIM	CD44	VIM→CD44	Malignant_hypoxia_stress_malignant	Mural_Pericyte_Fibroblast	0.0
+VIM	CD44	VIM→CD44	Malignant_hypoxia_stress_malignant	Oligodendrocyte_myelinating	0.0
+VIM	CD44	VIM→CD44	Mural_Pericyte_Fibroblast	B_Plasma	0.0
+VIM	CD44	VIM→CD44	Mural_Pericyte_Fibroblast	Endothelial	0.0
+VIM	CD44	VIM→CD44	Mural_Pericyte_Fibroblast	Malignant_AC_like_reactive_malignant	0.0
+VIM	CD44	VIM→CD44	Mural_Pericyte_Fibroblast	Malignant_NPC_neuronal_like_malignant	
+VIM	CD44	VIM→CD44	Mural_Pericyte_Fibroblast	Malignant_OPC_NPC_like_malignant	0.0
+VIM	CD44	VIM→CD44	Mural_Pericyte_Fibroblast	Malignant_cycling_candidate	0.0
+VIM	CD44	VIM→CD44	Mural_Pericyte_Fibroblast	Malignant_hypoxia_stress_malignant	0.0
+VIM	CD44	VIM→CD44	Mural_Pericyte_Fibroblast	Mural_Pericyte_Fibroblast	0.0
+VIM	CD44	VIM→CD44	Mural_Pericyte_Fibroblast	Oligodendrocyte_myelinating	0.0
+VIM	CD44	VIM→CD44	Oligodendrocyte_myelinating	B_Plasma	1.0
+VIM	CD44	VIM→CD44	Oligodendrocyte_myelinating	Endothelial	1.0
+VIM	CD44	VIM→CD44	Oligodendrocyte_myelinating	Malignant_AC_like_reactive_malignant	1.0
+VIM	CD44	VIM→CD44	Oligodendrocyte_myelinating	Malignant_NPC_neuronal_like_malignant	
+VIM	CD44	VIM→CD44	Oligodendrocyte_myelinating	Malignant_OPC_NPC_like_malignant	1.0
+VIM	CD44	VIM→CD44	Oligodendrocyte_myelinating	Malignant_cycling_candidate	1.0
+VIM	CD44	VIM→CD44	Oligodendrocyte_myelinating	Malignant_hypoxia_stress_malignant	1.0
+VIM	CD44	VIM→CD44	Oligodendrocyte_myelinating	Mural_Pericyte_Fibroblast	1.0
+VIM	CD44	VIM→CD44	Oligodendrocyte_myelinating	Oligodendrocyte_myelinating	1.0
