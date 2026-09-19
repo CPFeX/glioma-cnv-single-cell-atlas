@@ -1,0 +1,9 @@
+condition	checkpoint	expected_historical	observed	match
+GBM	n_liana_rows	11094	11094	True
+GBM	n_prioritized	662	662	True
+LGG	n_liana_rows	11050	11050	True
+LGG	n_prioritized	625	625	True
+ndGBM	n_liana_rows	23603	23603	True
+ndGBM	n_prioritized	1337	1337	True
+rGBM	n_liana_rows	30423	30423	True
+rGBM	n_prioritized	1676	1676	True

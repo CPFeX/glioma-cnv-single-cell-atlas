@@ -1,0 +1,26 @@
+parameter	value
+resource_name	consensus
+expr_prop	0.1
+liana_min_cells	5
+condition_min_cells_pre_filter	50
+n_perms	1000
+seed	1337
+n_jobs	1
+python_version	3.12.3 | packaged by conda-forge | (main, Apr 15 2024, 18:20:11) [MSC v.1938 64 bit (AMD64)]
+numpy_version	2.3.5
+pandas_version	2.3.3
+scipy_version	1.16.3
+anndata_version	0.12.7
+scanpy_version	1.11.5
+liana_version	1.7.1
+use_raw	False
+layer_passed_to_liana	None
+counts_layer_source	counts
+normalization_target_sum	10000.0
+normalization_transform	log1p
+groupby	liana_celltype_condition_main
+group_label_mode	canonical_notebook25_direct
+historical_aliases_used_for_computation	False
+primary_rank	magnitude_rank
+rank_threshold	0.05
+historically_excluded_celltypes	B_Plasma;Mast_cell

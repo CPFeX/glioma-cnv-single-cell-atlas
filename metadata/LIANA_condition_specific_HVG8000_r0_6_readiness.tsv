@@ -1,0 +1,5 @@
+item	path	exists	size_mb
+GBM_core_4datasets_final_annotation_malignant_states.h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_final_annotation_malignant_states.h5ad	True	14469.275
+LIANA_prepare_HVG8000_r0_6_cell_metadata.tsv	G:\Repository\glioma-cnv-single-cell-atlas\metadata\LIANA_prepare_HVG8000_r0_6_cell_metadata.tsv	True	85.034
+LIANA_prepare_HVG8000_r0_6_condition_celltype_counts.tsv	G:\Repository\glioma-cnv-single-cell-atlas\metadata\LIANA_prepare_HVG8000_r0_6_condition_celltype_counts.tsv	True	0.006
+liana_version	1.7.1	True	

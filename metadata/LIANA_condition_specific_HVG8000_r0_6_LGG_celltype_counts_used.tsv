@@ -1,0 +1,7 @@
+condition	liana_celltype	n_cells	historical_category_order
+LGG	Malignant_AC_like_reactive_malignant	507	0
+LGG	Malignant_NPC_neuronal_like_malignant	220	1
+LGG	Malignant_OPC_NPC_like_malignant	3975	2
+LGG	Malignant_cycling_candidate	283	3
+LGG	Endothelial	168	4
+LGG	Oligodendrocyte_myelinating	1180	5

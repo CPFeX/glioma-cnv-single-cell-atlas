@@ -1,0 +1,5 @@
+field	column	source
+cell_id	cell_id	LIANA_prepare_HVG8000_r0_6_cell_metadata.tsv
+condition	condition	LIANA_prepare_HVG8000_r0_6_cell_metadata.tsv
+LIANA cell type	liana_celltype_main	LIANA_prepare_HVG8000_r0_6_cell_metadata.tsv
+expression	counts	GBM_core_4datasets_final_annotation_malignant_states.h5ad

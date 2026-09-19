@@ -1,0 +1,17 @@
+condition	axis	n_interactions	n_unique_source_target	n_unique_lr	min_rank	median_rank
+GBM	malignant_or_cycling_to_malignant_or_cycling	292	25	64	1.1697195506351152e-06	0.016145106448818006
+GBM	microenvironment_to_malignant_or_cycling	155	15	41	6.58006795662552e-07	0.017523088793721966
+GBM	microenvironment_to_microenvironment	108	9	60	7.312065472479462e-08	0.014730225779558999
+GBM	malignant_or_cycling_to_microenvironment	107	15	34	6.139099162115369e-05	0.018508147362925855
+LGG	malignant_or_cycling_to_malignant_or_cycling	292	16	66	2.947986661446022e-07	0.010211037824848453
+LGG	malignant_or_cycling_to_microenvironment	138	8	58	0.00023865555821982485	0.01905067764474474
+LGG	microenvironment_to_malignant_or_cycling	122	8	40	2.6525479156539173e-06	0.01315364277456824
+LGG	microenvironment_to_microenvironment	73	4	51	0.0005174519200700432	0.014267291692430054
+ndGBM	malignant_or_cycling_to_malignant_or_cycling	427	25	75	1.6154587202726065e-08	0.011631278729779294
+ndGBM	microenvironment_to_malignant_or_cycling	336	15	101	1.033689158943887e-06	0.017394346288550466
+ndGBM	microenvironment_to_microenvironment	307	9	163	5.814829055943859e-07	0.015575214217585948
+ndGBM	malignant_or_cycling_to_microenvironment	267	15	81	1.0912787619565627e-05	0.017575648932535187
+rGBM	malignant_or_cycling_to_malignant_or_cycling	556	25	87	9.723641958645037e-09	0.01379153807762517
+rGBM	microenvironment_to_malignant_or_cycling	412	15	122	1.176302777700006e-06	0.013768967683000104
+rGBM	malignant_or_cycling_to_microenvironment	361	15	116	2.4283000511626234e-05	0.01650191298579624
+rGBM	microenvironment_to_microenvironment	347	9	210	5.141326410459368e-06	0.01567603401127776

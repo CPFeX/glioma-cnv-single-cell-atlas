@@ -1,0 +1,9 @@
+condition	checkpoint	expected_historical	observed	match
+GBM	n_cells	93563	93563	True
+GBM	n_celltypes	8	8	True
+LGG	n_cells	6333	6333	True
+LGG	n_celltypes	6	6	True
+ndGBM	n_cells	49830	49830	True
+ndGBM	n_celltypes	8	8	True
+rGBM	n_cells	33099	33099	True
+rGBM	n_celltypes	8	8	True

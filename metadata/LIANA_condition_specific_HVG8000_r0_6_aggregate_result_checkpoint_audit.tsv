@@ -1,0 +1,4 @@
+checkpoint	expected_historical	observed	match
+total_liana_rows	76170	76170	True
+total_prioritized_rows	4300	4300	True
+top_export_rows	2000	2000	True

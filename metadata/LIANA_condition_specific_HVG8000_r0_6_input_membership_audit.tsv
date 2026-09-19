@@ -1,0 +1,5 @@
+checkpoint	expected	observed	match
+input_n_obs	351427	351427	True
+input_n_vars	15176	15176	True
+canonical_cell_metadata_rows	351427	351427	True
+canonical_cell_ids_missing_from_h5ad	0	0	True

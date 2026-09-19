@@ -1,0 +1,5 @@
+condition	n_cells	selected_counts_nnz	source_counts_dtype	target_expression_dtype	estimated_expression_csr_gb	available_ram_gb_before_load	recommended_available_ram_gb	n_jobs
+GBM	93563	154466074	int32	float32	1.152	6.103	5.0	1
+LGG	6333	21399956	int32	float32	0.159	6.195	5.0	1
+ndGBM	49830	135280299	int32	float32	1.008	6.414	5.0	1
+rGBM	33099	118934826	int32	float32	0.886	6.866	5.0	1

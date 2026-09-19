@@ -1,0 +1,4 @@
+checkpoint	expected_historical	observed	match
+focused_rows	3465	3465	True
+candidate_rows	2302	2302	True
+candidate_summary_rows	475	475	True

@@ -1,0 +1,6 @@
+historical_label	canonical_label	condition_specific_status
+NonMalignant_oligodendrocyte_myelinating_reference_like	Oligodendrocyte_myelinating	included when n_cells>=50
+NonMalignant_mural_pericyte_fibroblast_like	Mural_Pericyte_Fibroblast	included when n_cells>=50
+NonMalignant_endothelial_reference_like	Endothelial	included when n_cells>=50
+NonMalignant_B_plasma_like	B_Plasma	excluded to preserve historical analysis membership
+NonMalignant_rare_mast_cell_like_low_count	Mast_cell	excluded to preserve historical analysis membership

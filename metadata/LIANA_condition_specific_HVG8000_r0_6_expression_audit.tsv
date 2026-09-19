@@ -1,0 +1,5 @@
+condition	n_cells	n_genes	n_celltypes	normalized_X_nnz	X_dtype	normalization_target_sum	transform
+GBM	93563	15176	8	154466074	float32	10000.0	log1p
+LGG	6333	15176	6	21399956	float32	10000.0	log1p
+ndGBM	49830	15176	8	135280299	float32	10000.0	log1p
+rGBM	33099	15176	8	118934826	float32	10000.0	log1p
