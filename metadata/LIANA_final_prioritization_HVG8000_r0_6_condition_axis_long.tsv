@@ -1,0 +1,17 @@
+condition	axis	n_interactions	n_unique_source_target	n_unique_lr	min_rank	median_rank	axis_display
+GBM	malignant_or_cycling_to_malignant_or_cycling	292	25	64	1.1697195506351152e-06	0.016145106448818	Malignant/cycling → malignant/cycling
+GBM	microenvironment_to_malignant_or_cycling	155	15	41	6.58006795662552e-07	0.0175230887937219	Microenvironment → malignant/cycling
+GBM	microenvironment_to_microenvironment	108	9	60	7.312065472479463e-08	0.0147302257795589	Microenvironment → microenvironment
+GBM	malignant_or_cycling_to_microenvironment	107	15	34	6.139099162115369e-05	0.0185081473629258	Malignant/cycling → microenvironment
+LGG	malignant_or_cycling_to_malignant_or_cycling	292	16	66	2.947986661446022e-07	0.0102110378248484	Malignant/cycling → malignant/cycling
+LGG	malignant_or_cycling_to_microenvironment	138	8	58	0.0002386555582198	0.0190506776447447	Malignant/cycling → microenvironment
+LGG	microenvironment_to_malignant_or_cycling	122	8	40	2.6525479156539173e-06	0.0131536427745682	Microenvironment → malignant/cycling
+LGG	microenvironment_to_microenvironment	73	4	51	0.00051745192007	0.01426729169243	Microenvironment → microenvironment
+ndGBM	malignant_or_cycling_to_malignant_or_cycling	427	25	75	1.6154587202726065e-08	0.0116312787297792	Malignant/cycling → malignant/cycling
+ndGBM	microenvironment_to_malignant_or_cycling	336	15	101	1.033689158943887e-06	0.0173943462885504	Microenvironment → malignant/cycling
+ndGBM	microenvironment_to_microenvironment	307	9	163	5.814829055943859e-07	0.0155752142175859	Microenvironment → microenvironment
+ndGBM	malignant_or_cycling_to_microenvironment	267	15	81	1.0912787619565628e-05	0.0175756489325351	Malignant/cycling → microenvironment
+rGBM	malignant_or_cycling_to_malignant_or_cycling	556	25	87	9.723641958645036e-09	0.0137915380776251	Malignant/cycling → malignant/cycling
+rGBM	microenvironment_to_malignant_or_cycling	412	15	122	1.176302777700006e-06	0.0137689676830001	Microenvironment → malignant/cycling
+rGBM	malignant_or_cycling_to_microenvironment	361	15	116	2.4283000511626234e-05	0.0165019129857962	Malignant/cycling → microenvironment
+rGBM	microenvironment_to_microenvironment	347	9	210	5.141326410459368e-06	0.0156760340112777	Microenvironment → microenvironment

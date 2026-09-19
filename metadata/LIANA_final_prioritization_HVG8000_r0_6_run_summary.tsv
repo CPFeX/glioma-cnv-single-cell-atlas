@@ -1,0 +1,15 @@
+item	value
+postprocessing_only	True
+liana_rerun	False
+canonical_input_audit_all_match	True
+historical_checkpoints_all_match	True
+global_celltypes_used	9
+global_top_biological_axes_saved	25
+condition_runs_completed	4
+condition_prioritized_rows	4300
+candidate_lr_condition_presence_rows	548
+candidate_lr_source_target_detail_rows	1298
+candidate_axes_prioritized	9
+figures_created	4
+interpretation_note	Candidate communication axes only; not functional proof and not replicate-aware differential communication.
+completed_at	2026-09-19T04:40:09

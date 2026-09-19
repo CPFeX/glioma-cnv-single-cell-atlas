@@ -1,0 +1,5 @@
+axis_display	GBM	LGG	ndGBM	rGBM	max_interactions
+Malignant/cycling → malignant/cycling	292	292	427	556	556
+Microenvironment → malignant/cycling	155	122	336	412	412
+Malignant/cycling → microenvironment	107	138	267	361	361
+Microenvironment → microenvironment	108	73	307	347	347

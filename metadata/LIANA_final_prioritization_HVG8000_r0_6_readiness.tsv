@@ -1,0 +1,11 @@
+item	value
+postprocessing_only	True
+liana_rerun	False
+global_input_notebook	27
+condition_input_notebook	28
+global_cell_counts_rows	9
+global_prioritized_lr_pairs	264
+condition_specific_runs	4
+condition_specific_prioritized_rows	4300
+condition_presence_rows	2450
+canonical_input_audit_all_match	True

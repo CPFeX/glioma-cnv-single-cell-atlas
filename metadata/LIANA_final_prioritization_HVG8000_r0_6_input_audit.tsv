@@ -1,0 +1,17 @@
+check	match	observed	expected
+global_celltypes_exact	True	9	9
+condition_celltypes_exact	True	8	8
+canonical_labels_only	True		
+global_cell_counts_match	True	True	True
+global_prioritized_rows	True	1384	1384
+global_unique_lr_pairs	True	264	264
+global_consistency_all_match	True	True	True
+condition_set_exact	True	GBM;LGG;ndGBM;rGBM	GBM;LGG;ndGBM;rGBM
+condition_runs_completed	True	4	4
+condition_prioritized_rows	True	4300	4300
+condition_presence_rows	True	2450	2450
+condition_prioritized_threshold	True	True	True
+condition_interaction_keys_unique_within_condition	True	0	0
+presence_interaction_keys_unique	True	0	0
+condition_aggregate_checkpoints	True	True	True
+condition_canonical_summary_complete	True	4	4
