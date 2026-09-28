@@ -5,14 +5,14 @@ type: software
 authors:
   - family-names: "Ostovar-Abarghouei"
     given-names: "Amirmohammad"
+  - family-names: "Abdolmaleki"
+    given-names: "Arash"
+  - family-names: "Hedayat-Evrigh"
+    given-names: "Nemat"
   - family-names: "Asadi"
     given-names: "Asadollah"
   - family-names: "Shamsazar"
     given-names: "Ali"
-  - family-names: "Abdolmaleki"
-    given-names: "Arash"
-  - family-names: "Hedayat-Evright"
-    given-names: "Nemat"
 version: 1.0.0
 repository-code: "https://github.com/CPFeX/glioma-cnv-single-cell-atlas"
 license: MIT
