@@ -1,0 +1,7 @@
+item	value
+full_anndata_loaded	False
+expression_matrix_loaded	False
+selected_cells	20000
+selected_expression_genes	0
+X_scVI_dimensions	(20000, 30)
+historical_sample_order_preserved	True

@@ -1,0 +1,6 @@
+malignant_state	AC-like/reactive	Hypoxia/stress	NPC/neuronal-like	OPC/NPC-like	Unassigned
+AC-like/reactive	30	0	0	0	2751
+Cycling candidate	0	0	0	0	4773
+Hypoxia/stress	0	30	0	0	4035
+NPC/neuronal-like	0	0	30	0	743
+OPC/NPC-like	0	0	0	90	7518

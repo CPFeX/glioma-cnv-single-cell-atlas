@@ -1,0 +1,6 @@
+item	value
+result_role	diagnostic_only
+current_latent_dpt_max_abs_diff	0.06597750050811768
+current_latent_dpt_median_abs_diff	0.0014544486498260512
+historical_pseudotime_replayed_for_S10	True
+interpretation	Current canonical X_scVI differs from the archived latent realization

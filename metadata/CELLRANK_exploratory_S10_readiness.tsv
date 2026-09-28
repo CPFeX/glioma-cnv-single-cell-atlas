@@ -1,0 +1,11 @@
+item	value	status
+input_h5ad	G:\Repository\glioma-cnv-single-cell-atlas\data\processed\integrated\GBM_core_4datasets_final_annotation_malignant_states.h5ad	found
+historical_reference	G:\Repository\glioma-cnv-single-cell-atlas\metadata\CELLRANK_exploratory_S10_historical_reference.tsv.gz	found
+full_h5ad_cells	351427	ok
+full_h5ad_genes	15176	ok
+historical_malignant_cells	161884	reference
+selected_cells	20000	exact_historical
+selected_celltypes	5	exact_historical
+scanpy_version	1.11.5	exact_historical
+anndata_version	0.12.7	exact_historical
+cellrank_version	2.3.2	exact_historical

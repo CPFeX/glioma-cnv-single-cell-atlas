@@ -1,0 +1,5 @@
+item	value
+transition_kernel_rerun	False
+historical_kernel	0.9*PseudotimeKernel + 0.1*ConnectivityKernel
+result_source	CELLRANK_exploratory_S10_historical_reference.tsv.gz
+reason	Archived S10 GPCCA and fate results are replayed exactly

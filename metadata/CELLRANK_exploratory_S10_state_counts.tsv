@@ -1,0 +1,6 @@
+malignant_state	observed_n_cells	expected_historical	match
+OPC_NPC_like_malignant	7608	7608	True
+cycling_malignant_candidate	4773	4773	True
+hypoxia_stress_malignant	4065	4065	True
+AC_like_reactive_malignant	2781	2781	True
+NPC_neuronal_like_malignant	773	773	True

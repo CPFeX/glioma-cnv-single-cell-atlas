@@ -1,0 +1,7 @@
+item	value
+gpcca_rerun	False
+historical_method	brandts
+historical_n_schur_components	12
+historical_n_macrostates	6
+result_source	CELLRANK_exploratory_S10_historical_reference.tsv.gz
+reason	Exact historical replay avoids the dense 20,000 x 20,000 Brandts allocation
