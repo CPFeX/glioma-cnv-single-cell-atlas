@@ -24,7 +24,8 @@ The raw GEO files and generated AnnData objects are intentionally excluded from 
 .
 ├── code/
 │   ├── 00_preprocessing/     # RAW reconstruction, dataset-specific QC, Scrublet diagnostics
-│   └── 01_main_analysis/     # 31 ordered analysis notebooks
+│   ├── 01_main_analysis/     # 31 ordered analysis notebooks
+│   └── validation/           # Patient-level sensitivity and other audit notebooks
 ├── config/                   # Example environment-variable configuration
 ├── data/                     # Local data layout only; large files are ignored
 ├── docs/                     # Run order, notebook mapping, validation, and cleaning report
@@ -38,7 +39,7 @@ The raw GEO files and generated AnnData objects are intentionally excluded from 
 
 ## Reproducibility status
 
-The public notebooks were cleaned for repository release:
+The initial repository preparation included the following steps. Later executed validation notebooks retain their recorded outputs; the list is not a claim that every current notebook is output-free:
 
 - machine-specific absolute paths were removed;
 - paths resolve from the repository root or `GLIOMA_PROJECT_ROOT`;
@@ -46,7 +47,7 @@ The public notebooks were cleaned for repository release:
 - Python code cells were checked for syntax validity;
 - input/output contracts and expected object dimensions were added;
 - the obsolete Enrichr branch was removed;
-- g:Profiler is retained as the online enrichment validation workflow;
+- g:Profiler is retained as an online enrichment annotation workflow;
 - CellRank is explicitly presented as exploratory analysis.
 
 Full end-to-end runtime validation still requires the original GEO-derived data, GENCODE v49, the CopyKAT R environment, and the package versions listed in [`environment/requirements.txt`](environment/requirements.txt).
@@ -130,12 +131,18 @@ The authoritative run order is stored in:
 
 Important boundaries:
 
-- Notebook 13 prepares CopyKAT microbatches and generates R runner scripts.
-- Run the generated CopyKAT jobs before notebook 14.
+- Notebooks 04–05 retain a fresh integration/clustering reproducibility audit. Notebook 06 transfers the archived canonical embeddings and 18-cluster partition to the article branch; the fresh run yielded 15 clusters at resolution 0.6.
+- Notebook 13 documents the CopyKAT microbatch design. Notebook 14 integrates checked canonical archived calls from 176 microbatches; a modern CopyKAT rerun is not required for the article branch. See [`COPYKAT_REPRODUCIBILITY.md`](COPYKAT_REPRODUCIBILITY.md).
 - Notebook 24 requires internet access to the g:Profiler API.
 - Notebooks 26 and 28 require LIANA.
 - Notebook 30 requires Squidpy.
-- Notebook 31 is exploratory CellRank analysis and is not RNA-velocity or lineage-tracing evidence.
+- Notebook 31 replays mapped archived exploratory CellRank outputs and does not refit the historical kernel or GPCCA model. It is not RNA-velocity or lineage-tracing evidence.
+
+### 3. Source-backed patient-level sensitivity analyses
+
+The atlas contains 83 samples from 57 independent patients. Regional samples are aggregated within patients; reused numeric DS3 identifiers across diagnostic groups do not establish longitudinal pairing. Four notebooks under `code/validation` document the initial patient-condition diagnostic, corrected source-backed design, composition/program reanalysis, and malignant pseudobulk reanalysis.
+
+See [`docs/PATIENT_LEVEL_REPRODUCIBILITY.md`](docs/PATIENT_LEVEL_REPRODUCIBILITY.md) for the execution order, required inputs, statistical qualifications, and archived result package. The checked package in [`supplementary/patient_level_sensitivity/`](supplementary/patient_level_sensitivity/) contains the 39 authoritative saved outputs used in the revised manuscript. It is tracked explicitly outside the ignored working-output directory. No inference was rerun while preparing this release.
 
 ## Expected major dimensions
 
@@ -158,13 +165,13 @@ Assertions in the notebooks stop execution when critical dimensions or required 
 
 ## Large files and generated outputs
 
-Do not commit raw count matrices, AnnData objects, model checkpoints, CopyKAT outputs, figures, logs, or generated result tables. The repository `.gitignore` excludes these classes of files.
+Raw single-cell count matrices, AnnData objects, model checkpoints, figures and working logs remain excluded. Explicit release exceptions include the canonical CopyKAT archive and the checked patient-level result package under `supplementary/patient_level_sensitivity/`. The latter includes small aggregated patient pseudobulk matrices, result tables and provenance; it does not include raw single-cell matrices. Working outputs under `metadata/sensitivity/` remain ignored.
 
 ## Citation
 
 Please cite the associated article and the archived software release. Machine-readable citation metadata are provided in [`CITATION.cff`](CITATION.cff).
 
-The Zenodo DOI will be added after the first public GitHub release is archived.
+The primary workflow version 1.0.1 is archived at [10.5281/zenodo.23015399](https://doi.org/10.5281/zenodo.23015399). The prepared version 1.1.0 adds the later patient-level sensitivity code and checked result package. Its version-specific DOI is pending publication; the 1.0.1 DOI must not be presented as the archive for these later additions. See [`docs/RELEASE_NOTES_v1.1.0.md`](docs/RELEASE_NOTES_v1.1.0.md).
 
 ## License
 
